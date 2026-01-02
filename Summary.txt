@@ -1,0 +1,19 @@
+<b>The round has ended!</b>
+<size=85%><color=#EC2222>SCPS WIN</color></size>
+<size=85%><color=#5d87d2>FOUNDATION WINS</color></size>
+<size=85%><color=#608f38>INSURGENCY WINS</color></size>
+STALEMATE
+<color=#EC2222>异常項目侵佔了設施。緊急應變措施已啟動</color>
+<color=#5d87d2>所有對安全的威脅都已無效化，Site-02又恢復了安全</color>
+<color=#608f38>基金會安保部隊被徹底消滅，特工們正隨時待命準備出動</color>
+Site-02基本得到了控制，但並非沒有付出代價，最終贏家難以確定
+<color=#FF8E00>🏃 [summary_d_escaped] 個D級人員逃走了</color>
+<color=#FFFF7C>👓 [summary_s_escaped] 個科學家倖存下來</color>
+<color=#EC2222>Alpha核彈頭引爆並終結了 [summary_warhead_kills] 條人命</color>
+<color=#EC2222>Alpha核彈頭</color>在這次任務中未被引爆
+這次任務耗時 [summary_round_minutes] 分 [summary_round_seconds] 秒
+<color=#EC2222>🌀 [summary_scp_terminated] 個 SCP 重新收容</color>
+下回合將在 [summary_next_round_countdown] 秒後開始
+<color=#EC2222>SCP共殺死了 [summary_scpfrags] 名人類</color>
+<size=85%><color=#FF59CA>FLAMINGOS WIN</color></size>
+<color=#FF59CA>其它的陣營全軍覆沒，火烈鳥們取得了完全勝利</color>

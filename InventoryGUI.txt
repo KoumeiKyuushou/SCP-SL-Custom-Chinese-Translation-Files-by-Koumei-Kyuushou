@@ -1,0 +1,30 @@
+<size=125%><color=#FFFFFF>{0}</color></size>/{1} - {2}
+傷害
+射速
+腰射精度
+瞄準精度
+重量
+長度
+丟棄:
+頭盔減傷
+背甲減傷
+耐力消耗
+移動速度
+物品上限:
+彈藥上限:
+共計[amount]
+護甲穿透
+奔跑時射擊精度
+按下 <color=#ff80bc><b>[key]</b></color> 鍵發出奸笑聲
+<voffset=-2.5em><size=150%>剩餘電量：<size=175%><b>[percent]</b></size></voffset>
+<voffset=-2.5em><size=150%>剩餘彈藥：<size=175%><b>[rem]</b></size></voffset>
+<size=750%>\n</size>按住 <b>[primary]</b> 鍵使用快速射擊模式
+按住 <b>[secondary]</b> 鍵使用高能蓄力模式
+<size=750%>\n</size><color=#00ff00><size=125%></size>按下 </color>\n<size=80%><b>[key]</b> 鍵切換射擊模式</size>
+<size=750%>\n</size>按下 <b>[key]</b> 鍵進行攻擊
+按住  <b>[key]</b> 鍵進行蓄能
+<size=750%>\n</size><color=#00ff00><size=125%>放電已就緒，按下 </size></color>\n<size=80%><b>[primary]</b> 鍵發射</size>
+<size=750%>\n</size><color=yellow>⚠</color> - MICRO H.I.D. 損壞 - <color=yellow>⚠</color>\n<size=80%>功能受限</size>
+<color=red>SCP-127</color>的力量會隨著您與它牽絆的加深而變得更強
+使用$方向鍵$或$[up], [left], [down], 以及[right]鍵$來操縱蛇的移動
+按下 [key] 鍵發出奸笑聲

@@ -1,0 +1,7 @@
+<color=#7cf58d><b>淨化程式將開始於</b></color>
+<color=red>⚠<b>-請離開該區域-</b>⚠</color>
+<color=red>⚠<b>-請撤離-</b>⚠</color>
+<b>威脅分析進行中</b>
+<b>安全系統準備中</b>
+<b>系統準備就緒</b>
+<color=red>⚠<b>-初始化程序 p-b-3-</b>⚠</color>

@@ -1,0 +1,59 @@
+0~<b><color=#ab99bf>💳 清潔工 💳</color></b> 鎖匙卡
+1~<b><color=#ffff7c>💳 科學家 💳</color></b> 鎖匙卡
+2~<b><color=#FF8E00>💳 研究主任 💳</color></b> 鎖匙卡
+3~<b><color=#2e694e>💳 區域總監 💳</color></b> 鎖匙卡
+4~<b><color=#556278>💳 設施警衛 💳</color></b> 鎖匙卡
+5~<b><color=#70c3ff>💳 MTF列兵 💳</color></b> 鎖匙卡
+6~<b><color=#287d1e>💳 收容工程師 💳</color></b> 鎖匙卡
+7~<b><color=#5d87d2>💳 MTF特工 💳</color></b> 鎖匙卡
+8~<b><color=#003dca>💳 MTF指揮官 💳</color></b> 鎖匙卡
+9~<b><color=#F00>💳 設施總監 💳</color></b> 鎖匙卡
+10~<b><color=#608f38>📟 混沌分裂者 📟</color></b> 駭入裝置
+11~💳 <b>O5</b> 💳 鎖匙卡
+12~<b><color=#ab99bf>📻 無線電 📻</color></b>~<b>級別  距離  空閒耗電  通話耗電</b>\nSR      108m     0.5/m       40/m\nMR     180m     1.2/m       60/m\nLR    1080m     4.5/m     120/m\nUR    7200m   13.5/m    240/m
+13~<b>\uf05b COM-15 \uf05b</b>
+14~<b><color=#FF82F0>\uf0fa 急救包 \uf0fa</color></b>~<color=#f57caa>💗 </color>恢復 65 HP\n<color=#ffb4ff>♻️ </color>消除<b><color=#F00>流血</color></b>和<b><color=#F00>燒傷</color></b>狀態~<color=#FF82F0>醫療物品
+15~<b>🔦 手電筒 🔦</b>~上帝說:“要有光！”
+16~<b><color=#4ABAFF>⚡ Micro H.I.D. ⚡</color></b>\n<size=75%>實驗性武器</size></color>~<size=135%>專門為收容异常而設計的重型放電裝置
+17~<b><color=#35e900>💊 SCP-500 💊</color></b>~<color=#f57caa>💗 </color>恢復 100 HP\n<color=#f57caa>✚ </color>10 秒內恢復 100 HP\n<color=#ffb4ff>♻️ </color>消除共8種正負狀態\n和兩個負面狀態降級~<color=#35e900>萬靈藥
+18~<b><color=#ffb13e>\uf72f SCP-207 \uf72f</color></b>~<color=#f57caa>💗 </color>恢復 30 HP\n<color=#767676>🏃 </color><size=90%>增加移動速度</size>\n<color=#767676>🏃 </color>不消耗體力\n<color=#f57caa>💔 </color>同時損害你的身體\n\n請勿與下列物品混合使用\n<color=#35e900>SCP-1853</color>\n<color=#ffb13e>\uf72f 702-PCS \uf72f</color></size>~<color=#ffb13e>瓶裝可樂
+20~<b><color=#0096ff>\uf05b MTF-Ԑ-11-SR \uf05b</color></b>
+21~<b><color=#70c3ff>\uf05b Crossvec \uf05b</color>
+23~<b><color=#556278>\uf05b FSP-9 \uf05b</color>
+24~<b><color=#16853d>\uf05b LGC5 \uf05b</color>
+25~<b><color=#34d2ff>💥 高爆手雷 💥</color></b>~<color=orange>💥 </color>對<color=red>SCP</color>造成 900 點傷害\n<color=#8079FF>\ue06c </color>對<color=#8079FF>休謨盾</color>造成兩倍傷害 \n<color=orange>🔥 </color>灼傷受傷的玩家\n\uf2f2 3.5 秒延遲引爆~<color=#34d2ff>戰術道具
+26~<b><color=#34d2ff>💣 閃光彈 💣</color></b>~<color=#5B6370>\uf06e </color>讓敵方玩家致盲最多 5 秒\n\uf2f2 2.8 秒延遲引爆~<color=#34d2ff>戰術道具
+30~<b>\uf05b COM-18 \uf05b</b>
+31~<b><color=#F00>⚽ SCP-018 ⚽</color></b>~<size=85%><color=#ffeb00>👥 </color>友軍誤傷容忍 - 10 秒 \n💨 反彈力越來越大\n⚽ 對<color=red>SCP</color>造成十倍傷害 \n<color=orange>💥</color> 80 秒後爆炸 </size>~<color=#F00>超級彈力球
+32~<b><color=#35e900>🎩 SCP-268 🎩</color></b>~◌ 隱身 15 秒\n任何交互行為都將打斷其效果\n不是所有東西都看不見你~<color=#35e900>忽視之帽
+33~<b><color=#FF82F0>💉 腎上腺素 💉</color></b>~<color=#55da09>⛨ </color>給予臨時 40 AHP\n<color=#767676>🏃 </color>完全恢復體力</b>\n<color=#767676>🏃 </color>不消耗體力 - 8 秒\n<color=#ffb4ff>♻️ </color>消除<b><color=#F00>失憶</color>、<color=#F00>心臟驟停</color></b>和<b><color=#F00>腦震蕩</color></b>狀態~<color=#FF82F0>醫療物品
+34~<b><color=#FF82F0>\uf490 止痛藥 \uf490</color></b>~<color=#f57caa>✚</color> 15 秒內恢復 50 HP\n<color=#ffb4ff>♻️ </color>消除<b><color=#F00>腦震蕩</color></b>狀態</b>~<color=#FF82F0>醫療物品
+35~<b>💿 硬幣 💿</b>~你為什麼會帶著這個東西...
+36~<b><color=#ab99bf>\uf3ed P.C.V. - 輕型 \uf3ed</color></b>
+37~<b><color=#ab99bf>\uf3ed P.C.V. - 標準 \uf3ed</color></b>
+38~<b><color=#ab99bf>\uf3ed P.C.V. - 重型 \uf3ed</color></b>
+39~<b><color=#006326>\uf05b .44 Revolver \uf05b</color></b>
+40~<b><color=#008f1c>\uf05b AK \uf05b</color></b>
+41~<b><color=#006326>\uf05b DBB \uf05b</color></b>
+42~<color=purple><b>🍬 SCP-330 🍬</b></color>~<size=25%><color=#FFFFFF>一個裝著以下糖果的袋子
+43~<b><color=#ffb13e>💡 SCP-2176 👻</color></b>~<color=#f5f17c>💡 </color>停電 - 13 秒 \n<color=#b97cf5>🚪 </color> 封鎖 - 13 秒\n注意：易碎品\n破碎後會干擾電子設備~<color=#ffb13e>鬼燈™
+44~<b><color=#ffb13e>⚱ SCP-244-A ⚱</color></b>~<b>☁️ </b>製造一團冰霧 \n❄️ 霧會凍死人~<color=#ffb13e>冰霧罐
+45~<b><color=#ffb13e>⚱ SCP-244-B ⚱</color></b>~<b>☁️ </b>製造一團冰霧 \n❄️ 霧會凍死人~<color=#ffb13e>冰霧罐
+46~<b><color=#35e900>\uf492 SCP-1853 \uf492</color></b>~<size=80%><color=#95D600>\uf05b </color>降低ADS不準確性、後坐力和拔槍時間 - 20%\n<color=#95D600>\uf05b </color>降低換彈時間 - 35%\n<color=#95D600>💳 </color>降低物品使用時間 - 20%\n<color=#95D600>💳 </color>降低拾物時間 - 50%</size>\n<size=75%>在生命受到威脅時提高身體機能\n\n請勿與下列物品混合使用\n<color=#35e900>SCP-207</color>\n<color=#ffb13e>\uf72f 702-PCS \uf72f</color></size>~<color=#35e900>表現增強劑
+47~<b><color=#4ABAFF>\uf05b 3-X 分子裂解者 \uf05b</color></b>\n<size=75%>實驗性武器</size></color>~一把能發射强大的分解能量光束的奇怪武器
+48~<b><color=#34d2ff>\uf05b COM-45 \uf05b</color></b>\n<size=75%>全自動手槍</size></color>
+49~<b><color=#35e900>🔊 SCP-1576 🔊</color></b>~👻 允許暫時與死者交流 30 秒\n一段時間後可再次使用~<color=#35e900>愛迪生死者通訊器
+50~<b><color=#4ABAFF>🍭 囚鳥 🍭</color></b>\n<size=75%>實驗性武器</size></color>~<size=75%>這是什麼玩意？！</size>
+51~<b><color=#ffb13e>\uf72f 702-PCS \uf72f</color></b>~<color=#767676>🐌 </color><size=90%>移動減緩</size>\n<color=#f57caa>✚ </color>持續緩慢恢復 HP\n<color=#55da09>⛨ </color>給予 75 AHP\n<size=75%>在緊要關頭救你一命\n\n請勿與下列物品混合\n<color=#35e900>SCP-1853</color>\n<color=#ffb13e>\uf72f SCP-207 \uf72f</color></size>~<color=#ffb13e>樂可裝瓶
+52~<b><color=#003dca>\uf05b MTF-Ԑ-11-MG \uf05b</color></b>
+53~<b><color=#34d2ff>\uf05b A7 \uf05b</color></b>
+54~<b>🏮 手提燈 🏮</b>~一個經典的煤油手提燈，上面刻有“Daniel”的名字
+55~<b><color=#ffb13e>\uf729 SCP-1344 \uf729</color></b>~<size=80%><color=#ffb4ff>\uf06e </color>透視</size>\n\n<b><color=#D12A2A>摘下後果自負</color></b>~<color=#ffb13e>吸睛護目鏡
+56~<b>雪球</b>~聖誕節快樂！
+57~<b>煤塊</b>~聖誕節快樂！
+58~<b><color=#d4f6ff>煤塊?</color></b>~聖誕節快樂？
+59~<b><color=#FF59CA>📼 磁帶播放機📼</color></b>~裡面裝有一份沒有標籤的磁帶\n求求不要播放它，求求你了
+61~<b><color=#d4f6ff>\uf09d 地表通行證 \uf09d</color></b>~可用於開啟出口重型閘門的一次性通行憑證
+62~<b><color=#35e900>\uf05b SCP-127 \uf05b</color></b>
+68~<b><b><color=#35e900>🔪 SCP-1509 🔪</color></b>~\n一刀造成 50 HP傷害\n<color=#8079FF>\ue06c </color>給予 <color=#8079FF>35 休謨盾</color>\n<color=red>👻 </color>殺死一名人類在他死亡的位置復活你的隊友~<color=#35e900>重生之刃
+69~<b><color=#F00>\uf72f SCP-021-J \uf72f</color></b>~一股黑暗且圍險的能量從水憑中散發出來\n你感覺也許吳法收榮它\n你敢喝下它嗎？~<color=#F00>邪惡 :(

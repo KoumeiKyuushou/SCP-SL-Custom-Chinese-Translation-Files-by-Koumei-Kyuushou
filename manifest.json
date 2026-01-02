@@ -1,0 +1,20 @@
+{
+	"Name": "繁體中文（台灣）///  Koumei的客製化翻譯文件 - 3.7.0",
+	"Authors": [
+		"Tychus_驍奕",
+                "Koumei Kyuushou"
+	],
+	"InterfaceLocales": [
+		"zh-TW",
+		"zh-Hant"
+	],
+	"SystemLocales": [
+		"zh-TW",
+		"zh-HK",
+		"zh-MO",
+		"zh-Hant"
+	],
+	"ForcedFontOrder": [
+		"NotoSansCJKtc-RegularDynamic"
+	]
+}

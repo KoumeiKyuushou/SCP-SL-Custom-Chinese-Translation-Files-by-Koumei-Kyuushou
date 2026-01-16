@@ -1,32 +1,32 @@
-<b>「<color=#5d87d2>刷新</color>|<color=#FF9999>大波</color>」</b>- 戰術節日小分隊Epsilon-11代號<color=#5d87d2><b>[designation]</b></color>小隊已進入工作坊。<split>建議所有剩餘的小精靈們到附近的薑餅屋避難，直至小分隊讓節日氛圍充滿設施。<split>
-現時還有<color=#F00><b>[count]個節日掃興者</b></color>等待被重新收容。
-現時還有<color=#F00><b>1個節日掃興者</b></color>等待被重新收容。
-設施內仍然存在影響安全的潜在<color=#608f38><b>重大威脅</b></color>——請謹慎行事。
+<b>「<color=#5d87d2>刷新</color>|<color=#FF9999>大波</color>」</b>- 機動特遣隊Epsilon-11代號<color=#5d87d2><b>  [designation] </b></color>小隊已進入設施。<split>建議所有倖存人員繼續執行標準疏散方案，直至MTF小隊抵達您所處的位置。<split>
+現時還有<color=#F00><b> [count] 個SCP</b></color>等待被重新收容。
+現時還有<color=#F00><b> 1 個SCP</b></color>等待被重新收容。
+設施內仍然存在影響安全的潜在<color=#608f38><b> 重大威脅 </b></color>——請謹慎行事。
 被成功消滅，死亡原因不明。
-已被 <color=#F00><b>SCP-[scp]</b></color>消滅。
-已被<color=#2497f0><b>特斯拉電門</b></color>成功消滅。
-已被<color=#FF7F29><b>Alpha核彈頭</b></color>成功消滅。
-已被<color=#ffff7c><b>科學家</b></color>重新收容。
-已被<color=#ff8000><b>D級人員</b></color>重新收容。
-已被<color=#608f38><b>混沌分裂者</b></color>重新收容。
-<color=#F00><b>SCP-[scp]</b></color>
-已被成功收容，<b>收容方式不明</b>。
-已被<color=#5d87d2><b>[designation]</b></color>成功收容。
-已被<color=#82BD71><b>輕收容區淨化程式</b></color>清除。
-<b><color=#91FFE6>「\uf0ad」</color></b>- <color=#91FFE6><b>[current]/[max]</b></color> 的應急發電站已被啟動。
+已被<color=#F00><b>  SCP-[scp] </b></color>消滅。
+已被<color=#2497f0><b> 特斯拉電門 </b></color>成功消滅。
+已被<color=#FF7F29><b> Alpha核彈頭 </b></color>成功消滅。
+已被<color=#ffff7c><b> 科學家 </b></color>重新收容。
+已被<color=#ff8000><b> D級人員 </b></color>重新收容。
+已被<color=#608f38><b> 混沌分裂者 </b></color>重新收容。
+<color=#F00><b> SCP-[scp]  </b></color>
+已被成功收容，<b> 收容方式不明 </b>。
+已被<color=#5d87d2><b> [designation] </b></color>成功收容。
+已被<color=#82BD71><b> 輕收容區淨化程式 </b></color>清除。
+<b><color=#91FFE6>「\uf0ad」</color></b>- <color=#91FFE6><b> [current]/[max] </b></color> 的應急發電站已被啟動。
 <split><color=#91FFE6><b>所有的應急發電站已被成功啟動。</b></color>
 <b><color=#91FFE6>「\uf0ad」</color></b> - <color=#91FFE6><b>超載倒數計時3… 2… 1…</b></color>
 <b><color=#91FFE6>「\uf0ad」</color></b> - 設施已恢復正常運作模式。
 全體人員請注意。<split><color=#82BD71><b>輕收容區淨化程式</b></color> 將在倒數計時 <color=#A2FF87><b>11分45秒</b></color> 後進行。<split>所有生物必須立即轉移，以避免被清除。
 <b><color=#82BD71>「⚠️」</color></b>- 危險，<color=#82BD71><b>輕收容區淨化程式</b></color> 將在倒數計時<color=#FFD68F><b> [time]分鐘 </b></color>後開始。
-<b><color=#82BD71>「⚠️」</color></b>- 危險，<color=#82BD71><b>輕收容區淨化程式</b></color> 將在倒數計時<color=#FF9999><b>1分鐘</b></color>後開始。
+<b><color=#82BD71>「⚠️」</color></b>- 危險，<color=#82BD71><b>輕收容區淨化程式</b></color> 將在倒數計時<color=#FF9999><b> 1分鐘 </b></color>後開始。
 <b><color=#82BD71>「⚠️」</color></b>- 危險，<color=#82BD71><b>輕收容區淨化程式</b></color> 將在倒數計時<color=#D12A2A><b> 30秒 </b></color>後開始。<split><color=#D12A2A>所有檢查點的門禁已永久開啟，請立即疏散撤離。</color>
 <b><color=#82BD71>「🔊」</color></b>- 輕收容區域已被封鎖即將準備淨化清除。<split>現在開始清除所有生物。
-<color=#FF7F29>「\uf7ba」</color>- <color=#FF7F29><b>ALPHA核彈頭緊急引爆程式</b></color> 已啟動。<split>地下部分設施將在倒數計時 </color><color=#FF9999><b>[time]秒</b></color> 後被引爆。
+<color=#FF7F29>「\uf7ba」</color>- <color=#FF7F29><b>ALPHA核彈頭緊急引爆程式</b></color> 已啟動。<split>地下部分設施將在倒數計時</color><color=#FF9999><b> [time]秒 </b></color>後被引爆。
 <b><color=#ff4545>「❌」</color></b>- 引爆程式被取消，正在重啓系統。
-<color=#FF7F29>「\uf7ba」</color>- <color=#FF7F29><b>ALPHA核彈頭緊急引爆程式</b></color> 已重新啟動，倒計時 </color><color=#D12A2A><b>[time]秒</b></color><color=#ffb13e></color> 。
-已被<color=#ab99bf> <b>棉花糖人</b> </color>消滅。
-<b>「<color=#5d87d2>刷新</color>|<color=#FFD68F>小波</color>」- </b>九尾狐增援部隊代號 <color=#5d87d2><b>[designation]</b></color> 已進入設施。<split>
-<b>「<color=#608f38>刷新</color>|<color=#FF9999>大波</color>」- </b>全體人員請注意， 在A大門處偵測到 <color=#608f38><b>[number]名混沌分裂者</b></color> 活動。<split>已授權使用致命武力。
-<b>「<color=#608f38>刷新</color>|<color=#FFD68F>小波</color>」- </b>已在A大門處確認新增 <color=#608f38><b>[number]名混沌分裂者</b></color> 活動 。<split>防禦模型：已更新。
-<color=#FF4545>「\uf7ba」</color>- 站點恢復失敗——<color=#FF4545><b>終焉協議已啟動。</b></color><split>本設施的地下區域將在倒計時<color=#D12A2A><b> [time]秒</b></color> 後自毀。
+<color=#FF7F29>「\uf7ba」</color>- <color=#FF7F29><b>ALPHA核彈頭緊急引爆程式</b></color> 已重新啟動，倒計時</color><color=#D12A2A><b> [time]秒 </b></color><color=#ffb13e></color>。
+已被<color=#ab99bf><b> 棉花糖人 </b></color>消滅。
+<b>「<color=#5d87d2>刷新</color>|<color=#FFD68F>小波</color>」- </b>九尾狐增援部隊代號<color=#5d87d2><b> [designation] </b></color>已進入設施。<split>
+<b>「<color=#608f38>刷新</color>|<color=#FF9999>大波</color>」- </b>全體人員請注意， 在A大門處偵測到<color=#608f38><b> [number]名混沌分裂者 </b></color>活動。<split>已授權使用致命武力。
+<b>「<color=#608f38>刷新</color>|<color=#FFD68F>小波</color>」- </b>已在A大門處確認新增<color=#608f38><b> [number]名混沌分裂者 </b></color>活動 。<split>防禦模型：已更新。
+<color=#FF4545>「\uf7ba」</color>- 站點恢復失敗——<color=#FF4545><b>終焉協議已啟動。</b></color><split>本設施的地下區域將在倒計時<color=#D12A2A><b> [time]秒 </b></color>後自毀。

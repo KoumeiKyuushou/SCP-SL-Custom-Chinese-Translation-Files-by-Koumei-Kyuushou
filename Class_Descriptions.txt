@@ -1,30 +1,30 @@
-<b><color=red>塑像 - 最初的作品</color></b> \n<size=20%>殺死所有人，不要讓任何人逃走\n與其他 <color=#F00><b>節日掃興者</b></color> 合作\n<color=#FFFF00>報告指出物件攻擊時會折斷顱底頸部或勒頸致窒息死亡\n</color></size>
+<b><color=red>塑像 - 最初的作品</color></b> \n<size=20%>殺死所有人，不要讓任何人逃走\n與其他 <color=#F00><b>SCP</b></color> 合作\n</size>
 <color=#ff8000><b>D級人員</b></color>\n<size=20%>設法逃出設施\n與 <color=#608f38><b>混沌分裂者</b></color> 合作\n躲開其他陣營\n</size>
-你很快就會重生\n
-<b><color=#3451b3>詭厄老者</color></b> \n<size=20%>殺死所有人，不要讓任何人逃走\n與其他 <color=#F00><b>節日掃興者</b></color> 合作\n<color=#FFFF00>SCP-106在攻擊時，會試圖透過破壞主要器官、肌肉群或肌腱使獵物失去行動能力\n然後將殘廢的獵物拉入其口袋空間\n</color></size>
-<color=#00afff><b>戰術節日小分隊專家</b></color>\n<size=20%>奪回設施控制權\n幫助 <b><color=#ffff7c>科學家</color></b> 逃走\n消滅其他目標\n</size>
-<b><color=#a9de2c>瘟疫醫生</color></b> \n<size=20%>殺死所有人，不要讓任何人逃走\n與其他 <color=#F00><b>節日掃興者</b></color> 合作\n<color=#FFFF00>SCP-049能夠透過直接的皮膚接觸使生物的所有生物學功能停止\n</color></size>
+<size=20%>你很快就會重生\n</size>
+<b><color=#3451b3>詭厄老者</color></b> \n<size=20%>殺死所有人，不要讓任何人逃走\n與其他 <color=#F00><b>SCP</b></color> 合作\n</size>
+<color=#00afff><b>九尾狐小隊 專家</b></color>\n<size=20%>奪回設施控制權\n幫助 <b><color=#ffff7c>科學家</color></b> 逃走\n消滅其他目標\n</size>
+<b><color=#a9de2c>瘟疫醫生</color></b> \n<size=20%>殺死所有人，不要讓任何人逃走\n與其他 <color=#F00><b>SCP</b></color> 合作\n</size>
 <color=#ffff7c><b>科學家</b></color>\n<size=20%>設法逃離設施\n與 <color=#5d87d2><b>MTF</b></color> 合作\n躲開其他陣營\n</size>
-<b><color=#8080FF>過時AI</color></b> \n<size=20%>殺死所有人，不要讓任何人逃走\n與其他 <color=#F00><b>節日掃興者</b></color> 合作\n<color=#FFFF00>在任何情況下，SCP-079均不得被連接電話線、網路或插座內\n任何其他設備或媒體皆不可連接SCP-079\n</color></size>
+<b><color=#8080FF>過時AI</color></b> \n<size=20%>殺死所有人，不要讓任何人逃走\n與其他 <color=#F00><b>SCP</b></color> 合作\n</size>
 <color=#608f38><b>混沌分裂者 征召兵</b></color>\n<size=20%>佔領設施奪取控制權\n幫助 <color=#ff8000><b>D級人員</b></color> 逃出\n消滅其他目標\n</size>
-<b><color=#7d060a>羞澀的人</color></b> \n<size=20%>殺死所有人，不要讓任何人逃走\n與其他 <color=#F00><b>節日掃興者</b></color> 合作\n<color=#FFFF00>任何人直接的、透過錄影或相片觀看SCP-096的臉部時\n項目會進入嚴重的情緒崩潰\n</color></size>
-<b><color=#e03d0b>“被治愈者”</color></b> \n<size=20%>殺死所有人，不要讓任何人逃走\n與其他 <color=#F00><b>節日掃興者</b></color> 合作\n</size>
-<color=#0096ff><b>戰術節日小分隊中士</b></color>\n<size=20%>奪回設施控制權\n幫助 <color=#ffff7c><b>科學家</b></color> 逃出\n消滅其他目標\n</size>
-<color=#003dca><b>戰術節日小分隊指揮官</b></color>\n<size=20%>奪回設施控制權\n幫助 <color=#ffff7c><b>科學家</b></color> 逃出\n消滅其他目標\n</size>
-<color=#70c3ff><b>戰術節日小分隊列兵</b></color>\n<size=20%>奪回設施控制權\n幫助 <color=#ffff7c><b>科學家</b></color> 逃出\n消滅其他目標\n</size>
+<b><color=#7d060a>羞澀的人</color></b> \n<size=20%>殺死所有人，不要讓任何人逃走\n與其他 <color=#F00><b>SCP</b></color> 合作\n</size>
+<b><color=#e03d0b>“被治愈者”</color></b> \n<size=20%>殺死所有人，不要讓任何人逃走\n與其他 <color=#F00><b>SCP</b></color> 合作\n</size>
+<color=#0096ff><b>九尾狐小隊 中士</b></color>\n<size=20%>奪回設施控制權\n幫助 <color=#ffff7c><b>科學家</b></color> 逃出\n消滅其他目標\n</size>
+<color=#003dca><b>九尾狐小隊 指揮官</b></color>\n<size=20%>奪回設施控制權\n幫助 <color=#ffff7c><b>科學家</b></color> 逃出\n消滅其他目標\n</size>
+<color=#70c3ff><b>九尾狐小隊 列兵</b></color>\n<size=20%>奪回設施控制權\n幫助 <color=#ffff7c><b>科學家</b></color> 逃出\n消滅其他目標\n</size>
 <color=#ff00b0><b>教程角色</b></color>\n<size=20%>根據遊戲提示來完成你的目標\n</size>
 <color=#556278><b>設施警衛</b></color>\n<size=20%>奪回設施控制權\n幫助 <color=#ffff7c><b>科學家</b></color> 逃出\n消滅其他目標\n</size>
-<b><color=#636363>引渡他聲</color></b> \n<size=20%>殺死所有人，不要讓任何人逃走\n與其他 <color=#F00><b>節日掃興者</b></color> 合作\n<color=#FFFF00>SCP-939誘捕獵物的主要方法為模仿先前人類受害者的聲音與談話內容\n但項目也有模仿其他物種的記錄和高活躍度的夜間狩獵記錄\n</color></size>
+<b><color=#636363>引渡他聲</color></b> \n<size=20%>殺死所有人，不要讓任何人逃走\n與其他 <color=#F00><b>SCP</b></color> 合作\n</size>
 -
 <color=#008f1c><b>混沌分裂者 步槍手</b></color>\n<size=20%>佔領設施奪取控制權\n幫助 <color=#ff8000><b>D級人員</b></color> 逃出\n消滅其他目標\n</size>
 <color=#006326><b>混沌分裂者 掠奪者</b></color>\n<size=20%>佔領設施奪取控制權\n幫助 <color=#ff8000><b>D級人員</b></color> 逃出\n消滅其他目標\n</size>
 <color=#16853d><b>混沌分裂者 壓制者</b></color>\n<size=20%>佔領設施奪取控制權\n幫助 <color=#ff8000><b>D級人員</b></color> 逃出\n消滅其他目標\n</size>
 <color=#00ffff><b>Overwatch</b></color>
 <color=#000000><b>Filmmaker</b></color>
-<b><color=#bf5e5e>會不會太冷顫了點？</color></b> \n<size=20%>殺死所有人，不要讓任何人逃走\n與其他 <color=#F00><b>節日掃興者</b></color> 合作\n<color=#FFFF00>倘若SCP-3114看見潛在目標時\n便會選擇以最短路徑往目標方向前進：途中僅會避開無法穿越的障礙物\n一旦抵達目標位置，便會使用雙手抓住目標並對其掐喉\n</color></size>
+<b><color=#bf5e5e>會不會太冷顫了點？</color></b> \n<size=20%>殺死所有人，不要讓任何人逃走\n與其他 <color=#F00><b>SCP</b></color> 合作\n</size>
 -
-<b><color=#fb57c6>粉紅火烈鳥</color></b> \n<size=20%>攻擊你見到的任何東西\n與你的 <color=#FF59CA><b>族群</b></color> 合作\n<color=#FFFF00>於2012年8月3日，克萊縣地區接收到一連串的911通報專線\n這些專線通話被記錄到有著一名男性的哭泣聲，和一些含糊不清的語句\n由於通話本身的性質，它們被視作濫發處理，一位特工前往撥號地點調查\n到達現場時，特工回報了PoI-1507正在試著對一名男性進行急救，但是過程並不樂觀\n男性隨後被辨識為Mark Farman，並且身上有著疑似是SCP-1507造成的穿刺傷\n</color></size>
-<b><color=#E94BB7>粉紅火烈鳥</color></b> \n<size=20%>攻擊你見到的任何東西\n與你的 <color=#FF59CA><b>族群</b></color> 合作\n<color=#FFFF00>於2012年8月3日，克萊縣地區接收到一連串的911通報專線\n這些專線通話被記錄到有著一名男性的哭泣聲，和一些含糊不清的語句\n由於通話本身的性質，它們被視作濫發處理，一位特工前往撥號地點調查\n到達現場時，特工回報了PoI-1507正在試著對一名男性進行急救，但是過程並不樂觀\n男性隨後被辨識為Mark Farman，並且身上有著疑似是SCP-1507造成的穿刺傷\n</color></size>
-<b><color=#B08B68>僵屍火烈鳥</color></b> \n<size=20%>殺死所有人，不要讓任何人逃走\n與其他 <color=#F00><b>節日掃興者</b></color> 合作\n</size>
-<color=#0096FF><b>九尾鳥</b></color>\n<size=20%>奪回設施控制權\n幫助 <color=#ffff7c><b>科學家</b></color> 逃出\n消滅其他目標\n</size>
-<color=#006326><b>混沌鳥</b></color>\n<size=20%>佔領設施奪取控制權\n幫助 <color=#ff8000><b>D級人員</b></color> 逃出\n消滅其他目標\n</size>
+<b><color=#fb57c6>粉紅火烈鳥</color></b> \n<size=20%>攻擊你見到的任何東西\n與你的 <color=#FF59CA><b>族群</b></color> 合作\n</size>
+<b><color=#E94BB7>粉紅火烈鳥</color></b> \n<size=20%>攻擊你見到的任何東西\n與你的 <color=#FF59CA><b>族群</b></color> 合作\n</size>
+<b><color=#B08B68>僵屍紅鶴</color></b> \n<size=20%>殺死所有人，不要讓任何人逃走\n與其他 <color=#F00><b>節日掃興者</b></color> 合作\n</size>
+<color=#0096FF><b>九尾狐小隊 紅鶴</b></color>\n<size=20%>奪回設施控制權\n幫助 <color=#ffff7c><b>科學家</b></color> 逃出\n消滅其他目標\n</size>
+<color=#006326><b>混沌分裂者 紅鶴</b></color>\n<size=20%>佔領設施奪取控制權\n幫助 <color=#ff8000><b>D級人員</b></color> 逃出\n消滅其他目標\n</size>

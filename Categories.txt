@@ -1,0 +1,10 @@
+<color=#FFFFFF><b>無</b></color>
+<color=#FFFFFF><b>鎖匙卡</b></color>
+<color=#FFFFFF><b>醫療物品</b></color>
+<color=#FFFFFF><b>無線電</b></color>
+<color=#FFFFFF><b>槍械</b></color>
+<color=#FFFFFF><b>投擲物</b></color>
+<color=#FFFFFF><b>SCP物品</b></color>
+<color=#FFFFFF><b>實驗武器</b></color>
+<color=#FFFFFF><b>彈藥</b></color>
+<color=#FFFFFF><b>防彈衣</b></color>

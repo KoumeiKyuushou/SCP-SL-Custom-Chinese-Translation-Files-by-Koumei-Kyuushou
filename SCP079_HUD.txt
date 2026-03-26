@@ -81,7 +81,7 @@ $<color=#ffa500>\uf06e </color><color=#8080FF>入侵掃描器</color>$ 現在可
 <color=red>選擇需要掃描的區域
 <color=red>\uf00d</color> - <color=red>掃描結果：</color>$沒有檢測到目標$
 將在<color=#8080FF>[time]秒</color>後重試…
-<color=green>\uf00c</color> - <color=green>掃描結果： </color>在<color=red>‘$[camera_name]$’檢</color>測到$[role]$（[zone]）
+<color=green>\uf00c</color> - <color=green>掃描結果： </color>在<color=red>‘$[camera_name]$’</color>檢測到$[role]$（[zone]）
 <color=#8080FF>下一次掃描時間： [time]秒</color>
 <color=#8080FF>掃描中…</color>
 <size=130%><color=red><b>掃描程式已暫停</b></color></size>

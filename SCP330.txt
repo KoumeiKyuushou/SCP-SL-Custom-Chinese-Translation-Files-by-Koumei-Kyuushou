@@ -1,22 +1,22 @@
 糖果
 <b><color=purple>🌈</color> <color=#8ad8ff>彩</color><color=#f53b5a>虹</color><color=#cb5cfa>糖</color></color><color=#89f059>果<color=purple>🍬</b>
 \n\n\n<size=75%><color=#f47fff>一塊硬邦邦的糖，充滿了各種味道</color></size></b>
-\n\n\n\n<size=150%><color=#b40404>✚ </color><color=#FFFFFF>恢復 15 HP\n<color=#dca43c>🏃 </color><color=#FFFFFF>不消耗體力 - 5 秒\n<color=purple>⛨ </color><color=#FFFFFF>軀幹減傷 5%\n<color=#2a731f>⛨ </color><color=#FFFFFF>減輕負面效果程度 - 10 秒\n<color=#36a7d6>⛨ </color><color=#FFFFFF>給予 20  AHP（10 秒後衰減）</color></size>
+\n\n\n\n<size=150%><color=#b40404>✚ </color><color=#FFFFFF>恢復 <color=#f57caa>15 HP</color>\n<color=#dca43c>🏃 </color><color=#FFFFFF>不消耗體力 - 5 秒\n<color=purple>⛨ </color><color=#FFFFFF>軀幹減傷 5%\n<color=#2a731f>⛨ </color><color=#FFFFFF>減輕負面效果程度 - 10 秒\n<color=#36a7d6>⛨ </color><color=#FFFFFF>給予 <color=#55da09>20 AHP</color>（10 秒後衰減）</color></size>
 <color=#dca43c><b>🍋 黃色糖果 🍬</b></color>
 \n<size=75%><color=#dca43c>濃郁的檸檬香氣撲鼻而來使你有點猶豫</color></size>
 \n\n<size=150%><color=#dca43c>🏃 </color><color=#FFFFFF>恢復 25% 體力 \n<color=#dca43c>🏃 </color><color=#FFFFFF>不消耗體力 - 8秒\n<color=#dca43c>🏃 </color><color=#FFFFFF>移動速度提升 10% - 8 秒</color></size>
 <color=purple><b>🍇 紫色糖果 🍬</b></color>
 \n<size=75%><color=purple>飽滿多汁的葡萄氣味，你的口水開始止不住往下流</color></size>
-\n\n\n\n<size=150%><color=purple>⛨ </color><color=#FFFFFF>減傷 40% - 15 秒\n<color=purple>✚ </color>10 秒內恢復 15 HP</size>
+\n\n\n\n<size=150%><color=purple>⛨ </color><color=#FFFFFF>減傷 40% - 15 秒\n<color=purple>✚ </color>10 秒內恢復 <color=#f57caa>15 HP</color></size>
 <color=#b40404><b>🍒 紅色糖果 🍬</b></color>
-\n<size=75%><color=#b40404>一股濃烈的櫻桃氣味充滿了房間。 這味道有點…<i>太</i>濃烈了</color></size>
-<color=#b40404>✚ </color><color=#FFFFFF>5 秒內恢復 45 HP
+\n<size=75%><color=#b40404>一股濃烈的櫻桃氣味充滿了房間，這味道有點…<i>太</i>濃烈了</color></size>
+<color=#b40404>✚ </color><color=#FFFFFF>5 秒內恢復 <color=#f57caa>45 HP</color>
 <color=#2a731f><b>🌿 綠色糖果 🍬</b></color>
 \n<size=75%><color=#2a731f>一股難聞的草藥氣味從糖果中散發出來</color></size>
-\n\n<size=150%><color=#2a731f>⛨ </color><color=#FFFFFF>30 秒內免疫負面狀態\n<color=#2a731f>✚ <color=#FFFFFF>80 秒內恢復 120 HP</color></size>
+\n\n<size=150%><color=#2a731f>⛨ </color><color=#FFFFFF>30 秒內免疫負面狀態\n<color=#2a731f>✚ <color=#FFFFFF>80 秒內恢復 <color=#f57caa>120 HP</color></size>
 <color=#36a7d6><b>🍬 藍色糖果 🍬</b></color>
 \n<size=75%><color=#36a7d6>聞起來香軟又甜蜜，就像是棉花糖</color></size>
-<color=#55da09>⛨ </color><color=#FFFFFF>額外30 AHP</color>
+<color=#36a7d6>⛨ </color><color=#FFFFFF>額外 <color=#55da09>30 AHP</color>
 <color=#f47fff><b>🍓 粉色糖果 🍬</b></color>
 \n<size=75%><color=#f47fff >草莓的香氣就和它外表一樣柔和</color></size>
 <color=#f47fff>- 數 據 删 除 -</color>

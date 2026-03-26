@@ -1,9 +1,9 @@
-SCIENTIST
-JANITOR
-RESEARCH SUPERVISOR
-CONT. ENGINEER
-SECURITY GUARD    
-ZONE MANAGER
-FACILITY MANAGER
-REMAINING USES: 1
-ACCESS REVOKED
+ 科 學 家
+ 清 潔 工
+ 研 究 主 任
+<size=3.15> 收容工程師</size>
+<size=3.15> 安 保 警 衛</size>
+<size=3.4>區 域 總 監</size>
+<size=3.4>設 施 總 監</size>
+剩餘使用次數: 1
+權限已被撤銷

@@ -1,9 +1,9 @@
  (%time% \uf2f2)
  (+%influence% 👊)
 <color=%factionColor%>%timeDisplay%%influenceDisplay%</color>
-<size=150%><mark=#ff80bc11><color=#ff80bc>⚠️ - 已完成的目標將顯示在這裏！- ⚠️</color></mark></size>
+<size=150%><mark=#ff80bc11><color=#ff80bc>⚠️ - 已完成的目標將顯示在這裡！- ⚠️</color></mark></size>
 「<color=%achieverColor%>\uf714</color>」 - <color=%achieverColor%>%achieverName%</color> 殺死了 <color=%victimColor%>%victimName%</color>
 「<color=%achieverColor%>💥</color>」 - <color=%achieverColor%>%achieverName%</color> 對 <color=%victimColor%>%victimName%</color>造成了有效傷害
-「<color=%achieverColor%>🏃</color>」 - <color=%achieverColor%>%achieverName%</color> 成功逃出了 <color=#0096ff>Site-02</color>
+「<color=%achieverColor%>🏃</color>」 - <color=%achieverColor%>%achieverName%</color> 成功逃離了 <color=#0096ff>Site-02</color>
 「<color=%achieverColor%>\uf0e7</color>」 - <color=%achieverColor%>%achieverName%</color> 成功啟動了一個 <color=#8080FF>發電機</color>
 「<color=%achieverColor%>\uf780</color>」 - <color=%achieverColor%>%achieverName%</color> 拾取了 <color=red>%itemName%</color>

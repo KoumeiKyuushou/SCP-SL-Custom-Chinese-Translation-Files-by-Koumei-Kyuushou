@@ -1,0 +1,32 @@
+<b>[<color=#5d87d2>刷新</color>|<color=#FF9999>大波</color>]</b> - 机动特遣部队Epsilon-11代号<color=#5d87d2><b>[designation]</b></color>小队已进入设施。<split>建议所有幸存人员继续执行标准疏散方案，直至MTF小队抵达您所处的位置。<split>
+目前还有<color=#EC2222><b>[count]个SCP</b></color>等待被重新收容。
+目前还有<color=#EC2222><b>1個SCP</b></color>等待被重新收容。
+设施内仍然存在影响安全的潜在<color=#608f38><b>重大威胁</b></color>——请谨慎行事。
+已被成功消灭，死亡原因不明。
+已被<color=#EC2222><b>SCP-[scp]</b></color>消灭。
+已被<color=#2497f0><b>特斯拉电門</b></color>成功消灭。
+已被<color=#FF7F29><b>Alpha核弹头</b></color>成功消灭。
+已被<color=#ffff7c><b>科学家</b></color>重新收容。
+已被<color=#ff8000><b>D级人员</b></color>重新收容。
+已被<color=#608f38><b>混沌分裂者</b></color>重新收容。
+<color=#EC2222><b>SCP-[scp]</b></color>
+已被成功收容，<b>收容方式不明</b>。
+已被<color=#5d87d2><b>[designation]</b></color>成功收容。
+已被<color=#82BD71><b>轻收容净化系统</b></color>清除。
+<b><color=#91FFE6>[\uf0ad]</color></b> - <color=#91FFE6><b>[current]/[max]</b></color>的应急发电站已被激活。
+<split><color=#91FFE6><b>所有的应急发电站已被成功激活。</b></color>
+<b><color=#91FFE6>[\uf0ad]</color></b> - <color=#91FFE6><b>电力过载倒计时3… 2… 1…</b></color>
+<b><color=#91FFE6>[\uf0ad]</color></b> - 设施已恢复正常运作模式。
+<b><color=#82BD71>[\ue075]</color></b> - 全体人员请注意。<split><color=#82BD71><b>轻收容区净化程序</b></color>将在倒计时 <color=#A2FF87><b>11分45秒</b></color>后进行。<split>所有生物必须立即转移，以避免被清除。
+<b><color=#82BD71>[\ue075]</color></b> - 危险，<color=#82BD71><b>轻收容区净化程序</b></color>将在倒计时<color=#FFD68F><b>[time]分鐘</b></color>后开始。
+<b><color=#82BD71>[\ue075]</color></b> - 危险，<color=#82BD71><b>轻收容区净化程序</b></color>将在倒计时<color=#FF9999><b>1分鐘</b></color>后开始。
+<b><color=#82BD71>[\ue075]</color></b> - 危险，<color=#82BD71><b>轻收容区净化程序</b></color>将在倒计时<color=#D12A2A><b>30秒</b></color>后开始。<split><color=#D12A2A>所有检查点的门禁已永久开启，请立即疏散撤离。</color>
+<b><color=#82BD71>[\ue075]</color></b> - 轻收容区域已被封锁即将准备净化清除。<split>现在开始清除所有生物。
+<color=#FF7F29>[\uf7ba]</color> - <color=#FF7F29><b>ALPHA核弹头紧急引爆程序</b></color>已启动。<split>本设施的地下区域将在倒计时</color><color=#FF9999><b>[time]秒</b></color>后自毁。
+<b><color=#ff4545>[\uf00d]</color></b> - 引爆程序被取消，正在重启系统。
+<color=#FF7F29>[\uf7ba]</color> - <color=#FF7F29><b>ALPHA核弹头紧急引爆程序</b></color>已重新启动，倒计时</color><color=#D12A2A><b>[time]秒</b></color><color=#ffb13e></color>。
+已被<color=#ab99bf><b>棉花糖人</b></color>消灭。
+<b>[<color=#5d87d2>刷新</color>|<color=#FFD68F>小波</color>] - </b>九尾狐增援部队代號已进入设施。<split>
+<b>[<color=#608f38>刷新</color>|<color=#FF9999>大波</color>] - </b>全体人员请注意，在A大门处侦测到<color=#608f38><b>[number]名混沌分裂者</b></color>。<split>已授权使用致命武力。
+<b>[<color=#608f38>刷新</color>|<color=#FFD68F>小波</color>] - </b>已在A大门处确认新增<color=#608f38><b>[number]名混沌分裂者</b></color> 。<split>防御模型：已更新。
+<color=#FF4545>[\uf06a]</color> - 站点恢复失败——<color=#FF4545><b>终焉协议已启动。</b></color><split>本设施的地下区域将在倒计时<color=#D12A2A><b>[time]秒</b></color>后自毁。

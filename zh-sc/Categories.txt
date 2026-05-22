@@ -1,0 +1,10 @@
+<b>无</b>
+<color=#FFB273><b>钥匙卡</b></color>
+<color=#FF82F0><b>医疗物品</b></color>
+<color=#ab99bf><b>无线电</b></color>
+<color=#CDE9FA><b>枪械</b></color>
+<color=#34d2ff><b>战术道具</b></color>
+<color=#F00><b>SCP物品</b></color>
+<color=#4ABAFF><b>实验性武器</b></color>
+<color=#BF965C><b>弹药</b></color>
+<color=#ab99bf><b>防弹衣</b></color>

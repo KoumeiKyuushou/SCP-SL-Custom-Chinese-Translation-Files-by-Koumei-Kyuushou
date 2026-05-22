@@ -1,0 +1,39 @@
+糖果
+<b><color=purple>🌈</color> <color=#8ad8ff>彩</color><color=#f53b5a>虹</color><color=#cb5cfa>糖</color></color><color=#89f059>果<color=purple>🍬</b>
+\n\n\n<size=75%><color=#f47fff>一块硬邦邦的糖，充满了各种味道</color></size></b>
+\n\n\n\n<size=150%><color=#b40404>✚ </color><color=#FFFFFF>恢复 <color=#f57caa>15 HP</color>\n<color=#dca43c>🏃 </color><color=#FFFFFF>不消耗体力 - 5 秒\n<color=purple>⛨ </color><color=#FFFFFF>躯干减伤 5%\n<color=#2a731f>⛨ </color><color=#FFFFFF>减轻负面效果程度 - 10 秒\n<color=#36a7d6>⛨ </color><color=#FFFFFF>给予 <color=#55da09>20 AHP</color>（10 秒后衰减）</color></size>
+<color=#dca43c><b>🍋 黄色糖果 🍬</b></color>
+\n<size=75%><color=#dca43c>浓郁的柠檬香气扑鼻而来使你有点犹豫</color></size>
+\n\n<size=150%><color=#dca43c>🏃 </color><color=#FFFFFF>恢复 25% 体力 \n<color=#dca43c>🏃 </color><color=#FFFFFF>不消耗体力 - 8秒\n<color=#dca43c>🏃 </color><color=#FFFFFF>移动速度提升 10% - 8 秒</color></size>
+<color=purple><b>🍇 紫色糖果 🍬</b></color>
+\n<size=75%><color=purple>饱满多汁的葡萄气味。你的口水开始止不住往下流</color></size>
+\n\n\n\n<size=150%><color=purple>⛨ </color><color=#FFFFFF>减伤 40% - 15 秒\n<color=purple>✚ </color>10 秒內恢复 <color=#f57caa>15 HP</color></size>
+<color=#b40404><b>🍒 紅色糖果 🍬</b></color>
+\n<size=75%><color=#b40404>一股浓烈的樱桃气味充满了房间，这有点...<i>太</i>劲了</color></size>
+<color=#b40404>✚ </color><color=#FFFFFF>5 秒內恢复 <color=#f57caa>45 HP</color>
+<color=#2a731f><b>🌿 绿色糖果 🍬</b></color>
+\n<size=75%><color=#2a731f>一股难闻的草药气味从糖果中散发出来</color></size>
+\n\n<size=150%><color=#2a731f>⛨ </color><color=#FFFFFF>30 秒內免疫负面状态\n<color=#2a731f>✚ <color=#FFFFFF>80 秒內恢复 <color=#f57caa>120 HP</color></size>
+<color=#36a7d6><b>🍬 蓝色糖果 🍬</b></color>
+\n<size=75%><color=#36a7d6>闻起来香软又甜美，就像是棉花糖</color></size>
+<color=#36a7d6>⛨ </color><color=#FFFFFF>额外 <color=#55da09>30 AHP</color>
+<color=#f47fff><b>🍓 粉色糖果 🍬</b></color>
+\n<size=75%><color=#f47fff >草莓的香气就和它外表一样柔和</color></size>
+<color=#f47fff>- 数 据 删 除 -</color>
+<color=orange><b>🍊 橘色糖果 🍬</b></color>
+\n<size=75%><color=orange>这颗柑橘香味的糖果散发出诱人的光泽。</color>
+<color=#FFFFFF><b>👻 白色糖果 🍬</b></color>
+<color=#FFFFFF>包装纸裹着散发出明显的糖果香味，但裡里面似乎沒有糖果…
+​
+<color=#808080><b>🍬 灰色糖果 🍬</b></color>
+\n<size=75%><color=#808080><b>这颗重的出奇的糖果散发出淡淡的铅味</b></color>
+​
+
+<color=#43464b><b>🍬 黑色糖果 🍬</b></color>
+\n<size=75%><color=#43464b>你在碗的界限之外取出了这颗糖，你记得无数次尝过它，却又想不起是什么滋味
+<color=#FFFFFF>随机获得以下效果：\n给予二到四种糖果效果、随机传送\n在糖果袋中生成两颗黑色糖果、瞬间暴毙\n瞬间爆炸、在十个正负面效果中给予一到三种不同的效果
+<color=#523a28><b☕️ 棕色糖果 🍬</b></color>
+\n<size=75%><color=#523a28><b>熟悉的咖啡香味吸引着你</b></color>
+​
+<color=red><b>💀 恶魔糖果 💀</b></color>
+\n<size=75%><color=red>这颗糖果充满邪恶的力量</color>

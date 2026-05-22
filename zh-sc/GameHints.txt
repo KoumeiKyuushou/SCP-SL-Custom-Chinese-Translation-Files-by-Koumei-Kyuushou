@@ -1,0 +1,6 @@
+<color=red>拒绝访问</color>
+达到可持有的<b><color=#BF965C> [type] 弹药 </color></b>上限\n<b><color=yellow><size=75%>最多 [max_type_count] 发</size></color></b>
+已经达到可持有的<b><color=#BF965C> [type] 弹药 </color></b>上限\n<b><color=yellow><size=75%>共 [max_type_count] 发</size></color></b>
+你最多可持有<b><color=yellow> [max_type_count] 件</color></b> [type]
+已达到 [type] 的可持有上限\n<b><color=yellow><size=75%> 最多 [max_type_count] 个</size></color></b>
+你最多可携带<b><color=yellow> [max_item_count] 件物品</color></b>

@@ -36,4 +36,5 @@
 ## ⚖️ 免責聲明
 
   <font color="red">**非官方文本**：本專案為第三方客製化翻譯檔，與 Northwood Studios（SCP: Secret Laboratory 官方開發團隊）無關。</font>
+  
   <font color="red">**風險自負**：本翻譯檔僅供交流使用。因使用、修改或分發本檔案所產生的任何遊戲崩潰、檔案受損或相關爭議，請自行承擔風險，專案作者概不負責。</font>

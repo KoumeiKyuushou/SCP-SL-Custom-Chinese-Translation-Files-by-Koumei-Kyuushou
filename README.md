@@ -3,7 +3,7 @@
   使用前請閱讀使用前須知 / 使用前请阅读使用前须知
 
   <details>
-<summary>點擊展開使用前須知 - 繁體中文</summary>
+<summary>點擊展開使用前須知 - **繁體中文**</summary>
 
 ## ℹ️ 說明
 
@@ -38,7 +38,7 @@
 </details>
 
   <details>
-<summary>点击展开使用前须知 - 简体中文</summary>
+<summary>点击展开使用前须知 - **简体中文**</summary>
 
 ## ℹ️ 说明
 
@@ -85,6 +85,6 @@
 
 # ⬇️ 想立即試試嗎？
 
-[點擊這裡下載最新的 繁體中文 版本](https://github.com/KoumeiKyuushou/SCP-SL-Custom-Chinese-Translation-Files-by-Koumei-Kyuushou/releases/download/v3.9.0/zh_tc_bykoumei_3.9.0t01_14.2.6.zip)。
+**繁** [點擊這裡下載最新的 **繁體中文** 版本](https://github.com/KoumeiKyuushou/SCP-SL-Custom-Chinese-Translation-Files-by-Koumei-Kyuushou/releases/download/v3.9.0/zh_tc_bykoumei_3.9.0t01_14.2.6.zip)。
 
-[点击这里下载最新的 简体中文 版本](https://github.com/KoumeiKyuushou/SCP-SL-Custom-Chinese-Translation-Files-by-Koumei-Kyuushou/releases/download/v3.9.0/zh_sc_bykoumei_3.9.0s01_14.2.6.zip)。
+**简** [点击这里下载最新的 **简体中文** 版本](https://github.com/KoumeiKyuushou/SCP-SL-Custom-Chinese-Translation-Files-by-Koumei-Kyuushou/releases/download/v3.9.0/zh_sc_bykoumei_3.9.0s01_14.2.6.zip)。

@@ -1,5 +1,5 @@
 <p align="center">
-  <img width="500" alt="osu! logo" src="./Assets/logo/logo.png">
+  <img width="500" alt="logo" src="./Assets/logo/logo.png">
 </p>
 
   使用前請閱讀使用前須知 / 使用前请阅读使用前须知

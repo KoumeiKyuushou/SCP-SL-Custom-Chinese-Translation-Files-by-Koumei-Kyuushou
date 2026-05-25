@@ -213,11 +213,7 @@
 
 重生時防止遮擋，但又不失原版訊息。
 
-
-> [!NOTE]
-> 
 > 僅限人類，不影響SCP。
-
 
 ![001](./Assets/Features/1.png)
 
@@ -225,11 +221,7 @@
 
 詳細的功能描述與按物品類型的顏色標記，每個SCP物品有獨特顏色標記。
 
-
-> [!NOTE]
-> 
 > 詳細的功能來源於[官方Wiki](https://en.scpslgame.com/index.php?title=Main_Page)，可能有誤或過時。
-
 
 <div style="display: flex; gap: 10px; align-items: center;">
   <img src="./Assets/Features/2.png" style="max-width: 48%; height: auto;" alt="002">

@@ -230,6 +230,8 @@
   <img src="./Assets/Features/3.png" style="max-width: 48%; height: auto;" alt="003">
 </div>
 
+</details>
+
 
 <br>
 

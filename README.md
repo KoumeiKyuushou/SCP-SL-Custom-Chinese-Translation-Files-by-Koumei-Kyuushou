@@ -10,14 +10,10 @@
 [![youtube](https://img.shields.io/badge/YouTube-九霄鵼冥Koumei-FF1F1F?style=flat)](https://www.youtube.com/@Koumei-Kyuushou)
 ![qq](https://img.shields.io/badge/在QQ上下載或回報問題-739337627-FFFFFF?style=flat)
 
-<br>
-
 ## ⚠️ 使用前請閱讀《使用前須知》
 
   <details>
 <summary>點擊展開使用前須知 - 繁體中文</summary>
-    
-<br>
     
 ## ℹ️ 說明
 
@@ -53,7 +49,7 @@
 
 ![步驟6](./Assets/How-to-use/6.png)
 
------------------------------
+<br>
 
 ## 🛜 中國大陸的網路問題
   如果你無法或很難訪問Github，可以加入QQ群聊下載或回報
@@ -62,7 +58,7 @@
   
   進群代碼 **0558341**
 
------------------------------
+<br>
 
 ## ⚖️ 免責聲明
 
@@ -76,6 +72,8 @@
 
 </details>
 
+<br>
+
   <details>
 <summary>点击展开使用前须知 - 简体中文</summary>
 
@@ -85,7 +83,7 @@
   
   如果你想造访“SCP:SL Custom Translation Files by Lambda”，[点击这里前往](https://github.com/Corporal1Lambda/SCP-SL-Custom-Translation-Files)。
 
------------------------------
+<br>
 
 ## 📖 如何使用？
 
@@ -113,7 +111,7 @@
 
 ![步骤6](./Assets/How-to-use/6.png)
 
------------------------------
+<br>
 
 ## 🛜 中国大陆的网络问题
   如果你无法或很难访问Github，可以加入QQ群聊下载或反馈
@@ -122,7 +120,7 @@
   
   进群代码 **0558341**
 
------------------------------
+<br>
 
 ## ⚖️ 免责声明
 
@@ -136,7 +134,7 @@
 
 </details>
 
------------------------------
+<br>
 
 # ⬇️ 想立即試試嗎？
 

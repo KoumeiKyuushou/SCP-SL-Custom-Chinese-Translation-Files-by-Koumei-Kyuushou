@@ -130,3 +130,8 @@
 **繁** [點擊這裡下載最新的 **繁體中文** 版本](https://github.com/KoumeiKyuushou/SCP-SL-Custom-Chinese-Translation-Files-by-Koumei-Kyuushou/releases/download/v3.9.0/zh_tc_bykoumei_3.9.0t01_14.2.6.zip)
 
 **简** [点击这里下载最新的 **简体中文** 版本](https://github.com/KoumeiKyuushou/SCP-SL-Custom-Chinese-Translation-Files-by-Koumei-Kyuushou/releases/download/v3.9.0/zh_sc_bykoumei_3.9.0s01_14.2.6.zip)
+
+-----------------------------
+By Koumei Kyuushou
+
+[![Contributors](https://contrib.rocks/image?repo=KoumeiKyuushou/SCP-SL-Custom-Chinese-Translation-Files-by-Koumei-Kyuushou)](https://github.com/KoumeiKyuushou/SCP-SL-Custom-Chinese-Translation-Files-by-Koumei-Kyuushou/graphs/contributors)

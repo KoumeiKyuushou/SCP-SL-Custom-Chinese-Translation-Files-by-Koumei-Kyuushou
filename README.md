@@ -6,9 +6,9 @@
 
 [![release](https://img.shields.io/badge/最新版本-v3.9.0-3F7ED4?style=flat)](https://github.com/KoumeiKyuushou/SCP-SL-Custom-Chinese-Translation-Files-by-Koumei-Kyuushou/releases/tag/v3.9.0)
 [![preview](https://img.shields.io/badge/上一個預覽版（舊的）-v3.9.0A-FFCB33?style=flat)](https://github.com/KoumeiKyuushou/SCP-SL-Custom-Chinese-Translation-Files-by-Koumei-Kyuushou/releases/tag/previewA3.9.0)
-[![bilibili](https://img.shields.io/badge/我的bilibili頻道-九霄鵼冥Koumei-FF9EF0?style=flat)](https://space.bilibili.com/173589887)
-[![youtube](https://img.shields.io/badge/我的YouTube頻道-九霄鵼冥Koumei-FF1F1F?style=flat)](https://www.youtube.com/@Koumei-Kyuushou)
-![qq](https://img.shields.io/badge/在QQ上下載與回報問題-739337627-FFFFFF?style=flat)
+[![bilibili](https://img.shields.io/badge/bilibili-九霄鵼冥Koumei-FF9EF0?style=flat)](https://space.bilibili.com/173589887)
+[![youtube](https://img.shields.io/badge/YouTube-九霄鵼冥Koumei-FF1F1F?style=flat)](https://www.youtube.com/@Koumei-Kyuushou)
+![qq](https://img.shields.io/badge/在QQ上下載或回報問題-739337627-FFFFFF?style=flat)
 
 ## ⚠️ 使用前請閱讀《使用前須知》
 

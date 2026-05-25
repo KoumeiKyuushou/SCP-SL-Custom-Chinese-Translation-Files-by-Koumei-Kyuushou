@@ -225,10 +225,16 @@
 
 > 詳細的功能來源於[官方Wiki](https://en.scpslgame.com/index.php?title=Main_Page)，可能有誤或過時。
 
-<div style="display: flex; gap: 10px; align-items: center;">
-  <img src="./Assets/Features/2.png" style="max-width: 48%; height: auto;" alt="002">
-  <img src="./Assets/Features/3.png" style="max-width: 48%; height: auto;" alt="003">
-</div>
+<table border="0" width="100%">
+  <tr>
+    <td align="center" width="50%" style="border: none; background: none;">
+      <img src="./Assets/Features/2.png" style="max-width: 100%; height: auto;" alt="002">
+    </td>
+    <td align="center" width="50%" style="border: none; background: none;">
+      <img src="./Assets/Features/3.png" style="max-width: 100%; height: auto;" alt="003">
+    </td>
+  </tr>
+</table>
 
 </details>
 

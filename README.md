@@ -5,7 +5,7 @@
  # <p align="center">KOUMEI的中文客製化翻譯文件</p>
 
 [![release](https://img.shields.io/badge/最新版本-v3.9.0-3F7ED4?style=flat)](https://github.com/KoumeiKyuushou/SCP-SL-Custom-Chinese-Translation-Files-by-Koumei-Kyuushou/releases/tag/v3.9.0)
-[![preview](https://img.shields.io/badge/上一個預覽版（舊的）-v3.9.0A-E0B536?style=flat)](https://github.com/KoumeiKyuushou/SCP-SL-Custom-Chinese-Translation-Files-by-Koumei-Kyuushou/releases/tag/previewA3.9.0)
+[![preview](https://img.shields.io/badge/上一個預覽版（舊的）-v3.9.0A-FFCB33?style=flat)](https://github.com/KoumeiKyuushou/SCP-SL-Custom-Chinese-Translation-Files-by-Koumei-Kyuushou/releases/tag/previewA3.9.0)
 
 ## ⚠️ 使用前請閱讀《使用前須知》
 

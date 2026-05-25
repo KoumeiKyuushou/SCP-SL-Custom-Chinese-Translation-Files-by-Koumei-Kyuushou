@@ -9,20 +9,18 @@
 [![bilibili](https://img.shields.io/badge/bilibili-九霄鵼冥Koumei-FF9EF0?style=flat)](https://space.bilibili.com/173589887)
 [![youtube](https://img.shields.io/badge/YouTube-九霄鵼冥Koumei-FF1F1F?style=flat)](https://www.youtube.com/@Koumei-Kyuushou)
 ![qq](https://img.shields.io/badge/在QQ上下載或回報問題-739337627-FFFFFF?style=flat)
-
+<br>
 ## ⚠️ 使用前請閱讀《使用前須知》
 
   <details>
 <summary>點擊展開使用前須知 - 繁體中文</summary>
-
+<br>
 ## ℹ️ 說明
 
   這是最初基於“SCP:SL Custom Translation Files by Lambda”的中文客製化翻譯檔，目前很多內容已經與其不同，並朝著不同方向發展，所以這不是“SCP:SL Custom Translation Files by Lambda”的中文版本！該翻譯檔開放隨意修改及二次分發；該翻譯檔僅供交流使用，因修改或分發所產生的任何問題，請自行承擔風險。
   
   如果你想造訪“SCP:SL Custom Translation Files by Lambda”，[點擊這裡前往](https://github.com/Corporal1Lambda/SCP-SL-Custom-Translation-Files)。
-
------------------------------
-
+<br>
 ## 📖 如何使用？
 
 1️⃣ 將下載的壓縮檔解壓縮；

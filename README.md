@@ -2,7 +2,7 @@
   <img width="400" alt="logo" src="./Assets/logo/T-logo.png">
 </p>
 
-  <p align="center">Koumei的中文客製化翻譯文件</p>
+ # <p align="center">Koumei的中文客製化翻譯文件</p>
 
 -----------------------------
 

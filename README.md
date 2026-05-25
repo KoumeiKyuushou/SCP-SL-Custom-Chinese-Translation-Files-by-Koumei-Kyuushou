@@ -217,7 +217,7 @@
 
 > 僅限人類，不影響SCP。
 
-![001](./Assets/Features/1.png)
+![txt](./Assets/Features/1.png)
 
 <br>
 
@@ -228,10 +228,10 @@
 <table border="0" width="100%">
   <tr>
     <td align="center" width="50%" style="border: none; background: none;">
-      <img src="./Assets/Features/2.png" style="max-width: 100%; height: auto;" alt="002">
+      <img src="./Assets/Features/2.png" style="max-width: 100%; height: auto;" alt="i01">
     </td>
     <td align="center" width="50%" style="border: none; background: none;">
-      <img src="./Assets/Features/3.png" style="max-width: 100%; height: auto;" alt="003">
+      <img src="./Assets/Features/3.png" style="max-width: 100%; height: auto;" alt="i02">
     </td>
   </tr>
 </table>
@@ -239,18 +239,35 @@
 <table border="0" width="100%">
   <tr>
     <td align="center" width="50%" style="border: none; background: none;">
-      <img src="./Assets/Features/4.png" style="max-width: 100%; height: auto;" alt="004">
+      <img src="./Assets/Features/4.png" style="max-width: 100%; height: auto;" alt="i03">
     </td>
     <td align="center" width="50%" style="border: none; background: none;">
-      <img src="./Assets/Features/5.png" style="max-width: 100%; height: auto;" alt="005">
+      <img src="./Assets/Features/5.png" style="max-width: 100%; height: auto;" alt="i04">
     </td>
   </tr>
 </table>
 
-![006](./Assets/Features/10.png)
+![i05](./Assets/Features/10.png)
+
+<br>
+
+* SCP的獨特顏色。
+
+![scp01](./Assets/Features/7.png)
+
+![scp02](./Assets/Features/8.png)
+
+<br>
+
+* 其它一些提示的優化。
+
+![m01](./Assets/Features/6.png)
+
+![m01](./Assets/Features/9.png)
+
+<br>
 
 </details>
-
 
 <br>
 

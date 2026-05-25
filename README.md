@@ -87,7 +87,7 @@
 
 <br>
 
-  無論如何，翻譯檔案夾本身的命名永遠為“koumei_zh_tc”或“koumei_zh_sc”。
+  無論如何，翻譯檔案夾的命名永遠為“koumei_zh_tc”或“koumei_zh_sc”。
   
 <br>
 
@@ -180,7 +180,7 @@
 
 <br>
 
-  無論如何，翻譯檔案夾本身的命名永遠為“koumei_zh_tc”或“koumei_zh_sc”。
+  无论如何，翻译文件夹的命名永远为“koumei_zh_tc”或“koumei_zh_sc”。
 
 <br>
 

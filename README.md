@@ -80,3 +80,11 @@
 * **无后续更新保证**：本项目由作者利用业余时间维护，不保证能永久随游戏同步更新，亦不承担必须修复所有问题以及后续兼容性问题的义务。**目前状态：维护中**。
 
 </details>
+
+-----------------------------
+
+# 想立即試試嗎？
+
+[點擊這裡下載最新的 繁體中文 版本](https://github.com/KoumeiKyuushou/SCP-SL-Custom-Chinese-Translation-Files-by-Koumei-Kyuushou/releases/download/v3.9.0/zh_tc_bykoumei_3.9.0t01_14.2.6.zip)。
+
+[点击这里下载最新的 简体中文 版本](https://github.com/KoumeiKyuushou/SCP-SL-Custom-Chinese-Translation-Files-by-Koumei-Kyuushou/releases/download/v3.9.0/zh_sc_bykoumei_3.9.0s01_14.2.6.zip)。

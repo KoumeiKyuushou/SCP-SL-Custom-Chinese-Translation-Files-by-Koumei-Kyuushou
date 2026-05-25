@@ -1,5 +1,5 @@
 <p align="center">
-  <img width="250" alt="logo" src="./Assets/logo/logo.png">
+  <img width="400" alt="logo" src="./Assets/logo/T-logo.png">
 </p>
 
   使用前請閱讀使用前須知 / 使用前请阅读使用前须知

@@ -204,6 +204,18 @@
 
 **简** [点击这里下载最新的 **简体中文** 版本](https://github.com/KoumeiKyuushou/SCP-SL-Custom-Chinese-Translation-Files-by-Koumei-Kyuushou/releases/download/v3.9.0/zh_sc_bykoumei_3.9.0s01_14.2.6.zip)
 
+<br>
+
+# 🪲 目前已知的問題
+
+* 被SCP-3114殺死時，屍體死因只顯示SCP-1507或棉花糖人。 - **該問題將在下一個版本解決**
+
+* C.A.S.S.I.E廣播文本有延遲。 - **暫時無法解決**
+
+* 觀眾左側角色文本與F1提示中的角色名字缺失。 - **重生時大名字的隱藏造成了這個問題，如果官方不解決三者文本混用的問題，這個問題永遠無法解決
+
+<br>
+
 -----------------------------
 **By Koumei Kyuushou**
 

@@ -226,15 +226,28 @@
 > 詳細的功能來源於[官方Wiki](https://en.scpslgame.com/index.php?title=Main_Page)，可能有誤或過時。
 
 <table border="0" width="100%">
-  <tr valign="top">
-    <td width="50%" style="border: none; padding: 0;">
-      <img src="./Assets/Features/2.png" style="width: 100%; height: auto; display: block; margin-bottom: 10px;" alt="002">
-      </td>
-    <td width="50%" style="border: none; padding: 0; padding-left: 10px;">
-      <img src="./Assets/Features/3.png" style="width: 100%; height: auto; display: block; margin-bottom: 10px;" alt="003">
-      </td>
+  <tr>
+    <td align="center" width="50%" style="border: none; background: none;">
+      <img src="./Assets/Features/2.png" style="max-width: 100%; height: auto;" alt="002">
+    </td>
+    <td align="center" width="50%" style="border: none; background: none;">
+      <img src="./Assets/Features/3.png" style="max-width: 100%; height: auto;" alt="003">
+    </td>
   </tr>
 </table>
+
+<table border="0" width="100%">
+  <tr>
+    <td align="center" width="50%" style="border: none; background: none;">
+      <img src="./Assets/Features/4.png" style="max-width: 100%; height: auto;" alt="004">
+    </td>
+    <td align="center" width="50%" style="border: none; background: none;">
+      <img src="./Assets/Features/5.png" style="max-width: 100%; height: auto;" alt="005">
+    </td>
+  </tr>
+</table>
+
+![006](./Assets/Features/10.png)
 
 </details>
 

@@ -19,7 +19,7 @@
 
 ![步驟1](./Assets/How-to-use/1.png)
 
-2️⃣ 解壓縮出來的檔案夾應該叫“koumei_zh_tc”或“koumei_zh_sc”，否則就是被嵌套在了解壓縮檔案之中。複製或剪下該檔案；
+2️⃣ 解壓縮出來的檔案夾應該叫“koumei_zh_tc”或“koumei_zh_sc”，否則就是被嵌套在了解壓縮檔案夾之中。複製或剪下該檔案；
 
 ![步驟2](./Assets/How-to-use/2.png)
 
@@ -66,13 +66,29 @@
 
 ## 📖 如何使用？
 
-![步骤1](./Picture/如何使用1.png)
+1️⃣ 将下载的压缩包解压；
 
-![步骤2](./Picture/如何使用2.png)
+![步骤1](./Assets/How-to-use/1.png)
 
-![步骤3](./Picture/如何使用3.png)
+2️⃣ 解压出来的文件夹应该叫“koumei_zh_tc”或“koumei_zh_sc”，否则就是被嵌套在解压文件夹之中。复制或剪切该文件夹；
 
-![步骤4](./Picture/如何使用4.png)
+![步骤2](./Assets/How-to-use/2.png)
+
+3️⃣ 在Steam找到SCP: Secret Laboratory右键，如图所示前往 管理 > 浏览本地文件 ；
+
+![步骤3](./Assets/How-to-use/3.png)
+
+4️⃣ 在打开的资源管理器窗口中前往Translations文件夹；
+
+![步骤4](./Assets/How-to-use/4.png)
+
+5️⃣ 右键粘贴之前复制或剪切的文件夹，更新时同理，直接覆盖即可；
+
+![步骤5](./Assets/How-to-use/5.png)
+
+6️⃣ 在游戏中修改语言即可，一些地方可能需要重启游戏生效。
+
+![步骤6](./Assets/How-to-use/6.png)
 
 -----------------------------
 

@@ -2,9 +2,11 @@
   <img width="400" alt="logo" src="./Assets/logo/T-logo.png">
 </p>
 
-  <p align="center">使用前請閱讀使用前須知 / 使用前请阅读使用前须知</p>
+  <p align="center">Koumei的中文客製化翻譯文件</p>
 
 -----------------------------
+
+使用前請閱讀使用前須知 / 使用前请阅读使用前须知
 
   <details>
 <summary>點擊展開使用前須知 - 繁體中文</summary>

@@ -83,7 +83,7 @@
 
 -----------------------------
 
-# 想立即試試嗎？
+# ⬇️ 想立即試試嗎？
 
 [點擊這裡下載最新的 繁體中文 版本](https://github.com/KoumeiKyuushou/SCP-SL-Custom-Chinese-Translation-Files-by-Koumei-Kyuushou/releases/download/v3.9.0/zh_tc_bykoumei_3.9.0t01_14.2.6.zip)。
 

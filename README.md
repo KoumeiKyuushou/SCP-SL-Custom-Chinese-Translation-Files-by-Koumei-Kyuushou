@@ -4,6 +4,8 @@
 
  # <p align="center">KOUMEI的中文客製化翻譯文件</p>
 
+![release](https://img.shields.io/badge/最新版本-v3.9.0-71B7EB?style=flat)
+
 ## ⚠️ 使用前請閱讀《使用前須知》
 
   <details>

@@ -209,7 +209,7 @@
 
 * 重生時防止遮擋，但又不失原版訊息。
 
-> 僅限人類，不影響SCP。
+> _僅限人類，不影響SCP。_
 
 ![txt](./Assets/Features/1.png)
 
@@ -217,7 +217,7 @@
 
 * 詳細的功能描述與按物品類型的顏色標記，每個SCP物品有獨特顏色標記。
 
-> 詳細的功能來源於[官方Wiki](https://en.scpslgame.com/index.php?title=Main_Page)，可能有誤或過時。
+> _詳細的功能來源於[官方Wiki](https://en.scpslgame.com/index.php?title=Main_Page)，可能有誤或過時。_
 
 <table border="0" width="100%">
   <tr>
@@ -279,23 +279,31 @@
 
 # 🪲 目前已知的問題
 
-## 🔼 高優先
+### 🔼 高優先
 
-* 被SCP-3114殺死時，屍體死因只顯示SCP-1507或棉花糖人。 - **該問題將在下一個版本解決**
+* 被SCP-3114殺死時，屍體死因只顯示SCP-1507或棉花糖人。
 
-## ⏺️ 中優先
+> _該問題將在下一個版本解決_
 
-* C.A.S.S.I.E在SCP被收容時讀出了HTML指令的color。 - **原因未知，不知該如何解決**
+### ⏺️ 中優先
 
-## 🔽 低優先
+* C.A.S.S.I.E在SCP被收容時讀出了HTML指令的color。
 
-* C.A.S.S.I.E廣播文本有延遲。 - **原因已知，要解決只能不要廣播文本的美化**
+> _原因未知，不知該如何解決_
 
-* 觀眾左側角色文本與F1提示中的角色名字缺失。 - **重生時大名字的隱藏造成了這個問題，如果官方不解決三者文本混用的問題，這個問題永遠無法解決**
+### 🔽 低優先
+
+* C.A.S.S.I.E廣播文本有延遲。
+* 
+> _原因已知，要解決只能不要廣播文本的美化_
+
+* 觀眾左側角色文本與F1提示中的角色名字缺失。
+
+> _重生時大名字的隱藏造成了這個問題，如果官方不解決三者文本混用的問題，這個問題永遠無法解決_
 
 <br>
 
 -----------------------------
-**By Koumei Kyuushou**
+**貢獻者**
 
 [![Contributors](https://contrib.rocks/image?repo=KoumeiKyuushou/SCP-SL-Custom-Chinese-Translation-Files-by-Koumei-Kyuushou)](https://github.com/KoumeiKyuushou/SCP-SL-Custom-Chinese-Translation-Files-by-Koumei-Kyuushou/graphs/contributors)

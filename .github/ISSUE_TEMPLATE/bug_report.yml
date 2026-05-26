@@ -1,13 +1,13 @@
-name: 錯誤回報 (Bug Report)
-description: 檔案語言與內容錯誤回報專用表單
+name: 錯誤回報與問題 (Bug Report)
+description: 在這裡回報錯誤
 title: "[問題]: "
 labels: ["問題"]
 body:
   - type: dropdown
     id: language
     attributes:
-      label: 所回報的檔案語言
-      description: 請點擊下方選單，選擇有問題的語言（必選）
+      label: 所回報的語言版本
+      description: 請點擊下方選單，選擇有問題的語言版本（必選）
       options:
         - 繁體中文（台灣）
         - 簡體中文
@@ -18,7 +18,8 @@ body:
   - type: textarea
     id: description
     attributes:
-      label: 問題詳細描述：
+      label: 問題詳細描述
+      placeholder: 在這裡輸入文字
     validations:
       required: true
 
@@ -30,12 +31,81 @@ body:
     validations:
       required: false
 
-  - type: textarea
+- type: dropdown
     id: location
     attributes:
-      label: 問題檔案具體定位（可選）：
+      label: 問題檔案具體定位
+      description: 請點擊下方選單，選擇有問題的txt檔案，如果不知道，就選擇未知
+      options:
+        - 未知
+        - ActionCategory.txt
+        - AttachmentDescriptiveAdvantages.txt
+        - AttachmentDescriptiveDownsides.txt
+        - AttachmentEditors.txt
+        - AttachmentNames.txt
+        - AttachmentParameters.txt
+        - AudioSettings.txt
+        - Badges.txt
+        - Categories.txt
+        - Class_Descriptions.txt
+        - Class_Names.txt
+        - Class_Nicknames.txt
+        - Coffee.txt
+        - Connection_Errors.txt
+        - Connection Info.txt
+        - ControlsSettings.txt
+        - DeathReasons.txt
+        - DecontaminationDisplays.txt
+        - Disarming.txt
+        - Doors.txt
+        - Facility.txt
+        - Footprints.txt
+        - GameHints.txt
+        - HID_Sign.txt
+        - Hotkeys.txt
+        - HumanAbilities.txt
+        - HumanBio.txt
+        - Intercom.txt
+        - Intercom_Door_Sign.txt
+        - InterfaceSettings.txt
+        - InventoryGUI.txt
+        - Items.txt
+        - Keybinds.txt
+        - KeycardLabel.txt
+        - KeyCodes.txt
+        - Legacy_Interfaces.txt
+        - LoadingHints.txt
+        - MainMenu.txt
+        - MenuWarnings.txt
+        - NewMainMenu.txt
+        - Nuke.txt
+        - Nuke_Silo_Sign.txt
+        - OtherSettings.txt
+        - Overwatch_HUD.txt
+        - RA_RoleManagement.txt
+        - ReportForm.txt
+        - RespawnTooltip.txt
+        - SCP_Interfaces.txt
+        - SCP079.txt
+        - SCP079_HUD.txt
+        - SCP096_HUD.txt
+        - SCP106_HUD.txt
+        - SCP127VoiceLines.txt
+        - SCP173_HUD.txt
+        - SCP330.txt
+        - SCP330_Halloween.txt
+        - SCP939_HUD.txt
+        - SCP1507_HUD.txt
+        - SCP3114_HUD.txt
+        - SettingsCategories.txt
+        - Subtitle.txt
+        - Summary.txt
+        - Teams.txt
+        - Version_7-0-0.txt
+        - VideoSettings.txt
+        - Voicechat.txt
     validations:
-      required: false
+      required: true
 
   - type: textarea
     id: other-info

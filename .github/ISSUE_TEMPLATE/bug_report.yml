@@ -1,0 +1,45 @@
+name: 錯誤回報 (Bug Report)
+description: 檔案語言與內容錯誤回報專用表單
+title: "[問題]: "
+labels: ["問題"]
+body:
+  - type: dropdown
+    id: language
+    attributes:
+      label: 所回報的檔案語言
+      description: 請點擊下方選單，選擇有問題的語言（必選）
+      options:
+        - 繁體中文（台灣）
+        - 簡體中文
+        - 兩者皆是（都有問題）
+    validations:
+      required: true
+
+  - type: textarea
+    id: description
+    attributes:
+      label: 問題詳細描述：
+    validations:
+      required: true
+
+  - type: textarea
+    id: screenshots
+    attributes:
+      label: 熒幕擷取與影片（可選）：
+      placeholder: 可以直接將圖片或影片拖曳、複製貼上到此處。
+    validations:
+      required: false
+
+  - type: textarea
+    id: location
+    attributes:
+      label: 問題檔案具體定位（可選）：
+    validations:
+      required: false
+
+  - type: textarea
+    id: other-info
+    attributes:
+      label: 在此處新增其它任何資訊（可選）：
+    validations:
+      required: false

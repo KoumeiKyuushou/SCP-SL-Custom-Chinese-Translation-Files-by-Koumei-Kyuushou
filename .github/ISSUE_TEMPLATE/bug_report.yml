@@ -31,7 +31,7 @@ body:
     validations:
       required: false
 
-- type: dropdown
+  - type: dropdown
     id: location
     attributes:
       label: 問題檔案具體定位

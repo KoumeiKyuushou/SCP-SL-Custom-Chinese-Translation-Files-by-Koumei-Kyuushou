@@ -1,0 +1,97 @@
+name: 需要幫助嗎？
+description: 如果你有些疑惑的話。
+title: "[幫助]: "
+labels: ["幫助"]
+
+  - type: textarea
+    id: description
+    attributes:
+      label: 遇到了什麼問題？
+      placeholder: 在這裡輸入疑惑的詳細描述。
+    validations:
+      required: true
+
+  - type: textarea
+    id: screenshots
+    attributes:
+      label: 熒幕擷取與影片（可選）：
+      placeholder: 可以直接將圖片或影片拖曳、複製貼上到此處。
+    validations:
+      required: false
+
+  - type: dropdown
+    id: location
+    attributes:
+      label: 是哪一個檔案？
+      description: 請點擊下方選單，選擇有疑惑的txt檔案，如果不是具體的檔案就選擇無
+      options:
+        - 無
+        - ActionCategory.txt
+        - AttachmentDescriptiveAdvantages.txt
+        - AttachmentDescriptiveDownsides.txt
+        - AttachmentEditors.txt
+        - AttachmentNames.txt
+        - AttachmentParameters.txt
+        - AudioSettings.txt
+        - Badges.txt
+        - Categories.txt
+        - Class_Descriptions.txt
+        - Class_Names.txt
+        - Class_Nicknames.txt
+        - Coffee.txt
+        - Connection_Errors.txt
+        - Connection Info.txt
+        - ControlsSettings.txt
+        - DeathReasons.txt
+        - DecontaminationDisplays.txt
+        - Disarming.txt
+        - Doors.txt
+        - Facility.txt
+        - Footprints.txt
+        - GameHints.txt
+        - HID_Sign.txt
+        - Hotkeys.txt
+        - HumanAbilities.txt
+        - HumanBio.txt
+        - Intercom.txt
+        - Intercom_Door_Sign.txt
+        - InterfaceSettings.txt
+        - InventoryGUI.txt
+        - Items.txt
+        - Keybinds.txt
+        - KeycardLabel.txt
+        - KeyCodes.txt
+        - Legacy_Interfaces.txt
+        - LoadingHints.txt
+        - MainMenu.txt
+        - MenuWarnings.txt
+        - NewMainMenu.txt
+        - Nuke.txt
+        - Nuke_Silo_Sign.txt
+        - OtherSettings.txt
+        - Overwatch_HUD.txt
+        - RA_RoleManagement.txt
+        - ReportForm.txt
+        - RespawnTooltip.txt
+        - SCP_Interfaces.txt
+        - SCP079.txt
+        - SCP079_HUD.txt
+        - SCP096_HUD.txt
+        - SCP106_HUD.txt
+        - SCP127VoiceLines.txt
+        - SCP173_HUD.txt
+        - SCP330.txt
+        - SCP330_Halloween.txt
+        - SCP939_HUD.txt
+        - SCP1507_HUD.txt
+        - SCP3114_HUD.txt
+        - SettingsCategories.txt
+        - Subtitle.txt
+        - Summary.txt
+        - Teams.txt
+        - Version_7-0-0.txt
+        - VideoSettings.txt
+        - Voicechat.txt
+    validations:
+      required: true
+

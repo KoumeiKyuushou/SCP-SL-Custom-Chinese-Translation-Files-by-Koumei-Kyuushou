@@ -8,7 +8,7 @@ body:
     id: description
     attributes:
       label: 遇到了什麼問題？
-      placeholder: 在這裡輸入疑惑的詳細描述。
+      placeholder: 在這裡輸入問題的詳細描述，只接受簡體中文與繁體中文。
     validations:
       required: true
 

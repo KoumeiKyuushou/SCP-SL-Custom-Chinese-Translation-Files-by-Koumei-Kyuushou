@@ -1,7 +1,7 @@
 💀 这是 <b>[user]</b> 的尸体！\n[cause]
 重新收容
 在Alpha核弹头的爆破中蒸发
-突发性死亡，无明显外伤\n死因：<color=#e52121>SCP-049</color> | <color=#e52121>SCP-049-2</color>
+突发性死亡，无明显外伤\n死因：<color=#e52121><b>SCP-049</b></color> | <color=#e52121><b>SCP-049-2</b></color>
 死因不明
 重度电击灼烧
 缺氧而窒息致死
@@ -9,28 +9,28 @@
 你失血过多死亡
 从高处摔落造成的腿骨粉碎性骨折
 你摔落致死
-尸体上有严重腐蚀\n死因：<color=#3451b3>SCP-106</color>
+尸体上有严重腐蚀\n死因：<color=#3451b3><b>SCP-106</b></color>
 被轻收容区净化程序清除
-尸体泛黄且散发恶臭\n死因：<color=#F5650A>摄入毒物</color>
-你中毒致死\n死因：将 <color=#fe001a>SCP-207</color> 和 <color=#e52121>SCP-1853</color> 混合使用
-摄入不明物质导致脏器大出血\n原因：<color=#fe001a>SCP-207</color>
-<color=#fe001a>SCP-207</color> 杀死了你
-你不该拿走超过两颗的！\n原因：<color=purple>SCP-330</color>
+尸体泛黄且散发恶臭\n死因：<color=#F5650A><b>摄入毒物</b></color>
+你中毒致死\n死因：将 <color=#fe001a><b>SCP-207</b></color> 和 <color=#95D600><b>SCP-1853</b></color> 混合使用
+摄入不明物质导致脏器大出血\n原因：<color=#fe001a><b>SCP-207</b></color>
+<color=#fe001a><b>SCP-207</b></color> 杀死了你
+你不该拿走超过两颗的！\n原因：<color=purple><b>SCP-330</b></color>
 你已被特斯拉电网拦截消灭
-爆炸所造成的炸弹碎片伤和三度烧伤\n死因：<color=orange>爆炸</color>
+爆炸所造成的炸弹碎片伤和三度烧伤\n死因：<color=orange><b>爆炸</b></color>
 你被周围的爆炸波及炸死
-大面积撕裂伤造成的失血过多\n死因：<color=#7d060a>SCP-096</color>
-颈椎根部粉碎性骨折\n死因：<color=red>SCP-173</color>
-颚骨附近有较大较深的咬痕\n死因：<color=#636363>SCP-939</color>
-身体上有钝性创伤和一些轻微的划痕\n死因：<color=#FF59CA>SCP-1507</color> 、<color=#bf5e5e><b>SCP-3114</b></color> 或 <color=#ab99bf><b>棉花糖人</b></color> 等等......\n<size=45%>我没招了，我甚至去Lambda的新版本看了看，连他也受不了了，有太多东西杀死都是这个原因，不是我就请问了这是何意味？这么多东西就套这一个也是真神了。
-被 [ammotype] 弹药射杀
-钝器挫伤致死，尸体已不成人形\n死因：<color=#F00>SCP-018</color> 或 设施禁区
+大面积撕裂伤造成的失血过多\n死因：<color=#7d060a><b>SCP-096</b></color>
+颈椎根部粉碎性骨折\n死因：<color=red><b>SCP-173</b></color>
+颚骨附近有较大较深的咬痕\n死因：<color=#636363><b>SCP-939</b></color>
+身体上有钝性创伤和一些轻微的划痕\n死因：<color=#FF59CA><b>SCP-1507</b></color>、<color=#bf5e5e><b>SCP-3114</b></color> 或 <color=#ab99bf><b>棉花糖人</b></color> 等等......\n<size=45%>我没招了，我甚至去Lambda的新版本看了看，连他也受不了了，有太多东西杀死都是这个原因，不是我就请问了这是何意味？这么多东西就套这一个也是真神了。
+被 <b><color=#BF965C>[ammotype]</color></b> 弹药射杀
+钝器挫伤致死，尸体已不成人形\n死因：<color=#F00><b>SCP-018</b></color> 或 <b>设施禁区</b>
 股骨挫伤造成的失血性休克致死
 为重新收容SCP-106，你被献祭了
 因误伤友军被自动处死
-冰冷的皮肤和冻伤的手指表明死于体温过低\n死因：<color=#ABB9CC>SCP-244</color>
-你被冻死了\n死因：<color=#ABB9CC>SCP-244</color>
-尸体上存在深度划伤和抓痕\n原因：<color=#636363>SCP-939</color>
-棉花糖人杀死了你！
-被有机残留物射杀\n死因：<color=#8079FF>SCP-127</color>
-多处开放性伤口且有小虫从中爬出\n死因：<color=red>SCP-1509</color>
+冰冷的皮肤和冻伤的手指表明死于体温过低\n死因：<color=#ABB9CC><b>SCP-244</b></color>
+你被冻死了\n死因：<color=#ABB9CC><b>SCP-244</b></color>
+尸体上存在深度划伤和抓痕\n原因：<color=#636363><b>SCP-939</b></color>
+<color=#ab99bf><b>棉花糖人</b></color>杀死了你！
+被有机残留物射杀\n死因：<color=#8079FF><b>SCP-127</b></color>
+多处开放性伤口且有小虫从中爬出\n死因：<color=red><b>SCP-1509</b></color>

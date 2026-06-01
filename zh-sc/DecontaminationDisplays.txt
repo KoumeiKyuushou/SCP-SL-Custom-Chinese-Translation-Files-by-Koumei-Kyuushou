@@ -1,7 +1,7 @@
-<color=#7cf58d><b>净化程序将开始于</b></color>
-<color=red>⚠<b>-请离开该区域-</b>⚠</color>
-<color=red>⚠<b>-请撤离-</b>⚠</color>
-<b>威胁分析进行中</b>
-<b>安全系统准备中</b>
-<b>系统准备就绪</b>
-<color=red>⚠<b>-初始化程序 p-b-3-</b>⚠</color>
+净化程序将开始于
+<size=6><color=red>\uf70c 请撤离该区域 \uf70c</color>
+<size=6><color=red>\uf071 请撤离 \uf071</color>
+威胁分析进行中
+安全系统准备中
+系统准备就绪
+初始化程序 p-b-3

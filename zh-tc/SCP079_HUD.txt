@@ -56,9 +56,9 @@ $<color=#ff9e00>☀</color> <color=#8080FF>整個區域範圍斷電</color>$ 現
 <color=yellow>⚠</color> 整個區域範圍斷電處於冷卻中 <color=yellow>⚠</color>
 <size=150%>🚨 ALREADY ACTIVE 🚨</size>\n斷電已在此處啟動
 <size=150%>❌ ERROR ❌</size>\n此區域無法使用斷電
-\uf21e - 當前存活總數
-\uf54c - 需消滅目標數
-<color=#EC2222>\uf780 SCP</color>
+\uf21e 當前存活總數
+💀 需殺死的人數
+<color=#EC2222>\uf714 SCP</color>
 <color=#f5eb9c>\uf007 非武裝</color>
 <color=#9cc7f5>\uf505 武裝</color>
 <color=#8080FF>🔊</color>  使用揚聲器

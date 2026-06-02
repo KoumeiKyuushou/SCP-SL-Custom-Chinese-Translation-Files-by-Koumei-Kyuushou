@@ -56,9 +56,9 @@ $<color=#ff9e00>☀</color> <color=#8080FF>整个区域范围断电</color>$ 现
 <color=yellow>⚠</color> 整个区域范围断电处于冷却中 <color=yellow>⚠</color>
 <size=150%>🚨 ALREADY ACTIVE 🚨</size>\n已在此处激活断电
 <size=150%>❌ ERROR ❌</size>\n此区域无法使用断电
-\uf21e - 当前存活总数
-\uf54c - 需消灭目标数
-<color=#EC2222>\uf780 SCP</color>
+\uf21e 当前存活总数
+💀 需杀死的人数
+<color=#EC2222>\uf714 SCP</color>
 <color=#f5eb9c>\uf007 非武装</color>
 <color=#9cc7f5>\uf505 武装</color>
 <color=#8080FF>🔊</color>  使用扬声器

@@ -56,8 +56,8 @@
         { "color": "#C38CFF", "fontStyle": "italic" }
       ]
     },
-    // \uf \ue和後面三個字元染色
-    "(\\\\uf.{3})|(\\\\ue.{3})": {
+    // \u後面4個字元染色
+    "(\\\\u.{4})": {
       "filterLanguageRegex": "plaintext",
       "decorations": [
         { "color": "#B4FF91", "fontWeight": "bold" }

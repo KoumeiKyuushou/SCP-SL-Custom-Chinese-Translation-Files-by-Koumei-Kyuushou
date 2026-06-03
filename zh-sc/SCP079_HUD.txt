@@ -1,9 +1,9 @@
-🔍 变焦 [amount]x
-<color=#8080FF>💳 访问等级 [tier]</color>
-⭐ EXP [current] / [next]
-<color=#8080FF>已达到最大等级</color>
+[amount]x
+<color=#8080FF>\uf2c2</color> 权限等级 Lv.[tier]
+[current] / [next]
+<color=#FFD066>MAX</color>
 <color=red>\uf4e2 无摄像头</color>
-<color=#8080FF>📡</color> 切换到：<color=#8080FF>[camera]</color> (<color=#8080FF>[cost]</color>)
+<color=#8080FF>\uf04b</color>  切换到：<color=#8080FF>[camera]</color> (<color=#8080FF>[cost]</color>)
 <size=150%>❌ ERROR ❌</size>\n没有足够的备用电力
 预计时间：[time]秒
 ⛔ 需要更高的等级 ⛔
@@ -14,7 +14,7 @@
 🔒 锁定门 (<color=#8080FF>[cost]</color>)
 <color=green>\uf09c</color> 解锁门
 <color=yellow>⚠</color> 此门处于冷却时间中 <color=yellow>⚠</color>
-<color=#8080FF>⚡备用电力 </color>
+<color=#8080FF>\uf0e7</color> 备用电力
 <color=yellow>⚠</color><color=red> 一个发电机正在启动 </color><color=yellow>⚠</color>
 <color=green>\uf09c</color> 解锁门
 <color=#8080FF>\uf0e8</color> - 打开设施地图
@@ -56,11 +56,11 @@ $<color=#ff9e00>☀</color> <color=#8080FF>整个区域范围断电</color>$ 现
 <color=yellow>⚠</color> 整个区域范围断电处于冷却中 <color=yellow>⚠</color>
 <size=150%>🚨 ALREADY ACTIVE 🚨</size>\n已在此处激活断电
 <size=150%>❌ ERROR ❌</size>\n此区域无法使用断电
-\uf21e 当前存活总数
-💀 需杀死的人数
-<color=#EC2222>\uf714 SCP</color>
-<color=#f5eb9c>\uf007 非武装</color>
-<color=#9cc7f5>\uf505 武装</color>
+[\uf21e] - 当前存活总数
+[\uf714] - 需杀死的人数
+<color=#EC2222>\uf780 SCP项目</color>
+<color=#f5eb9c>\uf4fc 非武装人员</color>
+<color=#9cc7f5>\uf505 武装人员</color>
 <color=#8080FF>🔊</color>  使用扬声器
 <size=150%>⛔ ERROR ⛔</size>\n电梯拒绝访问
 协助你的<color=#F00>SCP队友</color>。利用设施系统对抗人类，帮助你的团队击杀目标并提供重要情报。你可通过这些操作提升你的访问等级，以解锁新的能力。

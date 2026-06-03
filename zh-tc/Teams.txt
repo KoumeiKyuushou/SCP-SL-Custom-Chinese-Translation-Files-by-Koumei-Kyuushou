@@ -1,4 +1,4 @@
-<color=#EC2222>\uf714 SCP</color>
+<color=#EC2222>\uf780 SCP項目</color>
 <color=#5d87d2>\uf57d 基金會勢力</color>
 <color=#608f38>\uf6de 混沌分裂者</color>
 <color=#FFFF7C>\uf610 科學家</color>

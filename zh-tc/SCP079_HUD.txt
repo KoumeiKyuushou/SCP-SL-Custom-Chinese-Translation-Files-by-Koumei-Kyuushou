@@ -1,9 +1,9 @@
-🔍 變焦 [amount]x
-<color=#8080FF>💳 訪問等級 [tier]</color>
-⭐ EXP [current] / [next]
-<color=#8080FF>已達到最大等級</color>
-<color=red>\uf4e2 無監視器</color>
-<color=#8080FF>📡</color> 切換到：<color=#8080FF>[camera]</color> (<color=#8080FF>[cost]</color>)
+[amount]x
+<color=#8080FF>\uf2c2</color> 權限等級 [tier]
+[current] / [next]
+<color=#FFD066>MAX</color>
+<color=red>\uf4e2 無監控探頭</color>
+<color=#8080FF>\uf04b</color>  切換到：<color=#8080FF>[camera]</color> (<color=#8080FF>[cost]</color>)
 <size=150%>❌ ERROR ❌</size>\n沒有足夠的電力
 預計時間：[time]秒
 ⛔ 需要更高的等級 ⛔
@@ -14,7 +14,7 @@
 🔒 鎖定門 (<color=#8080FF>[cost]</color>)
 <color=green>\uf09c</color> 解鎖門
 <color=yellow>⚠</color> 此門處於冷卻時間中 <color=yellow>⚠</color>
-<color=#8080FF>⚡備用電力 </color>
+<color=#8080FF>\uf0e7</color> 備用電力
 <color=yellow>⚠</color><color=red> 一個發電機正在啟動 </color><color=yellow>⚠</color>
 <color=green>\uf09c</color> 解鎖門
 <color=#8080FF>\uf0e8</color> - 打開設施地圖
@@ -56,11 +56,11 @@ $<color=#ff9e00>☀</color> <color=#8080FF>整個區域範圍斷電</color>$ 現
 <color=yellow>⚠</color> 整個區域範圍斷電處於冷卻中 <color=yellow>⚠</color>
 <size=150%>🚨 ALREADY ACTIVE 🚨</size>\n斷電已在此處啟動
 <size=150%>❌ ERROR ❌</size>\n此區域無法使用斷電
-\uf21e 當前存活總數
-💀 需殺死的人數
-<color=#EC2222>\uf714 SCP</color>
-<color=#f5eb9c>\uf007 非武裝</color>
-<color=#9cc7f5>\uf505 武裝</color>
+[\uf21e] - 當前存活總數
+[\uf714] - 需殺死的人數
+<color=#EC2222>\uf780 SCP項目</color>
+<color=#f5eb9c>\uf4fc 非武裝人員</color>
+<color=#9cc7f5>\uf505 武裝人員</color>
 <color=#8080FF>🔊</color>  使用揚聲器
 <size=150%>⛔ ERROR ⛔</size>\n電梯拒絕訪問
 SCP-079並沒有直接攻擊或是移動的能力。相對的，你可以靠每個房間裏的監視器巡視設施內的每一處並與之互動。所有可用的能力都列在你荧幕的右上角

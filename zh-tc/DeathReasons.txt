@@ -1,7 +1,7 @@
 💀 這是 <b>[user]</b> 的屍體！\n[cause]
 重新收容
 在Alpha核彈頭的爆破中蒸發
-突發性死亡，無明顯外傷\n死因：<color=#e52121><b>SCP-049</b></color> | <color=#e52121><b>SCP-049-2</b></color>
+突發性死亡，無明顯外傷\n死因：<color=#a9de2c><b>SCP-049</b></color> | <color=#e03d0b><b>SCP-049-2</b></color> | <color=#bf5e5e><b>SCP-3114</b></color>
 死因不明
 重度電擊灼燒
 缺氧而窒息致死

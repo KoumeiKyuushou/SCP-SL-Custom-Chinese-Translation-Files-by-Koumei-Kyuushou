@@ -1,91 +1,91 @@
 [amount]x
-<color=#8080FF>\uf2c2</color> 權限等級 [tier]
+<color=#8080FF>\uf2bb</color> 權限等級 Lv.[tier]
 [current] / [next]
-<color=#FFD066>MAX</color>
+MAX
 <color=red>\uf4e2 無監控探頭</color>
-<color=#8080FF>\uf04b</color>  切換到：<color=#8080FF>[camera]</color> (<color=#8080FF>[cost]</color>)
-<size=150%>❌ ERROR ❌</size>\n沒有足夠的電力
+<color=#8080FF>\uf04b</color> 切換到：<color=#8080FF>[camera]</color> <color=red>\uf0e7-[cost]</color>
+<size=150%>❌ 錯誤 ❌</size>\n沒有足夠的電力
 預計時間：[time]秒
-⛔ 需要更高的等級 ⛔
-<size=150%>❌ ERROR ❌</size>\n不可用的監視器
-<size=150%>⛔ ERROR ⛔</size>\n此門拒絕訪問
-<color=green>\uf2f5</color> 開啟門  (<color=#8080FF>[cost]</color>)
-<color=red>\uf023</color>關閉門（[cost]）
-🔒 鎖定門 (<color=#8080FF>[cost]</color>)
-<color=green>\uf09c</color> 解鎖門
-<color=yellow>⚠</color> 此門處於冷卻時間中 <color=yellow>⚠</color>
+<size=150%>\uf05e 拒絕 \uf05e</size>\n需要更高的權限
+<size=150%>❌ 錯誤 ❌</size>\n不可用的監控探頭
+<size=150%>\uf05e 拒絕 \uf05e</size>\n此門拒絕訪問
+<color=#50DE47>\uf205</color> 開啟門 <color=red>\uf0e7-[cost]</color>
+<color=red>\uf204</color> 關閉門 <color=red>\uf0e7-[cost]</color>
+<color=red>\uf023</color> 鎖定門 <color=red>\uf0e7-[cost]</color>
+<color=#50DE47>\uf3c1</color> 解鎖門
+<size=150%>\uf05e 拒絕 \uf05e</size>\n此門處於冷卻時間中
 <color=#8080FF>\uf0e7</color> 備用電力
-<color=yellow>⚠</color><color=red> 一個發電機正在啟動 </color><color=yellow>⚠</color>
-<color=green>\uf09c</color> 解鎖門
-<color=#8080FF>\uf0e8</color> - 打開設施地圖
-<color=#8080FF>\uf410</color> - 關閉
-<color=#f5eb9c>輕收容區</color>
-<color=#ca2642>重收容區</color>
-<color=#bcfab2>辦公區</color>
-<color=#9cc7f5>地表區</color>
-<color=#FFD700>💡</color> 斷電  (<color=#8080FF>[cost]</color>)
-<size=150%>❌ ERROR ❌</size>\n此房間無法進行斷電
-<size=150%>🚨 LIMIT REACHED 🚨</size>\n已達到同時斷電的數量上限
-<size=150%>❌ ERROR ❌</size>\n此房間處於斷電冷卻時間中
-<color=orange>\uf0dc</color> 啟動電梯  (<color=#8080FF>[cost]</color>)
-<color=red>\uf023</color> 封鎖  (<color=#8080FF>[cost]</color>)
-<size=150%>❌ ERROR ❌</size>\n封鎖處於冷卻時間中
-<size=150%>❌ ERROR ❌</size>\n沒有可用於封鎖的門
- <color=#8080FF>ℹ️</color> 標記位置  (<color=#8080FF>[cost]</color>)
-<size=150%>🚨 LIMIT REACHED 🚨</size>\n已達到標記頻率限制
-<size=150%>❌ ERROR ❌</size>\n監視器切換失敗
-<color=red>\uf4e2</color>\n<size=75%>訊號丟失</size>
+<color=red>\uf071 一個發電機正在啟動
+<color=#50DE47>\uf09c</color> 解鎖門
+<color=#8080FF>\uf0e8</color> 打開設施地圖
+<color=#8080FF>\uf410</color> 關閉
+輕收容區\n<size=50%>LIGHT CONTAINMENT ZONE\n
+重收容區\n<size=50%>HEAVY CONTAINMENT ZONE\n
+辦公區\n<size=50%>ENTRANCE ZONE\n
+地表區\n<size=50%>SURFACE ZONE\n
+<color=#E3A800>\uf0eb</color> 斷電 <color=red>\uf0e7-[cost]</color>
+<size=150%>❌ 錯誤 ❌</size>\n此房間無法進行斷電
+<size=150%>\uf071 限制 \uf071</size>\n已達到同時斷電的數量上限
+<size=150%>\uf05e 拒絕 \uf05e</size>\n此房間處於斷電冷卻時間中
+<color=orange>\uf0dc</color> 啟動電梯 <color=red>\uf0e7-[cost]</color>
+<color=red>\uf05e</color> 封鎖 <color=red>\uf0e7-[cost]</color>
+<size=150%>\uf05e 拒絕 \uf05e</size>\n封鎖處於冷卻時間中
+<size=150%>❌ 錯誤 ❌</size>\n沒有可用於封鎖的門
+ <color=#8080FF>ℹ️</color> 標記位置 <color=red>\uf0e7-[cost]</color>
+<size=150%>\uf071 限制 \uf071</size>\n已達到標記頻率限制
+<size=150%>❌ 錯誤 ❌</size>\n監控探頭切換失敗
+訊號丟失
 正在重新連接（預計：[time] 秒）
-<color=yellow>⚡</color> 啟動特斯拉電網  (<color=#8080FF>[cost]</color>)
-<color=yellow>⚠</color> 特斯拉電網啟動處於冷卻中 <color=yellow>⚠</color>
-$<color=#8080FF>💳 訪問等級[tier]</color>$ - 已解鎖
-$<color=#8080FF>⚡ 備用電力</color>$ 上限提高到 $<color=#8080FF>[limit]</color>$
-$<color=#FFD700>💡</color> <color=#8080FF>斷電</color>$ 現在可用-按下 $[key]$ 鍵關閉房間內的燈光
-$<color=#FFD700>💡</color> <color=#8080FF>斷電</color>$ 使用上限新增到 $[number]$ 個房間
-🚫 $<color=red>\uf023</color> <color=#8080FF>封鎖</color>$ 現在可用-按下 $[key]$ 鍵可暫時鎖定一個房間內的所有門
-<color=#8080FF>+ [amount] EXP</color> - <color=#ff00b0>管理員指令</color>
-<color=#8080FF>+ [amount] EXP</color> - 協助擊殺 [role] - \uf54c
-<color=#8080FF>+ [amount] EXP</color> - 直接擊殺 [role] - \uf714
-<color=#8080FF>+ [amount] EXP</color> - 目擊到隊友擊殺 [role] - \uf06e
-<color=#8080FF>+ [amount] EXP</color> - 協助隊友追擊 -🚪
-<color=#8080FF>+ [amount] EXP</color> - 保護隊友 - \uf3ed
-<color=#8080FF>+ [amount] EXP</color> - 阻礙使用<color=#003DCA>Micro H.I.D.</color> - <color=#003DCA>⚡</color>
-<color=red>\uf023 已經激活了鎖門能力 \uf023</color>
-<color=#ff9e00>☀ 整個區域範圍斷電</color> ([cost])
-$<color=#ff9e00>☀</color> <color=#8080FF>整個區域範圍斷電</color>$ 現在可用 - 使用圖標顯示在$設施地圖$內的區域名旁邊
-<color=yellow>⚠</color> 整個區域範圍斷電處於冷卻中 <color=yellow>⚠</color>
-<size=150%>🚨 ALREADY ACTIVE 🚨</size>\n斷電已在此處啟動
-<size=150%>❌ ERROR ❌</size>\n此區域無法使用斷電
+<color=#E3A800>\uf0e7</color> 激活特斯拉電網 <color=red>\uf0e7-[cost]</color>
+<size=150%>\uf05e 拒絕 \uf05e</size>\n特斯拉電網處於冷卻中
+$<color=#8080FF>\uf2bb</color> 權限等級 Lv.[tier]$ - <color=#50DE47>\uf3c1 已解鎖</color>
+$<color=#8080FF>\uf0e7</color> 備用電力$ - 上限提高到 $<color=#8080FF>[limit]</color>$
+$<color=#E3A800>\uf0eb</color> 斷電$ - <color=#50DE47>\uf3c1 已解鎖</color> - 按下 $[key]$ 鍵關閉房間內的燈光
+$<color=#E3A800>\uf0eb</color> 斷電$ - 使用上限新增到 $[number]$ 個房間
+$<color=red>\uf05e</color> 封鎖$ - <color=#50DE47>\uf3c1 已解鎖</color> - 按下 $[key]$ 鍵可暫時鎖定一個房間內的所有門
+<color=#8080FF>+ [amount] EXP</color> - <color=#ff00b0>作弊</color>
+<color=#8080FF>+ [amount] EXP</color> - 協助擊殺 [role] - \uf714
+<color=#8080FF>+ [amount] EXP</color> - 直接擊殺 [role] - 💀
+<color=#8080FF>+ [amount] EXP</color> - 目擊到隊友擊殺 [role] - \uf2a8
+<color=#8080FF>+ [amount] EXP</color> - 協助隊友追擊 - \uf4c4
+<color=#8080FF>+ [amount] EXP</color> - 保護隊友 - \ue06c
+<color=#8080FF>+ [amount] EXP</color> - 阻礙使用 Micro H.I.D. - \uf256
+<size=150%>\uf071 限制 \uf071</size>\n已經激活了鎖門能力
+<color=#E34F00>\uf185</color> 區域斷電 <color=red>\uf0e7-[cost]</color>
+$<color=#E34F00>\uf185</color> 區域斷電$ - <color=#50DE47>\uf3c1 已解鎖</color> - 按鈕顯示在$設施地圖$內的區域名右側
+<size=150%>\uf071 限制 \uf071</size>\n區域斷電處於冷卻中
+<size=150%>\uf071 限制 \uf071</size>\n已在此處斷電
+<size=150%>❌ 錯誤 ❌</size>\n此區域無法斷電
 [\uf21e] - 當前存活總數
 [\uf714] - 需殺死的人數
 <color=#EC2222>\uf780 SCP項目</color>
 <color=#f5eb9c>\uf4fc 非武裝人員</color>
 <color=#9cc7f5>\uf505 武裝人員</color>
-<color=#8080FF>🔊</color>  使用揚聲器
-<size=150%>⛔ ERROR ⛔</size>\n電梯拒絕訪問
+<color=#8080FF>\uf028</color> 使用揚聲器
+<size=150%>\uf05e 拒絕 \uf05e</size>\n電梯拒絕訪問
 SCP-079並沒有直接攻擊或是移動的能力。相對的，你可以靠每個房間裏的監視器巡視設施內的每一處並與之互動。所有可用的能力都列在你荧幕的右上角
 近乎無敵:重收容區會隨機出現三臺發電機。一旦三臺發電機全部充能完畢，他們就能到達你的收容室裏將你重新收容。除你之外的任何人都可以通過按下發電機上的“CANCEL”取消按鈕來中斷充能倒數計時
 無限制訪問:你可以操縱設施內的各種系統來協助其它SCP。你的荧幕右上方會顯示有哪些能力可以使用。使用這些能力都需要消耗備用電力（AP）備用電力會隨時間恢復
 深度學習:協助消滅，或者為其它SCP提供有利幫助時，你都將獲得用於取得更高訪問級別的經驗。 每個更高等級的訪問級別都會提供更多的備用電力值，並給予你新的能力
 監視者:你獨特的視角賦予了你無處不在的能力。你可以標記指定位置，人類，和讓你感興趣的對象，使其幫助你協助殺戮
-$<color=#ffa500>\uf06e </color><color=#8080FF>入侵掃描器</color>$ 現在可用 - 在$設施地圖$中選定陣營/區域後將定期掃描剩餘的倖存者
-<size=150%><color=red>已暫停備用電力恢復 ⚠</color></size>
-<size=150%><color=red>備用電力恢復已减少  ([precentage]) ⚠</color></size>
-<size=125%>鎖定門已啟動 \uf023</size>
-<size=125%><color=#8080FF>揚聲器正在使用中 🔊</color></size>
-<size=125%>封鎖正在進行中 \uf023</size>
-<color=#ffa500>\uf06e 入侵掃描器</color>
-返回到地圖介面
-<color=#ffa500>\uf06e入侵掃描器</color> - [cnt] 個區域
-已選定區域：[cnt]
-<color=red>選擇需要掃描的區域
-<color=red>\uf00d</color> - <color=red>掃描結果：</color>$沒有檢測到目標$
-將在<color=#8080FF>[time]秒</color>後重試…
-<color=green>\uf00c</color> - <color=green>掃描結果： </color>在<color=red>‘$[camera_name]$’</color>檢測到$[role]$（[zone]）
-<color=#8080FF>下一次掃描時間： [time]秒</color>
-<color=#8080FF>掃描中…</color>
-<size=130%><color=red><b>掃描程式已暫停</b></color></size>
-<color=#8080FF>選擇要掃描的陣營</color>
-入侵掃描器能檢測在同一區域內停留了一段時間的倖存者
-<color=yellow>⚠</color><color=red>至少得選擇一個區域才能繼續執行！</color><color=yellow>⚠</color>
-$<color=red>\uf023</color> <color=#8080FF>鎖定門</color>$ 現在可用 - 在指定的門上按下 $[key]$ 鍵可暫時鎖定該門
+$<color=#C850FA>\uf542</color> 入侵掃描器$ - <color=#50DE47>\uf3c1 已解鎖</color> - 在$設施地圖$中選定陣營/區域後將定期掃描剩餘的倖存者
+<size=150%>備用電力恢復已暫停 \uf071</size>
+<size=150%>備用電力恢復已降至[precentage] \uf071</size>
+<size=125%>鎖定門已激活 \uf023</size>
+<size=125%><color=#FFFFFF>揚聲器正在使用中</color> <color=#8080FF>\uf028</color></size>
+<size=125%>封鎖正在進行中 \uf05e</size>
+<color=#C850FA>\uf542</color> SITE-02 入侵掃描器程式</color>
+<color=#8080FF>\uf0e8</color> 返回設施地圖
+<color=#FFFFFF>[cnt] 個區域正在執行入侵掃描器</color> <color=#C850FA>\uf542</color>
+已選定 [cnt] 個區域
+選擇需要掃描的區域
+<color=red>\uf542</color> 掃描結果：沒有偵測到目標
+下一次掃描時間：<color=#C850FA>[time]秒</color>
+<color=#C850FA>\uf542</color> 掃描結果：在 $[camera_name]$ 偵測到 $[role]$\n[zone]
+<color=#50DE47>\uf04b 下一次掃描時間：[time]秒</color>
+<color=#E3A800>\uf017 掃描中…</color>
+<color=red>\uf04d 掃描程式未啟動</color>
+選擇要掃描的陣營
+\n=========================================\nSITE-02 INFORMATION SECURITY DIVISION\nCENTRAL CORE INFRASTRUCTURE LOGS\n====================================\n(C) SITE-02 TECH OPS & ENGINEERING DEPT. ALL RIGHTS RESERVED.\nPROPERTY OF THE SCP FOUNDATION - FOR EXCLUSIVE USE WITHIN INFRASTRUCTURE SITE-02.\nINTEGRATED WITH C.A.S.S.I.E. (Central Automated Security System) CORE REVISION 4.2.\n-----------------------------------------\n<color=red>\uf071 SCP-079 has achieved Access Tier 4 and bypassed the encryption keys of Module 44-B.
+<color=red>\uf071 必須選擇至少一個陣營
+$<color=red>\uf023</color> 鎖定門$ - <color=#50DE47>\uf3c1 已解鎖</color> - 在指定的門上按下 $[key]$ 鍵可暫時鎖定該門

@@ -1,5 +1,5 @@
 <b>本回合结束!</b>
-<size=85%><color=#EC2222>SCP获胜</color></size>
+<size=85%><color=#EC2222>SCP 获胜</color></size>
 <size=85%><color=#5d87d2>基金会获胜</color></size>
 <size=85%><color=#608f38>分裂者获胜</color></size>
 <size=85%>陷入僵局</size>
@@ -7,13 +7,13 @@
 <b><color=#5d87d2>所有安全威胁都已被无效化，Site-02又恢复了安全</color></b>
 <b><color=#608f38>基金会安保势力被彻底消灭，特工们随时待命准备出动</color></b>
 <b>Site-02基本得到控制，但也为此付出了一定代价，最终的赢家难下定论</b>
-<b><color=#FF8E00>🏃 [summary_d_escaped] 名D级人员逃离设施</color></b>
-<b><color=#FFFF7C>👓 [summary_s_escaped] 名科学家逃离设施</color></b>
-<b><color=#EC2222>Alpha核弹共了结了 [summary_warhead_kills] 条人命</color></b>
-<b><color=#EC2222>Alpha核弹</color>并未在本回合中使用</b>
+<b><color=#FF8000>\uf70c 逃走的D级人员数：[summary_d_escaped]</color></b>
+<b><color=#FFFF7C>\uf610 幸存下来的科学家数：[summary_s_escaped]</color></b>
+<b><color=#FF7F29>\uf7b9 Alpha核弹头引爆并杀死了 [summary_warhead_kills] 条人命</color></b>
+<b>\uf7b9 Alpha核弹并未在本回合中使用</b>
 <b>此次行动共花费 [summary_round_minutes] 分 [summary_round_seconds] 秒</b>
-<b><color=#EC2222>🌀 共消灭了 [summary_scp_terminated] 个SCP</color></b>
-<b>下回合游戏将在 [summary_next_round_countdown] 秒后开始</b>
+<b><color=#FF6E6E>\uf3ed [summary_scp_terminated] 个SCP重新收容</color></b>
+<b>下回合将在 [summary_next_round_countdown] 秒后开始</b>
 <b><color=#EC2222>SCP共计杀死了 [summary_scpfrags] 名人类</color></b>
 <size=85%><color=#FF59CA>火烈鸟获胜</color></size>
 <b><color=#FF59CA>其它的阵营都全军覆没了，火烈鸟们取得了完全的胜利</color></b>

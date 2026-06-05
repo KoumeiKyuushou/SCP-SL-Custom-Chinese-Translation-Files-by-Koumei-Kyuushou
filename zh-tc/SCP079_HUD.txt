@@ -5,7 +5,7 @@ MAX
 <color=red>\uf4e2 無監視器</color>
 <color=#8080FF>\uf04b</color> 切換到：<color=#8080FF>[camera]</color> <color=red>\uf0e7-[cost]</color>
 <size=150%>❌ 錯誤 ❌</size>\n沒有足夠的電力
-\uf1da 預計恢復時間：[time]秒
+\uf1da [time]秒
 <size=150%>\uf05e 拒絕 \uf05e</size>\n需要更高的權限
 <size=150%>❌ 錯誤 ❌</size>\n不可用的監視器
 <size=150%>\uf05e 拒絕 \uf05e</size>\n此門拒絕訪問
@@ -35,7 +35,7 @@ MAX
 <size=150%>\uf071 限制 \uf071</size>\n已達到標記頻率限制
 <size=150%>❌ 錯誤 ❌</size>\n監視器切換失敗
 訊號丟失
-正在重新連接（預計：[time] 秒）
+正在重新連接\n\uf1da [time]秒
 <color=#E3A800>\uf0e7</color> 激活特斯拉電網 <color=red>\uf0e7-[cost]</color>
 <size=150%>\uf05e 拒絕 \uf05e</size>\n特斯拉電網處於冷卻中
 $<color=#8080FF>\uf2bb</color> 權限等級 Lv.[tier]$ - <color=orange>\uf0d8 LEVEL UP</color>

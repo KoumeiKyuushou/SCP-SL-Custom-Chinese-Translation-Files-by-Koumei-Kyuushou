@@ -63,8 +63,8 @@ ControlsSettings
 
 📝Facility
       超級多的雜項文本，有修改。
-      隱藏了“你是”文本，位於32行。
-      隱藏F1提示文本，位於35行。
+      修改“你是”文本為“YOU ARE”
+      修改F1提示文本，位於35行。
       修改玩家等待文本，位於29行。
 
 📝Footprints
@@ -168,8 +168,8 @@ SCP079
 SCP127VoiceLines
        SCP127交流文本，沒有修改。
 
-📝SCP173_HUD
-       SCP173，有修改。
+SCP173_HUD
+       SCP173，沒有修改。
 
 📝SCP330
        糖果背包文本，有修改。

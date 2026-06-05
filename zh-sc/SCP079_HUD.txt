@@ -5,25 +5,25 @@ MAX
 <color=red>\uf4e2 无摄像头</color>
 <color=#8080FF>\uf04b</color> 切换到：<color=#8080FF>[camera]</color> <color=red>\uf0e7-[cost]</color>
 <size=150%>❌ 错误 ❌</size>\n没有足够的备用电力
-预计时间：[time]秒
+\uf1da 预计恢复时间：[time]秒
 <size=150%>\uf05e 拒绝 \uf05e</size>\n需要更高的权限
 <size=150%>❌ 错误 ❌</size>\n不可用的摄像头
 <size=150%>\uf05e 拒绝 \uf05e</size>\n此门拒绝访问
-<color=#50DE47>\uf205</color> 开启门 <color=red>\uf0e7-[cost]</color>
+<color=green>\uf205</color> 开启门 <color=red>\uf0e7-[cost]</color>
 <color=red>\uf204</color> 关闭门 <color=red>\uf0e7-[cost]</color>
 <color=red>\uf023</color> 锁定门 <color=red>\uf0e7-[cost]</color>
-<color=#50DE47>\uf3c1</color> 解锁门
+<color=green>\uf3c1</color> 解锁门
 <size=150%>\uf05e 拒绝 \uf05e</size>\n此门处于冷却时间中
 <color=#8080FF>\uf0e7</color> 备用电力
 <color=red>\uf071 一个发电机正在启动
-<color=#50DE47>\uf09c</color> 解锁门
+<color=green>\uf09c</color> 解锁门
 <color=#8080FF>\uf0e8</color> 打开设施地图
-<color=#8080FF>\uf410</color> 关闭
+<color=#8080FF>\uf410</color> 关闭设施地图
 轻收容区\n<size=50%>LIGHT CONTAINMENT ZONE\n
 重收容区\n<size=50%>HEAVY CONTAINMENT ZONE\n
 办公区\n<size=50%>ENTRANCE ZONE\n
 地表区\n<size=50%>SURFACE ZONE\n
-<color=#E3A800>\uf0eb</color> 断电 <color=red>\uf0e7-[cost]</color>
+<color=#E3A800>\uf070</color> 断电 <color=red>\uf0e7-[cost]</color>
 <size=150%>❌ 错误 ❌</size>\n此房间无法进行断电
 <size=150%>\uf071 限制 \uf071</size>\n已达到同时断电的数量上限
 <size=150%>\uf05e 拒绝 \uf05e</size>\n此房间处于断电冷却时间中
@@ -38,21 +38,21 @@ MAX
 正在重新连接（预计：[time] 秒）
 <color=#E3A800>\uf0e7</color> 激活特斯拉电网 <color=red>\uf0e7-[cost]</color>
 <size=150%>\uf05e 拒绝 \uf05e</size>\n特斯拉电网处于冷却中
-$<color=#8080FF>\uf2bb</color> 权限等级 Lv.[tier]$ - <color=#50DE47>\uf3c1 已解锁</color>
-$<color=#8080FF>\uf0e7</color> 备用电力$ - 上限提高到 $<color=#8080FF>[limit]</color>$
-$<color=#E3A800>\uf0eb</color> 断电$ - <color=#50DE47>\uf3c1 已解锁</color> - 按下 $[key]$ 关闭房间内的灯光
-$<color=#E3A800>\uf0eb</color> 断电$ - 使用上限新增到 $[number]$ 个房间
-$<color=red>\uf05e</color> 封锁$ - <color=#50DE47>\uf3c1 已解锁</color> - 按下 $[key]$ 可暂时锁定一个房间内的所有门
-<color=#8080FF>+ [amount] EXP</color> - <color=#ff00b0>作弊</color>
-<color=#8080FF>+ [amount] EXP</color> - 协助击杀 [role] - \uf714
-<color=#8080FF>+ [amount] EXP</color> - 直接击杀 [role] - 💀
-<color=#8080FF>+ [amount] EXP</color> - 目击到队友击杀 [role] - \uf2a8
-<color=#8080FF>+ [amount] EXP</color> - 协助队友追击 - \uf4c4
-<color=#8080FF>+ [amount] EXP</color> - 保护队友 - \ue06c
-<color=#8080FF>+ [amount] EXP</color> - 阻碍使用 Micro H.I.D. - \uf256
+$<color=#8080FF>\uf2bb</color> 权限等级 Lv.[tier]$ - <color=orange>\uf0d8 LEVEL UP</color>
+$<color=#8080FF>\uf0e7</color> 备用电力$ - <color=#8080FF>\uf2bb</color> 上限提高到 $<color=#8080FF>[limit]</color>$
+$<color=#E3A800>\uf070</color> 断电$ - <color=green>\uf3c1 已解锁</color> - 按下 $[key]$ 关闭房间内的灯光
+$<color=#E3A800>\uf070</color> 断电$ - <color=orange>\uf2bb</color> 使用上限新增到 $[number]$ 个房间
+$<color=red>\uf05e</color> 封锁$ - <color=green>\uf3c1 已解锁</color> - 按下 $[key]$ 可暂时锁定一个房间内的所有门
+<color=orange>+ [amount] EXP</color> - <color=#ff00b0>作弊</color>
+<color=orange>+ [amount] EXP</color> - \uf714 协助击杀 [role]
+<color=orange>+ [amount] EXP</color> - 💀 直接击杀 [role]
+<color=orange>+ [amount] EXP</color> - \uf2a8 目击到队友击杀 [role]
+<color=orange>+ [amount] EXP</color> - \uf4c4 协助队友追击
+<color=orange>+ [amount] EXP</color> - \ue06c 保护队友
+<color=orange>+ [amount] EXP</color> - \uf256 阻碍使用 Micro H.I.D.
 <size=150%>\uf071 限制 \uf071</size>\n已经激活了锁门能力
 <color=#E34F00>\uf185</color> 区域断电 <color=red>\uf0e7-[cost]</color>
-$<color=#E34F00>\uf185</color> 区域断电$ - <color=#50DE47>\uf3c1 已解锁</color> - 按钮显示在$设施地图$内的区域名右侧
+$<color=#E34F00>\uf185</color> 区域断电$ - <color=green>\uf3c1 已解锁</color> - 按钮显示在$设施地图$内的区域名右侧
 <size=150%>\uf071 限制 \uf071</size>\n区域断电处于冷却中
 <size=150%>\uf071 限制 \uf071</size>\n已在此处断电
 <size=150%>❌ 错误 ❌</size>\n此区域无法断电
@@ -68,24 +68,24 @@ $<color=#E34F00>\uf185</color> 区域断电$ - <color=#50DE47>\uf3c1 已解锁</
 备用电力:使用你的能力会消耗备用电力(AP)。AP在屏幕右下角以能量条的形式显示，并且会被动恢复。你可以在屏幕右上角查看可使用的能力及其对应的AP消耗。
 深度学习:协助你的队友击杀人类可获得经验值(EXP)。获得EXP会使你升级到下一个访问等级，从而解锁你的新能力。EXP增长和等级提升会在屏幕左下角显示。
 监视者:你可以通过摄像头观察并在设施中移动。按下[key]选中摄像头图标即可切换到该摄像头，或按下Tab键打开地图，通过选择特定房间来切换到该房间的摄像头。
-$<color=#C850FA>\uf542</color> 入侵扫描器$ - <color=#50DE47>\uf3c1 已解锁</color> - 在$设施地图$中选定阵营/区域后将定期扫描剩余的幸存者
+$<color=#C850FA>\uf542</color> 入侵扫描器$ - <color=green>\uf3c1 已解锁</color> - 在$设施地图$中选定阵营/区域后将定期扫描剩余的幸存者
 <size=150%>备用电力恢复已暂停 \uf071</size>
 <size=150%>备用电力恢复已降至[precentage] \uf071</size>
-<size=125%>锁定门已激活 \uf023</size>
+<size=125%><color=#FFFFFF>锁定门已激活</color> <color=red>\uf023</color></size>
 <size=125%><color=#FFFFFF>扬声器正在使用中</color> <color=#8080FF>\uf028</color></size>
-<size=125%>封锁正在进行中 \uf05e</size>
+<size=125%><color=#FFFFFF>封锁正在进行中</color> <color=red>\uf05e</color></size>
 <color=#C850FA>\uf542</color> SITE-02 入侵扫描器程序</color>
 <color=#8080FF>\uf0e8</color> 返回设施地图
-<color=#FFFFFF>[cnt] 個區域正在运行入侵扫描器</color> <color=#C850FA>\uf542</color>
+<color=#8080FF>[cnt]</color> <color=#FFFFFF>個區域正在运行扫描器程序</color> <color=#C850FA>\uf542</color>
 已选定 [cnt] 个区域
 选择需要扫描的区域
 <color=red>\uf542</color> 扫描结果：没有检测到目标
 下一次扫描时间：<color=#C850FA>[time]秒</color>
-<color=#C850FA>\uf542</color> 扫描结果：在 $[camera_name]$ 检测到 $[role]$\n[zone]
-<color=#50DE47>\uf04b 下一次扫描时间：[time]秒</color>
+<color=#C850FA>\uf542</color> 扫描结果：在 $[camera_name]$ 检测到 $[role]$[zone]
+<color=green>\uf04b 下一次扫描时间将在 [time] 秒后</color>
 <color=#E3A800>\uf017 扫描中…</color>
 <color=red>\uf04d 扫描程序未启动</color>
 选择要扫描的阵营
-\n=========================================\nSITE-02 INFORMATION SECURITY DIVISION\nCENTRAL CORE INFRASTRUCTURE LOGS\n====================================\n(C) SITE-02 TECH OPS & ENGINEERING DEPT. ALL RIGHTS RESERVED.\nPROPERTY OF THE SCP FOUNDATION - FOR EXCLUSIVE USE WITHIN INFRASTRUCTURE SITE-02.\nINTEGRATED WITH C.A.S.S.I.E. (Central Automated Security System) CORE REVISION 4.2.\n-----------------------------------------\n<color=red>\uf071 SCP-079 has achieved Access Tier 4 and bypassed the encryption keys of Module 44-B.
+\n=========================================\nSITE-02 INFORMATION SECURITY DIVISION\nCENTRAL CORE INFRASTRUCTURE LOGS\n=========================================\n(C) SITE-02 TECH OPS & ENGINEERING DEPT. ALL RIGHTS RESERVED.\nPROPERTY OF THE SCP FOUNDATION - FOR EXCLUSIVE USE WITHIN INFRASTRUCTURE SITE-02.\nINTEGRATED WITH C.A.S.S.I.E. (Central Automated Security System) CORE REVISION 4.2.\n-----------------------------------------\n<color=red>\uf071 SCP-079 has achieved Access Tier 4 and bypassed the encryption keys of Module 44-B.
 <color=red>\uf071 必须选择至少一个阵营
-$<color=red>\uf023</color> 锁定门$ - <color=#50DE47>\uf3c1 已解锁</color> - 在指定的门上按下 $[key]$ 可暂时锁定该门
+$<color=red>\uf023</color> 锁定门$ - <color=green>\uf3c1 已解锁</color> - 在指定的门上按下 $[key]$ 可暂时锁定该门

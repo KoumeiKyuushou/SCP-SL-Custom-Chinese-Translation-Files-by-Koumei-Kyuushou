@@ -5,7 +5,7 @@ MAX
 <color=red>\uf4e2 无摄像头</color>
 <color=#8080FF>\uf04b</color> 切换到：<color=#8080FF>[camera]</color> <color=red>\uf0e7-[cost]</color>
 <size=150%>❌ 错误 ❌</size>\n没有足够的备用电力
-\uf1da 预计恢复时间：[time]秒
+\uf1da [time]秒
 <size=150%>\uf05e 拒绝 \uf05e</size>\n需要更高的权限
 <size=150%>❌ 错误 ❌</size>\n不可用的摄像头
 <size=150%>\uf05e 拒绝 \uf05e</size>\n此门拒绝访问
@@ -35,7 +35,7 @@ MAX
 <size=150%>\uf071 限制 \uf071</size>\n已达到标记频率限制
 <size=150%>❌ 错误 ❌</size>\n摄像头切换失败
 信号丢失
-正在重新连接（预计：[time] 秒）
+正在重新连接\n\uf1da [time]秒
 <color=#E3A800>\uf0e7</color> 激活特斯拉电网 <color=red>\uf0e7-[cost]</color>
 <size=150%>\uf05e 拒绝 \uf05e</size>\n特斯拉电网处于冷却中
 $<color=#8080FF>\uf2bb</color> 权限等级 Lv.[tier]$ - <color=orange>\uf0d8 LEVEL UP</color>

@@ -7,7 +7,7 @@
  <p align="center">由 九霄鵼冥Koumei 製作</p>
 
 [![release](https://img.shields.io/badge/最新版本-v3.9.0-3F7ED4?style=flat)](https://github.com/KoumeiKyuushou/SCP-SL-Custom-Chinese-Translation-Files-by-Koumei-Kyuushou/releases/tag/v3.9.0)
-[![preview](https://img.shields.io/badge/最新預覽版-v3.9.1PreviewA-FFCB33?style=flat)](https://github.com/KoumeiKyuushou/SCP-SL-Custom-Chinese-Translation-Files-by-Koumei-Kyuushou/releases/tag/v3.9.1PreviewA)
+[![preview](https://img.shields.io/badge/最新預覽版-v4.0.0PreviewA-FFCB33?style=flat)](https://github.com/KoumeiKyuushou/SCP-SL-Custom-Chinese-Translation-Files-by-Koumei-Kyuushou/releases/tag/v4.0.0PreviewA)
 [![bilibili](https://img.shields.io/badge/bilibili-九霄鵼冥Koumei-FF9EF0?style=flat)](https://space.bilibili.com/173589887)
 [![youtube](https://img.shields.io/badge/YouTube-九霄鵼冥Koumei-FF1F1F?style=flat)](https://www.youtube.com/@Koumei-Kyuushou)
 ![qq](https://img.shields.io/badge/在QQ上下載或回報問題-739337627-FFFFFF?style=flat)
@@ -77,14 +77,10 @@
   版本規則如下：
   
   ```
-[版本號碼][補丁標識][補丁號碼]_[支援的遊戲版本]
+[版本號碼]_[支援的遊戲版本]
   ```
-* **版本號碼**：版本格式為 X.X.X ，第三位採十進位制（滿十進一）；逢重大改動或遊戲小版本（第二位）變更時，第二位進一且第三位歸零；逢遊戲大版本更新時，則第一位進一，其餘位數同步歸零。
+* **版本號碼**：版本格式為 X.X.X ，都採十進位制（滿十進一）；逢重大改動時，第一位進一其餘位數同步歸零；逢小型內容更新時，則第二位進一；逢補丁更新時，則第三位進一。
 
-* **補丁標識**：小寫的 t 與 s 字母，前者表示繁體中文（台灣），後者表示簡體中文。
-  
-* **補丁號碼**：兩位數，當對應語言版本進行了一次獨立修改時加一。
-  
 * **支援的遊戲版本**：就是遊戲自己的版本號碼。
 
 <br>
@@ -170,13 +166,9 @@
   版本规则如下：
   
   ```
-[版本号码][补丁标识][补丁号码]_[支援的游戏版本]
+[版本号码]_[支援的游戏版本]
   ```
-* **版本号码**：版本格式为 X.X.X ，第三位采十进制（满十进一）；逢重大改动或游戏小版本（第二位）变更时，第二位进一且第三位归零；逢游戏大版本更新时，则第一位进一，其余位数同步归零。
-  
-* **补丁标识**：小写的 t 与 s 字母，前者表示繁体中文（台湾），后者表示简体中文。
-  
-* **补丁号码**：两位数，当对应语言版本进行了一次独立修改时加一。
+* **版本号码**：版本格式为 X.X.X ，都采十进位制（满十进一）；逢重大改动时，第一位进一其余位数同步归零；逢小型内容更新时，则第二位进一；逢补丁更新时，则第三位进一。
   
 * **支援的游戏版本**：就是游戏自己的版本号码。
 

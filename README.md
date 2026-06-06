@@ -72,23 +72,6 @@
 
 <br>
 
-## 🔖 版本與命名
-
-  版本規則如下：
-  
-  ```
-[版本號碼]_[支援的遊戲版本]
-  ```
-* **版本號碼**：版本格式為 X.X.X ，都採十進位制（滿十進一）；逢重大改動時，第一位進一其餘位數同步歸零；逢小型內容更新時，則第二位進一；逢補丁更新時，則第三位進一。
-
-* **支援的遊戲版本**：就是遊戲自己的版本號碼。
-
-<br>
-
-  無論如何，翻譯檔案夾的命名永遠為“koumei_zh_tc”或“koumei_zh_sc”。
-  
-<br>
-
 ## ⚖️ 免責聲明
 
 * **非官方檔案**：本專案為第三方客製化翻譯檔，與 Northwood Studios（SCP: Secret Laboratory 官方開發團隊）無關。
@@ -161,23 +144,6 @@
 
 <br>
 
-## 🔖 版本与命名
-
-  版本规则如下：
-  
-  ```
-[版本号码]_[支援的游戏版本]
-  ```
-* **版本号码**：版本格式为 X.X.X ，都采十进位制（满十进一）；逢重大改动时，第一位进一其余位数同步归零；逢小型内容更新时，则第二位进一；逢补丁更新时，则第三位进一。
-  
-* **支援的游戏版本**：就是游戏自己的版本号码。
-
-<br>
-
-  无论如何，翻译文件夹的命名永远为“koumei_zh_tc”或“koumei_zh_sc”。
-
-<br>
-
 ## ⚖️ 免责声明
 
 * **非官方文件**：本项目为第三方自定义翻译文件，与 Northwood Studios（SCP: Secret Laboratory 官方开发团队）无关。
@@ -199,11 +165,11 @@
 
 <br>
 
-* 重生時防止遮擋，但又不失原版訊息。
+* 重生時盡量防止遮擋，不丟失原版訊息。
 
 > _僅限人類，不影響SCP。_
 
-![txt](./Assets/Features/1.png)
+![txt](./Assets/3.10.0/NTF.png)
 
 <br>
 
@@ -214,10 +180,10 @@
 <table border="0" width="100%">
   <tr>
     <td align="center" width="50%" style="border: none; background: none;">
-      <img src="./Assets/Features/2.png" style="max-width: 100%; height: auto;" alt="i01">
+      <img src="./Assets/3.10.0/207.png" style="max-width: 100%; height: auto;" alt="i01">
     </td>
     <td align="center" width="50%" style="border: none; background: none;">
-      <img src="./Assets/Features/3.png" style="max-width: 100%; height: auto;" alt="i02">
+      <img src="./Assets/3.10.0/268.png" style="max-width: 100%; height: auto;" alt="i02">
     </td>
   </tr>
 </table>
@@ -225,23 +191,13 @@
 <table border="0" width="100%">
   <tr>
     <td align="center" width="50%" style="border: none; background: none;">
-      <img src="./Assets/Features/4.png" style="max-width: 100%; height: auto;" alt="i03">
+      <img src="./Assets/3.10.0/500.png" style="max-width: 100%; height: auto;" alt="i03">
     </td>
     <td align="center" width="50%" style="border: none; background: none;">
-      <img src="./Assets/Features/5.png" style="max-width: 100%; height: auto;" alt="i04">
+      <img src="./Assets/3.10.0/018.png" style="max-width: 100%; height: auto;" alt="i04">
     </td>
   </tr>
 </table>
-
-![i05](./Assets/Features/10.png)
-
-<br>
-
-* SCP的獨特顏色。
-
-![scp01](./Assets/Features/7.png)
-
-![scp02](./Assets/Features/8.png)
 
 <br>
 
@@ -253,7 +209,7 @@
 
 <br>
 
-> _擷取時的翻譯文件版本為 3.9.0_
+> _擷取時的翻譯文件版本為 3.9.0 和 4.0.0 Preview A，以後會補全的_
 
 <br>
 
@@ -266,6 +222,8 @@
 **繁** [點擊這裡下載最新的 **繁體中文** 版本](https://github.com/KoumeiKyuushou/SCP-SL-Custom-Chinese-Translation-Files-by-Koumei-Kyuushou/releases/download/v3.9.0/zh_tc_bykoumei_3.9.0t01_14.2.6.zip)
 
 **简** [点击这里下载最新的 **简体中文** 版本](https://github.com/KoumeiKyuushou/SCP-SL-Custom-Chinese-Translation-Files-by-Koumei-Kyuushou/releases/download/v3.9.0/zh_sc_bykoumei_3.9.0s01_14.2.6.zip)
+
+> _注意，預覽版比穩定版新，相對來說預覽版體驗更好。_
 
 <br>
 
@@ -281,17 +239,17 @@
 
 * C.A.S.S.I.E在SCP被收容時讀出了HTML指令的color。
 
-> _原因未知，不知該如何解決_
+> _該問題已在最新預覽版中解決_
 
 ### 🔽 低優先
 
 * C.A.S.S.I.E廣播文本有延遲。
  
-> _原因已知，要解決只能不要廣播文本的美化_
+> _該問題已在最新預覽版中解決_
 
 * 觀眾左側角色文本與F1提示中的角色名字缺失。
 
-> _重生時大名字的隱藏造成了這個問題，如果官方不解決三者文本混用的問題，這個問題永遠無法解決_
+> _該問題已在最新預覽版中解決_
 
 <br>
 

@@ -35,7 +35,7 @@
 39~<b><color=#006326>\uf6de .44 Revolver \uf6de</color></b>
 40~<b><color=#008f1c>\uf6de AK \uf6de</color></b>
 41~<b><color=#006326>\uf6de DBB \uf6de</color></b>
-42~<color=purple><b>🍬 SCP-330 🍬</b></color>~<size=25%><color=#FFFFFF>一个装着以下糖果的袋子
+42~<color=purple><b>🍬 SCP-330 🍬</b></color>~
 43~<b><color=#32AD77>\uf0eb SCP-2176 \uf6e2</color></b>~<color=#E3A800>\uf070</color> | 断电 \uf017 13 <b>秒</b>\n<size=50%>如果房间本身断电则恢复灯光</size>\n<color=red>\uf05e</color> | 封锁 \uf017 13 <b>秒</b>\n<size=50%>如果房间本身封锁则打开所有门</size>\n\uf127 | 使<color=#EC2222>SCP-079</color>监视时暂时断线\n\n<size=80%>注意：易碎品\n破碎后会干扰电子设备~<color=#32AD77>鬼灯™
 44~<b><color=#ABB9CC>❄️ SCP-244-A ❄️</color></b>~<color=#ABB9CC>\uf0c2</color> | 制造一团冰雾 \n<color=#B05353>\uf714</color> | 雾會冻死人~<color=#ABB9CC>冰雾罐
 45~<b><color=#ABB9CC>❄️ SCP-244-B ❄️</color></b>~<color=#ABB9CC>\uf0c2</color> | 制造一团冰雾 \n<color=#B05353>\uf714</color> | 雾會冻死人~<color=#ABB9CC>冰雾罐

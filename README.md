@@ -10,21 +10,12 @@
 
 <!-- 徽章 -->
 
-<p align="center">
-  <a href="https://github.com/KoumeiKyuushou/SCP-SL-Custom-Chinese-Translation-Files-by-Koumei-Kyuushou/releases/tag/v3.9.0">
-    <img src="https://img.shields.io/badge/最新版本-v3.9.0-3F7ED4?style=flat" alt="release">
-  </a>
-  <a href="https://github.com/KoumeiKyuushou/SCP-SL-Custom-Chinese-Translation-Files-by-Koumei-Kyuushou/releases/tag/v4.0.0PreviewA">
-    <img src="https://img.shields.io/badge/最新預覽版-v4.0.0PreviewA-FFCB33?style=flat" alt="preview">
-  </a>
-  <a href="https://space.bilibili.com/173589887">
-    <img src="https://img.shields.io/badge/bilibili-九霄鵼冥Koumei-FF9EF0?style=flat" alt="bilibili">
-  </a>
-  <a href="https://www.youtube.com/@Koumei-Kyuushou">
-    <img src="https://img.shields.io/badge/YouTube-九霄鵼冥Koumei-FF1F1F?style=flat" alt="youtube">
-  </a>
-  <img src="https://img.shields.io/badge/在QQ上下載或回報問題-739337627-FFFFFF?style=flat" alt="qq">
-</p>
+[![release](https://img.shields.io/badge/最新版本-v3.9.0-3F7ED4?style=flat)](https://github.com/KoumeiKyuushou/SCP-SL-Custom-Chinese-Translation-Files-by-Koumei-Kyuushou/releases/tag/v3.9.0)
+[![preview](https://img.shields.io/badge/最新預覽版-v4.0.0PreviewA-FFCB33?style=flat)](https://github.com/KoumeiKyuushou/SCP-SL-Custom-Chinese-Translation-Files-by-Koumei-Kyuushou/releases/tag/v4.0.0PreviewA)
+[![bilibili](https://img.shields.io/badge/bilibili-九霄鵼冥Koumei-FF9EF0?style=flat)](https://space.bilibili.com/173589887)
+[![youtube](https://img.shields.io/badge/YouTube-九霄鵼冥Koumei-FF1F1F?style=flat)](https://www.youtube.com/@Koumei-Kyuushou)
+[![X](https://img.shields.io/badge/X-九霄鵼冥Koumei-303030?style=flat)](https://x.com/Koumei_Kyuushou)
+![qq](https://img.shields.io/badge/在QQ上下載或回報問題-739337627-FFFFFF?style=flat)
 
 <!-- 一級 -->
 

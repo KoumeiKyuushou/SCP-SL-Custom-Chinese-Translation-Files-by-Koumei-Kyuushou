@@ -10,6 +10,8 @@
 
 <!-- 徽章 -->
 
+<div align="center">
+
 [![release](https://img.shields.io/badge/最新版本-v3.9.0-3F7ED4?style=flat)](https://github.com/KoumeiKyuushou/SCP-SL-Custom-Chinese-Translation-Files-by-Koumei-Kyuushou/releases/tag/v3.9.0)
 [![preview](https://img.shields.io/badge/最新預覽版-v4.0.0PreviewA-FFCB33?style=flat)](https://github.com/KoumeiKyuushou/SCP-SL-Custom-Chinese-Translation-Files-by-Koumei-Kyuushou/releases/tag/v4.0.0PreviewA)
 [![bilibili](https://img.shields.io/badge/bilibili-九霄鵼冥Koumei-FF9EF0?style=flat)](https://space.bilibili.com/173589887)
@@ -19,6 +21,8 @@
 [![issues](https://img.shields.io/badge/回報-創建發起Issues-A4E04C?style=flat)](https://github.com/KoumeiKyuushou/SCP-SL-Custom-Chinese-Translation-Files-by-Koumei-Kyuushou/issues)
 [![GitHub Repo stars](https://img.shields.io/github/stars/KoumeiKyuushou/SCP-SL-Custom-Chinese-Translation-Files-by-Koumei-Kyuushou?color=FFDA66&style=flat)](https://github.com/KoumeiKyuushou/SCP-SL-Custom-Chinese-Translation-Files-by-Koumei-Kyuushou/stargazers)
 [![GitHub forks](https://img.shields.io/github/forks/KoumeiKyuushou/SCP-SL-Custom-Chinese-Translation-Files-by-Koumei-Kyuushou?color=FFFFFF&style=flat)](https://github.com/KoumeiKyuushou/SCP-SL-Custom-Chinese-Translation-Files-by-Koumei-Kyuushou/network/members)
+
+</div>
 
 <!-- 一級 -->
 

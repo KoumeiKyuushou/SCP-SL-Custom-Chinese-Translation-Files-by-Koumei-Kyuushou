@@ -6,7 +6,7 @@
 
 <h1 align="center">KOUMEI的中文客製化翻譯文件</h1>
 
-<p align="center">由 九霄鵼冥 Koumei 製作</p>
+<p align="center">由 九霄鵼冥Koumei 製作</p>
 
 <!-- 徽章 -->
 

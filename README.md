@@ -201,15 +201,15 @@
 
     ### 🔼 高優先
 
-     > _都在最新預覽版中被解決_
+    > _都在最新預覽版中被解決_
 
     ### ⏺️ 中優先
 
-     > _都在最新預覽版中被解決_
+    > _都在最新預覽版中被解決_
 
     ### 🔽 低優先
 
-     > _都在最新預覽版中被解決_
+    > _都在最新預覽版中被解決_
 
    <br>
 
@@ -387,11 +387,11 @@
 
     ### 🔼 高优先
 
-     > _都在最新预览版中被解决_
+    > _都在最新预览版中被解决_
 
     ### ⏺️ 中优先
 
-     > _都在最新预览版中被解决_
+    > _都在最新预览版中被解决_
 
     ### 🔽 低优先
 
@@ -410,6 +410,8 @@
      align="left" 
      width="400">
 
+<br clear="all">
+
 -----------------------------
 
 **貢獻者**
@@ -417,4 +419,5 @@
 [![Contributors](https://contrib.rocks/image?repo=KoumeiKyuushou/SCP-SL-Custom-Chinese-Translation-Files-by-Koumei-Kyuushou)](https://github.com/KoumeiKyuushou/SCP-SL-Custom-Chinese-Translation-Files-by-Koumei-Kyuushou/graphs/contributors)
 
 _115年 | 2026年 | 06月08日 | 週一
+
 By Koumei Kyuushou (九霄鵼冥Koumei)_

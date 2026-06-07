@@ -122,7 +122,7 @@
 
    * 詳細的功能描述與按物品類型的顏色標記，每個SCP物品和糖果有獨特顏色標記。
 
-   > _詳細的功能來源於[官方Wiki](https://en.scpslgame.com/index.php?title=穩定版_Page)，可能有誤或過時。_
+   > _詳細的功能來源於[官方Wiki](https://en.scpslgame.com/index.php?title=Main_Page)，可能有誤或過時。_
 
    <p align="center">
     <img src="https://github.com/KoumeiKyuushou/SCP-SL-Custom-Chinese-Translation-Files-by-Koumei-Kyuushou/blob/穩定版/Assets/Features/SCP物品1.png?raw=true" alt="SCP物品1" width="49%">
@@ -308,7 +308,7 @@
 
    * 详细的功能描述与按物品类型的颜色标记，每个SCP物品和糖果有独特颜色标记。
 
-   > _详细的功能来源于[官方Wiki](https://en.scpslgame.com/index.php?title=穩定版_Page)，可能有误或过时。_
+   > _详细的功能来源于[官方Wiki](https://en.scpslgame.com/index.php?title=Main_Page)，可能有误或过时。_
 
    <p align="center">
     <img src="https://github.com/KoumeiKyuushou/SCP-SL-Custom-Chinese-Translation-Files-by-Koumei-Kyuushou/blob/穩定版/Assets/Features/SCP物品1.png?raw=true" alt="SCP物品1" width="49%">

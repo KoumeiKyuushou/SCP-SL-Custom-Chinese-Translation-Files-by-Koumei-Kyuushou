@@ -1,30 +1,30 @@
-<b><color=red>雕像 - 最初之作</color></b> \n<size=20%>杀死所有人，不要让任何人逃走\n与其他 <color=#F00><b>SCP</b></color> 合作\n</size>
-<color=#ff8000><b>D级人员</b></color>\n<size=20%>设法逃离设施\n与 <color=#608f38><b>混沌分裂者</b></color> 合作\n躲开其他阵营\n</size>
-<size=20%>你很快就会重生\n</size>
-<b><color=#3451b3>恐怖老人</color></b> \n<size=20%>杀死所有人，不要让任何人逃走\n与其他 <color=#F00><b>SCP</b></color> 合作\n</size>
-<color=#00afff><b>九尾狐小队 收容专家</b></color>\n<size=20%>夺回设施控制权\n协助 <b><color=#ffff7c>科学家</color></b> 逃离设施\n消灭其他目标\n</size>
-<b><color=#a9de2c>疫医</color></b> \n<size=20%>杀死所有人，不要让任何人逃走\n与其他 <color=#F00><b>SCP</b></color> 合作\n</size>
-<color=#ffff7c><b>科学家</b></color>\n<size=20%>设法逃离设施\n <color=#5d87d2><b>MTF</b></color> 合作\n躲开其他阵营\n</size>
-<b><color=#8080FF>旧AI</color></b> \n<size=20%>杀死所有人，不要让任何人逃走\n与其他 <color=#F00><b>SCP</b></color> 合作\n</size>
-<color=#608f38><b>混沌分裂者 征召兵</b></color>\n<size=20%>占领设施夺取控制权\n协助 <color=#ff8000><b>D级人员</b></color> 逃离设施\n消灭其他目标\n</size>
-<b><color=#7d060a>羞涩的人</color></b> \n<size=20%>杀死所有人，不要让任何人逃走\n与其他 <color=#F00><b>SCP</b></color> 合作\n</size>
-<b><color=#e03d0b>“被治愈者”</color></b> \n<size=20%>杀死所有人，不要让任何人逃走\n与其他 <color=#F00><b>SCP</b></color> 合作\n</size>
-<color=#0096ff><b>九尾狐小队 中士</b></color>\n<size=20%>夺回设施控制权\n协助 <b><color=#ffff7c>科学家</color></b> 逃离设施\n消灭其他目标\n</size>
-<color=#003dca><b>九尾狐小队 指挥官</b></color>\n<size=20%>夺回设施控制权\n协助 <b><color=#ffff7c>科学家</color></b> 逃离设施\n消灭其他目标\n</size>
-<color=#70c3ff><b>九尾狐小队 列兵</b></color>\n<size=20%>夺回设施控制权\n协助 <b><color=#ffff7c>科学家</color></b> 逃离设施\n消灭其他目标\n</size>
-<color=#ff00b0><b>教程角色</b></color>\n<size=20%>遵循游戏提示完成您的使命\n</size>
-<color=#556278><b>设施警卫</b></color>\n<size=20%>夺回设施控制权\n协助 <b><color=#ffff7c>科学家</color></b> 逃离设施\n消灭其他目标\n</size>
-<b><color=#636363>千喉之兽</color></b> \n<size=20%>杀死所有人，不要让任何人逃走\n与其他 <color=#F00><b>SCP</b></color> 合作\n</size>
+<b><color=red><size=43%>雕像 - 最初之作</size></color></b> \n<size=20%>杀死所有人，不要让任何人逃走\n与其他 <color=#F00><b>SCP</b></color> 合作\n</size>
+<size=20%>设法逃离设施\n与 <color=#608f38><b>混沌分裂者</b></color> 合作\n躲开其他阵营\n</size>
+<size=20%>等待重生</size>
+<b><color=#3451b3><size=43%>恐怖老人</size></color></b> \n<size=20%>杀死所有人，不要让任何人逃走\n与其他 <color=#F00><b>SCP</b></color> 合作\n</size>
+<size=20%>夺回设施控制权\n协助 <b><color=#ffff7c>科学家</color></b> 逃离设施\n与 <color=#556278><b>设施警卫</b></color> 合作\n消灭其他目标\n</size>
+<b><color=#a9de2c><size=43%>疫医</size></color></b> \n<size=20%>杀死所有人，不要让任何人逃走\n与其他 <color=#F00><b>SCP</b></color> 合作\n</size>
+<size=20%>设法逃离设施\n与 <color=#5d87d2><b>九尾狐</b></color> 和 <color=#556278><b>设施警卫</b></color> 合作\n躲开其他阵营\n</size>
+<b><color=#8080FF><size=43%>旧AI</size></color></b> \n<size=20%>杀死所有人，不要让任何人逃走\n与其他 <color=#F00><b>SCP</b></color> 合作\n</size>
+<size=20%>占领设施夺取控制权\n协助 <color=#ff8000><b>D级人员</b></color> 逃离设施\n消灭其他目标\n</size>
+<b><color=#7d060a><size=43%>羞涩的人</size></color></b> \n<size=20%>杀死所有人，不要让任何人逃走\n与其他 <color=#F00><b>SCP</b></color> 合作\n</size>
+<b><color=#e03d0b><size=43%>“被治愈者”</size></color></b> \n<size=20%>杀死所有人，不要让任何人逃走\n与其他 <color=#F00><b>SCP</b></color> 合作\n</size>
+<size=20%>夺回设施控制权\n协助 <b><color=#ffff7c>科学家</color></b> 逃离设施\n与 <color=#556278><b>设施警卫</b></color> 合作\n消灭其他目标\n</size>
+<size=20%>夺回设施控制权\n协助 <b><color=#ffff7c>科学家</color></b> 逃离设施\n与 <color=#556278><b>设施警卫</b></color> 合作\n消灭其他目标\n</size>
+<size=20%>夺回设施控制权\n协助 <b><color=#ffff7c>科学家</color></b> 逃离设施\n与 <color=#556278><b>设施警卫</b></color> 合作\n消灭其他目标\n</size>
+<size=20%>遵循游戏提示完成您的使命\n</size>
+<size=20%>夺回设施控制权\n协助 <b><color=#ffff7c>科学家</color></b> 逃离设施\n与 <color=#5d87d2><b>九尾狐</b></color> 合作\n消灭其他目标\n</size>
+<b><color=#636363><size=43%>千喉之兽</size></color></b> \n<size=20%>杀死所有人，不要让任何人逃走\n与其他 <color=#F00><b>SCP</b></color> 合作\n</size>
 -
-<color=#008f1c><b>混沌分裂者 步枪手</b></color>\n<size=20%>占领设施夺取控制权\n协助 <color=#ff8000><b>D级人员</b></color> 逃离设施\n消灭其他目标\n</size>
-<color=#006326><b>混沌分裂者 掠夺者</b></color>\n<size=20%>占领设施夺取控制权\n协助 <color=#ff8000><b>D级人员</b></color> 逃离设施\n消灭其他目标\n</size>
-<color=#16853d><b>混沌分裂者 压制者</b></color>\n<size=20%>占领设施夺取控制权\n协助 <color=#ff8000><b>D级人员</b></color> 逃离设施\n消灭其他目标\n</size>
-<color=#00ffff><b>Overwatch</b></color>
-<color=#000000><b>Filmmaker</b></color>
-<b><color=#bf5e5e>是不是太冷淡了点？</color></b> \n<size=20%>杀死所有人，不要让任何人逃走\n与其他 <color=#F00><b>SCP</b></color> 合作\n</size>
+<size=20%>占领设施夺取控制权\n协助 <color=#ff8000><b>D级人员</b></color> 逃离设施\n消灭其他目标\n</size>
+<size=20%>占领设施夺取控制权\n协助 <color=#ff8000><b>D级人员</b></color> 逃离设施\n消灭其他目标\n</size>
+<size=20%>占领设施夺取控制权\n协助 <color=#ff8000><b>D级人员</b></color> 逃离设施\n消灭其他目标\n</size>
 -
-<b><color=#fb57c6>粉红火烈鸟</color></b> \n<size=20%>攻击你见到的任何东西\n与你的 <color=#FF59CA><b>族群</b></color> 合作\n</size>
-<b><color=#E94BB7>粉红火烈鸟</color></b> \n<size=20%>攻击你见到的任何东西\n与你的 <color=#FF59CA><b>族群</b></color> 合作\n</size>
-<b><color=#B08B68>僵尸火烈鸟</color></b> \n<size=20%>杀死所有人，不要让任何人逃走\n与其他 <color=#F00><b>節日掃興者</b></color> 合作\n</size>
-<color=#0096FF><b>九尾狐小队 火烈鸟</b></color>\n<size=20%>夺回设施控制权\n协助 <b><color=#ffff7c>科学家</color></b> 逃离设施\n消灭其他目标\n</size>
-<color=#006326><b>混沌分裂者 火烈鸟</b></color>\n<size=20%>占领设施夺取控制权\n协助 <color=#ff8000><b>D级人员</b></color> 逃离设施\n消灭其他目标\n</size>
+-
+<b><color=#bf5e5e><size=43%>是不是太冷淡了点 ?</size></color></b> \n<size=20%>杀死所有人，不要让任何人逃走\n与其他 <color=#F00><b>SCP</b></color> 合作\n</size>
+-
+<b><color=#fb57c6><size=43%>粉红火烈鸟</size></color></b> \n<size=20%>攻击你见到的任何东西\n与你的 <color=#FF59CA><b>族群</b></color> 合作\n</size>
+<b><color=#E94BB7><size=43%>粉红火烈鸟</size></color></b> \n<size=20%>攻击你见到的任何东西\n与你的 <color=#FF59CA><b>族群</b></color> 合作\n</size>
+<b><color=#B08B68><size=43%>僵尸火烈鸟</size></color></b> \n<size=20%>杀死所有人，不要让任何人逃走\n与其他 <color=#F00><b>節日掃興者</b></color> 合作\n</size>
+<color=#0096FF><b><size=43%>九尾狐小队 火烈鸟</size></b></color>\n<size=20%>夺回设施控制权\n协助 <b><color=#ffff7c>科学家</color></b> 逃离设施\n与 <color=#556278><b>设施警卫</b></color> 合作\n消灭其他目标\n</size>
+<color=#006326><b><size=43%>混沌分裂者 火烈鸟</size></b></color>\n<size=20%>占领设施夺取控制权\n协助 <color=#ff8000><b>D级人员</b></color> 逃离设施\n消灭其他目标\n</size>

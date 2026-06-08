@@ -63,7 +63,7 @@ SCP-079 - 后处理
 您确定要退出吗?
 屏幕分辨率
 隐藏IP地址
-欢迎回来，{username}\n翻译文件的适用版本是 14.2.6\n翻译文件版本 3.9.0s01\nMade by Koumei Kyuushou\n前往我的社交媒体或Github反馈问题\n该版本修改日期：\n2026年 | 03月26日 | 星期四
+欢迎回来，{username}\n翻译文件的适用版本是 14.2.7\n翻译文件版本 3.10.0 Preview A\nBy Koumei Kyuushou\n前往Github新建Issue來反馈问题\n该版本修改日期：\n2026年 | 06月05日 | 星期五
 <b>演职员表</b>
 身份验证中
 正在连接至中心服务器...

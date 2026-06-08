@@ -8,7 +8,7 @@ AttachmentDescriptiveAdvantages
 AttachmentDescriptiveDownsides
       配備術語，沒有修改。
 
-*AttachmentEditors
+📝AttachmentEditors
       工作站，有修改。
 
 AttachmentNames
@@ -23,13 +23,13 @@ AudioSettings
 Badges
       製作人員列表，沒有修改。
 
-*Categories
+📝Categories
       物品類別，有修改。
 
-*Class_Descriptions
+📝Class_Descriptions
       重生詳情，有修改。
 
-*Class_Names
+📝Class_Names
       角色名字，有修改。
 
 Class_Nicknames
@@ -38,42 +38,42 @@ Class_Nicknames
 Coffee
       咖啡文本，沒有修改。
 
-*Connection_Errors
+📝Connection_Errors
       伺服器報錯文本，在繁體中文有修改以同步官方簡體中文。
       簡體中文沒有修改。
 
-*Connection Info
+📝Connection Info
       載入文本，有修改。
 
 ControlsSettings
       控制設定內容，沒有修改。
 
-*DeathReasons
+📝DeathReasons
       死亡原因文本，有修改。
 
-*DecontaminationDisplays
+📝DecontaminationDisplays
       淨化程式面板，有修改。
 
-*Disarming
+📝Disarming
       繳械文本，有修改。
 
-*Doors
+📝Doors
       舊的門操作面板，有修改。
       但是已經沒啥用了，留著當兼容老版本遊戲。
 
-*Facility
+📝Facility
       超級多的雜項文本，有修改。
-      隱藏了“你是”文本，位於32行。
-      隱藏F1提示文本，位於35行。
+      修改“你是”文本為“YOU ARE”
+      修改F1提示文本，位於35行。
       修改玩家等待文本，位於29行。
 
-*Footprints
+📝Footprints
       影響力文本，有修改。
 
-*GameHints
+📝GameHints
       拾取上限文本，有修改。  
 
-*HID_Sign
+HID_Sign
       HID門上的面板文本。
 
 Hotkeys
@@ -85,19 +85,19 @@ HumanAbilities
 HumanBio
       人類幫助介紹文本，沒有修改。
 
-*Intercom
+📝Intercom
       廣播面板文本，有修改。
 
-*Intercom_Door_Sign
+📝Intercom_Door_Sign
       廣播室門上面板文本，有修改。
 
 InterfaceSettings
       介面設定內容，沒有修改。
 
-*InventoryGUI
+📝InventoryGUI
       提示文本和槍械背包數據文本，有修改。
 
-*Items
+📝Items
       物品背包文本，有修改。
 
 Keybinds
@@ -109,7 +109,7 @@ KeycardLabel
 KeyCodes
       按鍵標籤，沒有修改。
 
-Legacy_Interfaces
+📝Legacy_Interfaces
       舊版結束文本和其他現在也在使用的雜項，有修改。
       隱藏前三行九尾狐指揮提示的文本。
       修改第16行的文本，原本是“你被殺死了”。
@@ -124,24 +124,24 @@ MainMenu
 MenuWarnings
        集成顯示卡警告，沒有修改。
 
-NewMainMenu
+📝NewMainMenu
        主介面，有修改。
 
-*Nuke
+📝Nuke
        核彈面板，有修改。
 
-*Nuke_Silo_Sign
+📝Nuke_Silo_Sign
        核彈電梯上方面板文本，有修改。
        但是已經沒了，留著當兼容老版本遊戲。
 
-*OtherSettings
+📝OtherSettings
        其它設定內容，有修改。
        SCP生成偏好前面加了一個符號。
 
 Overwatch_HUD
        Overwatch介面，沒有修改。
 
-*RA_RoleManagement
+📝RA_RoleManagement
        管理員面板角色名字，有修改。
 
 ReportForm
@@ -156,46 +156,46 @@ SCP_Interfaces
 SCP079
        舊版SCP079，沒有修改。
 
-*SCP079_HUD
+📝SCP079_HUD
        SCP079，有修改。
 
-*SCP096_HUD
+📝SCP096_HUD
        SCP096，有修改。
 
-*SCP106_HUD
+📝SCP106_HUD
        SCP106，有修改。
 
 SCP127VoiceLines
        SCP127交流文本，沒有修改。
 
-*SCP173_HUD
-       SCP173，有修改。
+SCP173_HUD
+       SCP173，沒有修改。
 
-*SCP330
+📝SCP330
        糖果背包文本，有修改。
 
-*SCP330_Halloween
+📝SCP330_Halloween
        萬聖節糖果背包文本，有修改。
 
-*SCP939_HUD
+📝SCP939_HUD
        SCP939，有修改。
 
 SCP1507_HUD
        SCP1507，沒有修改。
 
-*SCP3114_HUD
+📝SCP3114_HUD
        SCP3114，有修改。
 
-*SettingsCategories
+📝SettingsCategories
        設定選項標籤，有修改。
 
-*Subtitle
+📝Subtitle
        廣播文本，有修改。
 
-*Summary
+📝Summary
        終局文本，有修改。
 
-*Teams
+📝Teams
        陣營標籤，用在SCP079介面，有修改。
 
 Version_7-0-0
@@ -204,5 +204,5 @@ Version_7-0-0
 VideoSettings
        視訊設定內容，沒有修改。
 
-*Voicechat
+📝Voicechat
        語音相關文本，有修改。

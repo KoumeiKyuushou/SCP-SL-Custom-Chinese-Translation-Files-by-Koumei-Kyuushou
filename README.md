@@ -133,7 +133,7 @@
    </p>
 
    <p align="center">
-    <img src="https://github.com/KoumeiKyuushou/SCP-SL-Custom-Chinese-Translation-Files-by-Koumei-Kyuushou/blob/穩定版/Assets/Features/糖果1.png?raw=true" alt="糖果1" width="49%">
+    <img src="https://github.com/KoumeiKyuushou/SCP-SL-Custom-Chinese-Translation-Files-by-Koumei-Kyuushou/blob/%E7%A9%A9%E5%AE%9A%E7%89%88/Assets/Features/%E7%B3%96%E6%9E%9C1.png?raw=true" alt="糖果1" width="49%">
     <img src="https://github.com/KoumeiKyuushou/SCP-SL-Custom-Chinese-Translation-Files-by-Koumei-Kyuushou/blob/穩定版/Assets/Features/糖果2.png?raw=true" alt="糖果2" width="49%">
    </p>
 

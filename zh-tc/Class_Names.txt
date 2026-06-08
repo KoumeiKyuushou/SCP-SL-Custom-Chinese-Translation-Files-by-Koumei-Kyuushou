@@ -1,30 +1,30 @@
-<color=red><b>SCP-173</b></color>
-ㅤ
-Spectator
-<color=#3451b3><b>SCP-106</b></color>
-ㅤ
-<color=#a9de2c><b>SCP-049</b></color>
-ㅤ
-<color=#8080FF><b>SCP-079</b></color>
-ㅤ
-<color=#7d060a><b>SCP-096</b></color>
-<color=#e03d0b><b>SCP-049-2</b></color>
-ㅤ
-ㅤ
-ㅤ
-ㅤ
-ㅤ
-<color=#636363><b>SCP-939</b></color>
+SCP-173
+<color=#ff8000><b>D級人員\n</b></color>
+<b>觀眾\n</b>
+SCP-106
+<color=#00afff><b>九尾狐小隊 專家\n</b></color>
+SCP-049
+<color=#ffff7c><b>科學家\n</b></color>
+SCP-079
+<color=#608f38><b>混沌分裂者 征召兵\n</b></color>
+SCP-096
+SCP-049-2
+<color=#0096ff><b>九尾狐小隊 中士\n</b></color>
+<color=#003dca><b>九尾狐小隊 指揮官\n</b></color>
+<color=#70c3ff><b>九尾狐小隊 列兵\n</b></color>
+<color=#ff00b0><b>教程角色\n</b></color>
+<color=#556278><b>設施警衛\n</b></color>
+SCP-939
 -
-ㅤ
-ㅤ
-ㅤ
-ㅤ
-ㅤ
-<color=#bf5e5e><b>SCP-3114</b></color>
+<color=#008f1c><b>混沌分裂者 步槍手\n</b></color>
+<color=#006326><b>混沌分裂者 掠奪者\n</b></color>
+<color=#16853d><b>混沌分裂者 壓制者\n</b></color>
+<color=#00ffff><b>監管模式\n</b></color>
+導演模式
+SCP-3114
 斷線玩家
-<color=#fb57c6><b>SCP-1507</b></color>
-<color=#E94BB7><b>SCP-1507-Alpha</b></color>
-<color=#B08B68><b>SCP-1507-049</b></color>
-<color=#0096FF><b>SCP-1507-Nine-Tailed</b></color>
-<color=#006326><b>SCP-1507-Chaos Insurgency</b></color>
+SCP-1507
+SCP-1507-Alpha
+SCP-1507-049
+SCP-1507-Nine-Tailed
+SCP-1507-Chaos Insurgency

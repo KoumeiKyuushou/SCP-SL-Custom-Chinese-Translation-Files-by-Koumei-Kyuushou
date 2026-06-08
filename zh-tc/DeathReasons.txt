@@ -1,36 +1,36 @@
-💀 這是 <color=#ff80bc><b>[user]</b></color> 的屍體！\n死因：[cause]
+💀 這是 <b>[user]</b> 的屍體！\n[cause]
 重新收容
-在Alpha核彈頭的爆破中蒸發\n原因：<color=#f5650a>未能及時撤離</color>
-突發性死亡，無明顯外傷\n原因：<color=#e52121>SCP-049</color> / <color=#e52121>SCP-049-2</color>
-死因不明\n原因： <color=#f5650a>未知</color>
+在Alpha核彈頭的爆破中蒸發
+突發性死亡，無明顯外傷\n死因：<color=#a9de2c><b>SCP-049</b></color> | <color=#e03d0b><b>SCP-049-2</b></color> | <color=#bf5e5e><b>SCP-3114</b></color>
+死因不明
 重度電擊灼燒
-因缺氧而窒息致死
+缺氧而窒息致死
 傷口過深導致失血過多
-你失血過多
+你失血過多死亡
 從高處摔落造成的腿骨粉碎性骨折
 你摔落致死
-腐爛於口袋次元\n原因：<color=#e52121>SCP-106</color>
-被强酸性氣體腐蝕殆盡\n原因：<color=#7cf58d>淨化</color>
-中毒身亡，屍體泛黃且散發惡臭\n原因：<color=#F5650A>攝入毒物</color>
-你中毒致死\n原因：將 <color=#e52121>SCP-207</color> 和 <color=#e52121>SCP-1853</color> 混合
-攝入不明物質導致臟器大出血\n原因：<color=#e52121>SCP-207</color>
-<color=#e52121>SCP-207</color> 终结了你
-你不該拿走超過兩顆的！\n原因：<color=#e52121>SCP-330</color>
+屍體上有嚴重腐蝕\n死因：<color=#3451b3><b>SCP-106</b></color>
+被輕收容區淨化程序清除
+屍體泛黃且散發惡臭\n死因：<color=#F5650A><b>攝入毒物</b></color>
+你中毒致死\n死因：將 <color=#fe001a><b>SCP-207</b></color> 和 <color=#95D600><b>SCP-1853</b></color> 混合使用
+攝入不明物質導致臟器大出血\n原因：<color=#fe001a><b>SCP-207</b></color>
+<color=#fe001a><b>SCP-207</b></color> 殺死了你
+你不該拿走超過兩顆的！\n原因：<color=purple><b>SCP-330</b></color>
 你已被特斯拉電網攔截消滅
-爆炸所造成的炸彈碎片傷和三度燒傷\n原因：<color=orange>爆炸</color>
-你被周圍的爆炸波及炸死\n原因：<color=#5180f7>高爆手雷</color>/<color=#ff80bc>Funny</color>
-大面積撕裂傷造成的失血過多\n原因：<color=#e52121>SCP-096</color>
-頸椎根部粉碎性骨折\n原因：<color=#e52121>SCP-173</color>
-顎骨附近有較大較深的咬痕\n原因：<color=#e52121>SCP-939</color>
-身體上有鈍性創傷和一些輕微的劃痕\n原因：<color=#FF59CA>SCP-1507</color>或 <color=#ab99bf><b>棉花糖人</b></color>
-被 [ammotype] 彈藥射殺
-鈍器挫傷致死，屍體已不成人形\n原因：<color=#e52121>SCP-018</color> 或 設施禁區
-股骨挫傷造成的迴圈休克致死
+爆炸所造成的炸彈碎片傷和三度燒傷\n死因：<color=orange><b>爆炸</b></color>
+你被周圍的爆炸波及炸死
+大面積撕裂傷造成的失血過多\n死因：<color=#7d060a><b>SCP-096</b></color>
+頸椎根部粉碎性骨折\n死因：<color=red><b>SCP-173</b></color>
+顎骨附近有較大較深的咬痕\n死因：<color=#636363><b>SCP-939</b></color>
+身體上有鈍性創傷和一些輕微的劃痕\n死因：<color=#FF59CA><b>SCP-1507</b></color>、<color=#bf5e5e><b>SCP-3114</b></color> 或 <color=#ab99bf><b>棉花糖人</b></color> 等等......\n<size=45%>我沒招了，我甚至去Lambda的新版本看了看，連他也受不了了，有太多東西殺死都是這個原因，不是我就請問了這是何意味？這麼多東西就套這一個也是真神了。
+被 <b><color=#BF965C>[ammotype]</color></b> 彈藥射殺
+鈍器挫傷致死，屍體已不成人形\n死因：<color=#F00><b>SCP-018</b></color> 或 <b>設施禁區</b>
+股骨挫傷造成的失血性休克致死
 為重新收容SCP-106，你被獻祭了
 因誤傷友軍被自動處死
-冰冷的皮膚和凍傷的手指表明死於體溫過低\n原因：<color=#e52121>SCP-244</color>
-你被凍死了\n原因：<color=#e52121>SCP-244</color>
-屍體上存在深度劃傷和抓痕\n原因：<color=#e52121>SCP-939</color>
-棉花糖人殺死了你！
-被有機殘留物射殺\n原因：<color=red>SCP-127</color>
-多處開放性傷口且有小蟲從中爬出\n原因：<color=red>SCP-1509</color>
+冰冷的皮膚和凍傷的手指表明死於體溫過低\n死因：<color=#ABB9CC><b>SCP-244</b></color>
+你被凍死了\n死因：<color=#ABB9CC><b>SCP-244</b></color>
+屍體上存在深度劃傷和抓痕\n原因：<color=#636363><b>SCP-939</b></color>
+<color=#ab99bf><b>棉花糖人</b></color>殺死了你！
+被有機殘留物射殺\n死因：<color=#8079FF><b>SCP-127</b></color>
+多處開放性傷口且有小蟲從中爬出\n死因：<color=red><b>SCP-1509</b></color>

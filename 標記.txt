@@ -1,4 +1,7 @@
-這裡是各個文件的內容簡介以及其修改標記
+#這裡標記了每一個檔案是幹什麼，部分註釋了具體修改位置。
+#每一個有修改的檔案前方都有“📝”Emoji標識。
+#修改過的檔案需要記錄修改時檔案版本。
+
 ActionCategory
       舊的設定標籤，沒有修改。
 
@@ -10,6 +13,7 @@ AttachmentDescriptiveDownsides
 
 📝AttachmentEditors
       工作站，有修改。
+      上次修改：4.0.0 Preview B
 
 AttachmentNames
       配件詳情，沒有修改。
@@ -25,12 +29,15 @@ Badges
 
 📝Categories
       物品類別，有修改。
+      上次修改：3.8.1
 
 📝Class_Descriptions
       重生詳情，有修改。
+      上次修改：4.0.0 Preview A
 
 📝Class_Names
       角色名字，有修改。
+      上次修改：4.0.0 Preview A
 
 Class_Nicknames
       幫助，沒有修改。
@@ -41,37 +48,46 @@ Coffee
 📝Connection_Errors
       伺服器報錯文本，在繁體中文有修改以同步官方簡體中文。
       簡體中文沒有修改。
+      上次修改：3.8.1
 
 📝Connection Info
       載入文本，有修改。
+      上次修改：4.0.0 Preview A
 
 ControlsSettings
       控制設定內容，沒有修改。
 
 📝DeathReasons
       死亡原因文本，有修改。
+      上次修改：4.0.0 Preview A
 
 📝DecontaminationDisplays
       淨化程式面板，有修改。
+      上次修改：4.0.0 Preview A
 
 📝Disarming
       繳械文本，有修改。
+      上次修改：4.0.0 Preview B
 
 📝Doors
       舊的門操作面板，有修改。
       但是已經沒啥用了，留著當兼容老版本遊戲。
+      上次修改：公開之前
 
 📝Facility
       超級多的雜項文本，有修改。
       修改“你是”文本為“YOU ARE”
       修改F1提示文本，位於35行。
       修改玩家等待文本，位於29行。
+      上次修改：4.0.0 Preview B
 
 📝Footprints
       影響力文本，有修改。
+      上次修改：4.0.0 Preview B
 
 📝GameHints
       拾取上限文本，有修改。  
+      上次修改：3.8.1
 
 HID_Sign
       HID門上的面板文本。
@@ -87,18 +103,21 @@ HumanBio
 
 📝Intercom
       廣播面板文本，有修改。
+      上次修改：4.0.0 Preview B
 
-📝Intercom_Door_Sign
-      廣播室門上面板文本，有修改。
+Intercom_Door_Sign
+      廣播室門上面板文本，沒有修改。
 
 InterfaceSettings
       介面設定內容，沒有修改。
 
 📝InventoryGUI
       提示文本和槍械背包數據文本，有修改。
+      上次修改：4.0.0 Preview B
 
 📝Items
       物品背包文本，有修改。
+      上次修改：4.0.0 Preview A
 
 Keybinds
       按鍵綁定文本，沒有修改。
@@ -113,7 +132,8 @@ KeyCodes
       舊版結束文本和其他現在也在使用的雜項，有修改。
       隱藏前三行九尾狐指揮提示的文本。
       修改第16行的文本，原本是“你被殺死了”。
-      隱藏“為”文本，位於17行。
+      修改第17行的文本，原本是“為”。
+      上次修改：4.0.0 Preview B
 
 LoadingHints
       載入Tips，沒有修改。
@@ -126,23 +146,26 @@ MenuWarnings
 
 📝NewMainMenu
        主介面，有修改。
+       上次修改：每一次更新都要修改
 
 📝Nuke
        核彈面板，有修改。
+       上次修改：4.0.0 Preview B
 
 📝Nuke_Silo_Sign
        核彈電梯上方面板文本，有修改。
        但是已經沒了，留著當兼容老版本遊戲。
+       上次修改：公開之前
 
 📝OtherSettings
-       其它設定內容，有修改。
-       SCP生成偏好前面加了一個符號。
+       其它設定內容，沒有修改。
 
 Overwatch_HUD
        Overwatch介面，沒有修改。
 
 📝RA_RoleManagement
        管理員面板角色名字，有修改。
+       上次修改：公開之前
 
 ReportForm
        檢舉介面，沒有修改。
@@ -158,12 +181,15 @@ SCP079
 
 📝SCP079_HUD
        SCP079，有修改。
+       上次修改：4.0.0 Preview A
 
 📝SCP096_HUD
        SCP096，有修改。
+       上次修改：4.0.0 Preview A
 
 📝SCP106_HUD
        SCP106，有修改。
+       上次修改：4.0.0 Preview A
 
 SCP127VoiceLines
        SCP127交流文本，沒有修改。
@@ -173,36 +199,46 @@ SCP173_HUD
 
 📝SCP330
        糖果背包文本，有修改。
+       上次修改：4.0.0 Preview B
 
 📝SCP330_Halloween
        萬聖節糖果背包文本，有修改。
+       上次修改：公開之前
 
 📝SCP939_HUD
        SCP939，有修改。
+       上次修改：4.0.0 Preview A
 
 SCP1507_HUD
        SCP1507，沒有修改。
 
 📝SCP3114_HUD
        SCP3114，有修改。
+       上次修改：4.0.0 Preview B
 
 📝SettingsCategories
        設定選項標籤，有修改。
+       上次修改：3.8.1
 
 📝Subtitle
        廣播文本，有修改。
+       上次修改：4.0.0 Preview A
 
 📝Summary
        終局文本，有修改。
+       上次修改：4.0.0 Preview A
 
 📝Teams
        陣營標籤，用在SCP079介面，有修改。
+       上次修改：4.0.0 Preview A
 
-Version_7-0-0
-       7版本更新的文本，現在版本的“你死了”用的是這裡的，沒有修改。
+📝 Version_7-0-0
+       7版本更新的文本，現在版本的“你死了”用的是這裡的，有修改。
+       上次修改：4.0.0 Preview B
 
 VideoSettings
        視訊設定內容，沒有修改。
 
 📝Voicechat
        語音相關文本，有修改。
+       上次修改：4.0.0 Preview B

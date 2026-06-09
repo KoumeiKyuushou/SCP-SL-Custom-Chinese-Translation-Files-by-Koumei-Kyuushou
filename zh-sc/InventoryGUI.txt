@@ -12,19 +12,19 @@
 <b>移动速度</b>
 <b>物品上限:</b>
 <b>弹药上限:</b>
-<b>共计[amount]</b>
+<b>共计 [amount]</b>
 <b>护甲穿透</b>
 <b>奔跑时射击精度</b>
 按下 <color=#ff80bc><b>[key]</b></color> 键发出奸笑声
-<voffset=-2.5em><size=150%>剩余电量：<size=175%><b>[percent]</b></size></voffset>
-<voffset=-2.5em><size=150%>剩余弹药：<size=175%><b>[rem]</b></size></voffset>
-<size=750%>\n</size>按住 <b>[primary]</b> 使用快速射击模式
+剩余电量：<b>[percent]</b>
+剩余弹药：<b>[rem]</b>
+按住 <b>[primary]</b> 使用快速射击模式
 按住 <b>[secondary]</b> 使用高能蓄力模式
-<size=750%>\n</size><color=#00ff00><size=125%></size>按下 </color>\n<size=80%><b>[key]</b> 切换射击模式</size>
-<size=750%>\n</size>按下 <b>[key]</b> 进行攻击
+按下 <b>[key]</b> 键切换射击模式
+按下 <b>[key]</b> 进行攻击
 按住 <b>[key]</b> 进行充能
-<size=750%>\n</size><color=#00ff00><size=125%>放电已就绪，按 </size></color>\n<size=80%><b>[primary]</b> 发射</size>
-<size=750%>\n</size><color=yellow>⚠</color> - MICRO H.I.D. 已损坏 - <color=yellow>⚠</color>\n<size=80%>功能受限</size>
-<color=red>SCP-127</color>的力量会随着您与它联结的加深而变得更强
+<color=#FFC338>ℹ️<size=125%><b> 放电已就绪</b></size></color>\n<size=80%>按下<b> [primary] </b>键发射</size>
+<color=#FF4747>\uf071</color>  MICRO H.I.D. 已损坏，功能受限
+<color=#8079FF><b>SCP-127</b></color> 的力量会随着您与它联结的加深而变得更强
 使用$方向键$或$[up], [left], [down], 以及[right]键$来控制蛇的移动
 <b>冲刺速度</b>

@@ -1,3 +1,3 @@
-你已被 <color=#FFFF00><b>[player]</b></color> 扣押
-<color=red>伺服器管理員</color>
+<color=#FF4747>\uf071  你已被 <color=#FFFF00><b>[player]</b></color> <color=#FF4747>扣押
+<color=#ff00b0>伺服器管理員</color>
 聽從指揮或向隊友尋求幫助

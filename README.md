@@ -13,7 +13,7 @@
 <div align="center">
 
 [![release](https://img.shields.io/badge/最新版本-v3.9.0-3F7ED4?style=flat)](https://github.com/KoumeiKyuushou/SCP-SL-Custom-Chinese-Translation-Files-by-Koumei-Kyuushou/releases/tag/v3.9.0)
-[![preview](https://img.shields.io/badge/最新預覽版-v4.0.0PreviewB-FFCB33?style=flat)](https://github.com/KoumeiKyuushou/SCP-SL-Custom-Chinese-Translation-Files-by-Koumei-Kyuushou/releases/tag/v4.0.0PreviewB)
+[![preview](https://img.shields.io/badge/最新預覽版-v4.0.0PreviewC-FFCB33?style=flat)](https://github.com/KoumeiKyuushou/SCP-SL-Custom-Chinese-Translation-Files-by-Koumei-Kyuushou/releases/tag/v4.0.0PreviewC)
 [![bilibili](https://img.shields.io/badge/bilibili-九霄鵼冥Koumei-FF9EF0?style=flat)](https://space.bilibili.com/173589887)
 [![youtube](https://img.shields.io/badge/YouTube-九霄鵼冥Koumei-FF1F1F?style=flat)](https://www.youtube.com/@Koumei-Kyuushou)
 [![X](https://img.shields.io/badge/X-九霄鵼冥Koumei-303030?style=flat)](https://x.com/Koumei_Kyuushou)
@@ -189,7 +189,7 @@
 
    **繁** [點擊這裡下載最新的穩定版 **繁體中文** 版本](https://github.com/KoumeiKyuushou/SCP-SL-Custom-Chinese-Translation-Files-by-Koumei-Kyuushou/releases/download/v3.9.0/zh_tc_bykoumei_3.9.0t01_14.2.6.zip)
 
-   **預** [點擊這裡下載最新的預覽版 **繁體中文** 版本](https://github.com/KoumeiKyuushou/SCP-SL-Custom-Chinese-Translation-Files-by-Koumei-Kyuushou/releases/download/v4.0.0PreviewB/zh_tc_bykoumei_4.0.0previewB_14.2.7.zip)
+   **預** [點擊這裡下載最新的預覽版 **繁體中文** 版本](https://github.com/KoumeiKyuushou/SCP-SL-Custom-Chinese-Translation-Files-by-Koumei-Kyuushou/releases/download/v4.0.0PreviewC/zh_tc_bykoumei_4.0.0previewC_14.2.7.zip.zip)
 
    > _注意，預覽版比穩定版新，相對來說預覽版體驗更好_
 
@@ -375,7 +375,7 @@
 
    **简** [点击这里下载最新的稳定版 **简体中文** 版本](https://github.com/KoumeiKyuushou/SCP-SL-Custom-Chinese-Translation-Files-by-Koumei-Kyuushou/releases/download/v3.9.0/zh_sc_bykoumei_3.9.0s01_14.2.6.zip)
 
-   **预** [点击这里下载最新的预览版 **简体中文** 版本](https://github.com/KoumeiKyuushou/SCP-SL-Custom-Chinese-Translation-Files-by-Koumei-Kyuushou/releases/download/v4.0.0PreviewB/zh_sc_bykoumei_4.0.0previewB_14.2.7.zip)
+   **预** [点击这里下载最新的预览版 **简体中文** 版本](https://github.com/KoumeiKyuushou/SCP-SL-Custom-Chinese-Translation-Files-by-Koumei-Kyuushou/releases/download/v4.0.0PreviewC/zh_sc_bykoumei_4.0.0previewC_14.2.7.zip.zip)
 
    > _注意，预览版比稳定版新，相对来说预览版体验更好_
 
@@ -403,10 +403,19 @@
 
 # 祝你玩得開心！
 
-<img src="https://github.com/KoumeiKyuushou/SCP-SL-Custom-Chinese-Translation-Files-by-Koumei-Kyuushou/blob/穩定版/Assets/ainime/Suwako_Iake.jpg?raw=true" 
-     alt="Suwako Iake" 
+<img src="https://github.com/KoumeiKyuushou/SCP-SL-Custom-Chinese-Translation-Files-by-Koumei-Kyuushou/blob/穩定版/Assets/ainime/イラストアトリエ_ワンドロ＋28分で小傘ちゃんを描きました！_毎日ワンドロ419日目です！_多々良小傘.jpg?raw=true" 
      align="left" 
      width="400">
+
+<br clear="all">
+
+<br>
+
+> 來源：[@illust_atelier3](https://x.com/illust_atelier3)
+> 貼文：https://x.com/illust_atelier3/status/2064312865985868109
+> 侵刪
+
+<br>
 
 **貢獻者**
 

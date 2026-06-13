@@ -3,16 +3,16 @@
 \n                 現時還有<color=#EC2222><b>1個SCP</b></color>等待被重新收容。
 \n                 設施內仍然存在影響安全的潜在<color=#608f38><b>重大威脅</b></color>——請謹慎行事。
 被成功消滅，死亡原因不明。
-已被<color=#EC2222><b>SCP-[scp]</b></color>消滅。
-已被<color=#2497f0><b>特斯拉電門</b></color>成功消滅。
-已被<color=#FF7F29><b>Alpha核彈頭</b></color>成功消滅。
-已被<color=#ffff7c><b>科學家</b></color>重新收容。
-已被<color=#ff8000><b>D級人員</b></color>重新收容。
-已被<color=#608f38><b>混沌分裂者</b></color>重新收容。
+已被<color=#EC2222><b> SCP-[scp] </b></color>消滅。
+已被<color=#2497f0><b> 特斯拉電門 </b></color>成功消滅。
+已被<color=#FF7F29><b> Alpha核彈頭 </b></color>成功消滅。
+已被<color=#ffff7c><b> 科學家 </b></color>重新收容。
+已被<color=#ff8000><b> D級人員 </b></color>重新收容。
+已被<color=#608f38><b> 混沌分裂者 </b></color>重新收容。
 <color=#EC2222><b>SCP-[scp]</b></color>
 已被成功收容，<b>收容方式不明</b>。
 已被<color=#5d87d2><b> [designation] </b></color>成功收容。
-已被<color=#82BD71><b>輕收容區淨化程序</b></color>清除。
+已被<color=#82BD71><b> 輕收容區淨化程序 </b></color>清除。
 <color=#91FFE6>\uf0ad <b>[current]/[max]</b></color> 的應急發電站已被啟動。
 \n                 <b>所有的應急發電站已被成功啟動。</b></color>
 <color=#91FFE6>\uf0ad</color> <b>超載倒數計時3… 2… 1…</b></color>
@@ -28,5 +28,5 @@
 已被<color=#ab99bf><b>棉花糖人</b></color>消滅。
 <color=#5d87d2>\uf57d</color> <color=#5d87d2><b>九尾狐增援部隊</b></color>已進入設施。
 <color=#608f38>\uf6de</color> 全體人員請注意，在A大門處偵測到<color=#608f38><b>[number]名混沌分裂者</b></color>。\n                 已授權使用致命武力。
-<color=#608f38>\uf6de</color> 已在A大門處確認新增<color=#608f38><b> [number] 名混沌分裂者</b></color>。\n                 防禦模型：已更新。
+<color=#608f38>\uf6de</color> 已在A大門處確認新增<color=#608f38><b>[number]名混沌分裂者</b></color>。\n                 防禦模型：已更新。
 <color=#FF4545>\uf7b9</color> 站點恢復失敗——<color=#FF4545><b>終焉協議已啟動</b></color>。\n                 本設施的地下區域將在倒計時<color=#D12A2A><b>[time]秒</b></color>後自毀。

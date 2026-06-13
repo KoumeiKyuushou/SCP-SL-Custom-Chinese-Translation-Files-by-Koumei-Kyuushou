@@ -2,8 +2,8 @@
  (+%influence% 👊)
 <color=%factionColor%>%timeDisplay%%influenceDisplay%</color>
 <size=150%><color=#FFC338>ℹ️</color> <b>已完成的目標將會顯示在這裡</b></size>
-<color=#F54949>💀</color>  <color=%achieverColor%>%achieverName%</color> 殺死了 <color=%victimColor%>%victimName%</color>
-<color=#FCAA2D>\uf7e4</color>   <color=%achieverColor%>%achieverName%</color> 對 <color=%victimColor%>%victimName%</color> 造成了有效傷害
-<color=#B5B5B5>\uf70c</color>   <color=%achieverColor%>%achieverName%</color> 逃離了設施
-<color=#91FFE6>\uf0ad</color>  <color=%achieverColor%>%achieverName%</color> 啟動了一台<b>發電機</b>
-<color=#F5DD5B>\uf555</color>   <color=%achieverColor%>%achieverName%</color> 拾取了 <color=#EC2222>%itemName%</color>
+<color=#F54949>💀</color>  <color=%achieverColor%><b>%achieverName%</b></color> 殺死了 <color=%victimColor%><b>%victimName%</b></color>
+<color=#FCAA2D>\uf7e4</color>  <color=%achieverColor%><b>%achieverName%</b></color> 對 <color=%victimColor%><b>%victimName%</b></color> <color=#ffffff>造成了</color><color=#FCAA2D>有效傷害</color>
+<color=#B5B5B5>\uf70c</color>  <color=%achieverColor%><b>%achieverName%</b></color> 逃離了設施
+<color=#91FFE6>\uf0ad</color>  <color=%achieverColor%><b>%achieverName%</b></color> 啟動了一台<color=#91FFE6><b>發電機</b></color> 
+<color=#F5DD5B>\uf555</color>  <color=%achieverColor%><b>%achieverName%</b></color> 拾取了 <color=#EC2222>%itemName%</color>

@@ -3,16 +3,16 @@
 \n                 目前还有<color=#EC2222><b>1個SCP</b></color>等待被重新收容。
 \n                 设施内仍然存在影响安全的潜在<color=#608f38><b>重大威胁</b></color>——请谨慎行事。
 已被成功消灭，死亡原因不明。
-已被<color=#EC2222><b>SCP-[scp]</b></color>消灭。
-已被<color=#2497f0><b>特斯拉电門</b></color>成功消灭。
-已被<color=#FF7F29><b>Alpha核弹头</b></color>成功消灭。
-已被<color=#ffff7c><b>科学家</b></color>重新收容。
-已被<color=#ff8000><b>D级人员</b></color>重新收容。
-已被<color=#608f38><b>混沌分裂者</b></color>重新收容。
+已被<color=#EC2222><b> SCP-[scp] </b></color>消灭。
+已被<color=#2497f0><b> 特斯拉电門 </b></color>成功消灭。
+已被<color=#FF7F29><b> Alpha核弹头 </b></color>成功消灭。
+已被<color=#ffff7c><b> 科学家 </b></color>重新收容。
+已被<color=#ff8000><b> D级人员 </b></color>重新收容。
+已被<color=#608f38><b> 混沌分裂者 </b></color>重新收容。
 <color=#EC2222><b>SCP-[scp]</b></color>
 已被成功收容，<b>收容方式不明</b>。
 已被<color=#5d87d2><b> [designation] </b></color>成功收容。
-已被<color=#82BD71><b>轻收容净化系统</b></color>清除。
+已被<color=#82BD71><b> 轻收容净化系统 </b></color>清除。
 <color=#91FFE6>\uf0ad <b>[current]/[max]</b></color> 的应急发电站已被激活。
 \n                 <b>所有的应急发电站已被成功激活。</b></color>
 <color=#91FFE6>\uf0ad <b>电力过载倒计时3… 2… 1…</b></color>

@@ -33,4 +33,4 @@
 尸体上存在深度划伤和抓痕\n原因：<color=#636363><b>SCP-939</b></color>
 <color=#ab99bf><b>棉花糖人</b></color>杀死了你！
 被有机残留物射杀\n死因：<color=#8079FF><b>SCP-127</b></color>
-多处开放性伤口且有小虫从中爬出\n死因：<color=red><b>SCP-1509</b></color>
+多处开放性伤口且有小虫从中爬出\n死因：<color=#8079FF><b>SCP-1509</b></color>

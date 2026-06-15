@@ -1,15 +1,15 @@
-0~<b><color=#ab99bf>\uf2bb 清潔工 </color></b>鎖匙卡
-1~<b><color=#ffff7c>\uf2bb 科學家 </color></b>鎖匙卡
-2~<b><color=#FF8E00>\uf2bb 研究主任 </color></b>鎖匙卡
-3~<b><color=#2e694e>\uf2bb 區域總監 </color></b>鎖匙卡
-4~<b><color=#556278>\uf2bb 設施警衛 </color></b>鎖匙卡
+0~<b><color=#b9a6b8>\uf2bb 清潔工 </color></b>鎖匙卡
+1~<b><color=#d5c78e>\uf2bb 科學家 </color></b>鎖匙卡
+2~<b><color=#cf8e4b>\uf2bb 研究主任 </color></b>鎖匙卡
+3~<b><color=#0e6145>\uf2bb 區域總監 </color></b>鎖匙卡
+4~<b><color=#617278>\uf2bb 設施警衛 </color></b>鎖匙卡
 5~<b><color=#70c3ff>\uf2bb MTF列兵 </color></b>鎖匙卡
-6~<b><color=#287d1e>\uf2bb 收容工程師 </color></b>鎖匙卡
+6~<b><color=#3e9521>\uf2bb 收容工程師 </color></b>鎖匙卡
 7~<b><color=#5d87d2>\uf2bb MTF特工 </color></b>鎖匙卡
 8~<b><color=#003dca>\uf2bb MTF指揮官 </color></b>鎖匙卡
-9~<b><color=#F00>\uf2bb 設施總監 </color></b>鎖匙卡
+9~<b><color=#8c181c>\uf2bb 設施總監 </color></b>鎖匙卡
 10~<b><color=#608f38>📟 混沌分裂者 </color></b>駭入裝置
-11~\uf7b9 <b>O5</b> 鎖匙卡
+11~<b>\uf2bb O5</b> 鎖匙卡
 12~<b><color=#ab99bf>📻 無線電 📻</color></b>~<b>級別  距離  空閒耗電  通話耗電</b>\nSR      108m     0.5/m       40/m\nMR     180m     1.2/m       60/m\nLR    1080m     4.5/m     120/m\nUR    7200m   13.5/m    240/m
 13~<b>\uf05b COM-15 \uf05b</b>
 14~<b><color=#FF82F0>\uf479 急救包 \uf479</color></b>~<color=#f57caa>✚</color> | 恢復 <color=#f57caa>65 HP</color>\n<color=#DE65EB>\uf1b8</color> | 消除<b><color=#F00> 流血 </color></b>與<b><color=#F00> 燒傷 </color></b>效果~<color=#FF82F0>醫療物品

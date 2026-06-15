@@ -13,7 +13,7 @@ AttachmentDescriptiveDownsides
 
 📝AttachmentEditors
       工作站，有修改。
-      上次修改：4.0.0 Preview B
+      上次修改：4.0.0 Preview C
 
 AttachmentNames
       配件詳情，沒有修改。
@@ -21,8 +21,10 @@ AttachmentNames
 AttachmentParameters
       性能數值標籤，沒有修改。
 
-AudioSettings
-      音訊設定內容，沒有修改。
+📝AudioSettings
+      音訊設定內容，有修改。
+      第27行是觀眾右下角的選項，修改了。
+      上次修改：4.0.0 Preview D
 
 Badges
       製作人員列表，沒有修改。
@@ -59,7 +61,7 @@ ControlsSettings
 
 📝DeathReasons
       死亡原因文本，有修改。
-      上次修改：4.0.0 Preview A
+      上次修改：4.0.0 Preview C
 
 📝DecontaminationDisplays
       淨化程式面板，有修改。
@@ -83,7 +85,7 @@ ControlsSettings
 
 📝Footprints
       影響力文本，有修改。
-      上次修改：4.0.0 Preview B
+      上次修改：4.0.0 Preview C
 
 📝GameHints
       拾取上限文本，有修改。  
@@ -157,11 +159,13 @@ MenuWarnings
        但是已經沒了，留著當兼容老版本遊戲。
        上次修改：公開之前
 
-📝OtherSettings
+OtherSettings
        其它設定內容，沒有修改。
 
-Overwatch_HUD
-       Overwatch介面，沒有修改。
+📝Overwatch_HUD
+       Overwatch介面，有修改。
+       修改了會顯示在右下角的頻道選擇器文本。
+       上次修改：4.0.0 Preview D
 
 📝RA_RoleManagement
        管理員面板角色名字，有修改。
@@ -181,7 +185,7 @@ SCP079
 
 📝SCP079_HUD
        SCP079，有修改。
-       上次修改：4.0.0 Preview A
+       上次修改：4.0.0 Preview D
 
 📝SCP096_HUD
        SCP096，有修改。
@@ -222,7 +226,7 @@ SCP1507_HUD
 
 📝Subtitle
        廣播文本，有修改。
-       上次修改：4.0.0 Preview A
+       上次修改：4.0.0 Preview D
 
 📝Summary
        終局文本，有修改。
@@ -241,4 +245,4 @@ VideoSettings
 
 📝Voicechat
        語音相關文本，有修改。
-       上次修改：4.0.0 Preview B
+       上次修改：4.0.0 Preview D

@@ -1,7 +1,7 @@
-<color=#5d87d2>\uf57d</color> <color=#5d87d2><b>机动特遣部队Epsilon-11</b></color>代号<color=#5d87d2><b> [designation] </b></color>小队已进入设施。\n                 建议所有幸存人员继续执行标准疏散方案，直至MTF小队抵达您所处的位置。
-\n                 目前还有<color=#EC2222><b>[count]个SCP</b></color>等待被重新收容。
-\n                 目前还有<color=#EC2222><b>1個SCP</b></color>等待被重新收容。
-\n                 设施内仍然存在影响安全的潜在<color=#608f38><b>重大威胁</b></color>——请谨慎行事。
+<color=#5d87d2>\uf57d</color> <color=#5d87d2><b>机动特遣部队Epsilon-11</b></color>代号<color=#5d87d2><b> [designation] </b></color>小队已进入设施。\n　　　　　　　　　　建议所有幸存人员继续执行标准疏散方案，直至MTF小队抵达您所处的位置。
+\n　　　　　　　　　　目前还有<color=#EC2222><b>[count]个SCP</b></color>等待被重新收容。
+\n　　　　　　　　　　目前还有<color=#EC2222><b>1個SCP</b></color>等待被重新收容。
+\n　　　　　　　　　　设施内仍然存在影响安全的潜在<color=#608f38><b>重大威胁</b></color>——请谨慎行事。
 已被成功消灭，死亡原因不明。
 已被<color=#EC2222><b> SCP-[scp] </b></color>消灭。
 已被<color=#2497f0><b> 特斯拉电門 </b></color>成功消灭。
@@ -14,19 +14,19 @@
 已被<color=#5d87d2><b> [designation] </b></color>成功收容。
 已被<color=#82BD71><b> 轻收容净化系统 </b></color>清除。
 <color=#91FFE6>\uf0ad <b>[current]/[max]</b></color> 的应急发电站已被激活。
-\n                 <b>所有的应急发电站已被成功激活。</b></color>
+\n　　　　　　　　　　<b>所有的应急发电站已被成功激活。</b></color>
 <color=#91FFE6>\uf0ad <b>电力过载倒计时3… 2… 1…</b></color>
 <color=#91FFE6>\uf0ad</color> 设施已恢复正常运作模式。
-<color=#82BD71>\ue075</color> 全体人员请注意。\n              <color=#82BD71><b>轻收容区净化程序</b></color>将在倒计时 <color=#A2FF87><b>15分钟</b></color>后进行。\n                 所有生物必须立即转移，以避免被清除。
+<color=#82BD71>\ue075</color> 全体人员请注意。\n　　　　　　　　　　<color=#82BD71><b>轻收容区净化程序</b></color>将在倒计时 <color=#A2FF87><b>15分钟</b></color>后进行。\n　　　　　　　　　　所有生物必须立即转移，以避免被清除。
 <color=#82BD71>\ue075</color> 危险，<color=#82BD71><b>轻收容区净化程序</b></color>将在倒计时<color=#FFD68F><b>[time]分钟</b></color>后开始。
 <color=#82BD71>\ue075</color> 危险，<color=#82BD71><b>轻收容区净化程序</b></color>将在倒计时<color=#FF9999><b>1分钟</b></color>后开始。
-<color=#82BD71>\ue075</color> 危险，<color=#82BD71><b>轻收容区净化程序</b></color>将在倒计时<color=#D12A2A><b>30秒</b></color>后开始。\n                 所有检查点的门禁已永久开启，请立即疏散撤离。</color>
-<color=#82BD71>\ue075</color> 轻收容区域已被封锁即将准备净化清除。\n                 现在开始清除所有生物。
-<color=#FF7F29>\uf7b9</color> <color=#FF7F29><b>ALPHA核弹头紧急引爆程序</b></color>已启动。\n                 本设施的地下区域将在倒计时<color=#FF9999><b>[time]秒</b></color>后被引爆。
+<color=#82BD71>\ue075</color> 危险，<color=#82BD71><b>轻收容区净化程序</b></color>将在倒计时<color=#D12A2A><b>30秒</b></color>后开始。\n　　　　　　　　　　所有检查点的门禁已永久开启，请立即疏散撤离。</color>
+<color=#82BD71>\ue075</color> 轻收容区域已被封锁即将准备净化清除。\n　　　　　　　　　　现在开始清除所有生物。
+<color=#FF7F29>\uf7b9</color> <color=#FF7F29><b>ALPHA核弹头紧急引爆程序</b></color>已启动。\n　　　　　　　　　　本设施的地下区域将在倒计时<color=#FF9999><b>[time]秒</b></color>后被引爆。
 <b><color=#ff4545>❌</color></b>引爆程序被取消，正在重启系统。
 <color=#FF7F29>\uf7b9</color> <color=#FF7F29><b>ALPHA核弹头紧急引爆程序</b></color>已重新启动，倒计时<color=#D12A2A><b>[time]秒</b></color>。
 已被<color=#ab99bf><b>棉花糖人</b></color>消灭。
 <color=#5d87d2>\uf57d</color> <color=#5d87d2><b>九尾狐增援部队</b></color>已进入设施。
-<color=#608f38>\uf6de</color> 全体人员请注意，在A大门处检测到<color=#608f38><b>[number]名混沌分裂者</b></color>。\n                 已授权使用致命武力。
-<color=#608f38>\uf6de</color> 已在A大门处确认新增<color=#608f38><b>[number]名混沌分裂者</b></color> 。\n                 防御模型：已更新。
-<color=#FF4545>\uf7b9</color> 站点恢复失败——<color=#FF4545><b>终焉协议已启动</b></color>。\n                 本设施的地下区域将在倒计时<color=#D12A2A><b>[time]秒</b></color>后自毁。
+<color=#608f38>\uf6de</color> 全体人员请注意，在A大门处检测到<color=#608f38><b>[number]名混沌分裂者</b></color>。\n　　　　　　　　　　已授权使用致命武力。
+<color=#608f38>\uf6de</color> 已在A大门处确认新增<color=#608f38><b>[number]名混沌分裂者</b></color> 。\n　　　　　　　　　　防御模型：已更新。
+<color=#FF4545>\uf7b9</color> 站点恢复失败——<color=#FF4545><b>终焉协议已启动</b></color>。\n　　　　　　　　　　本设施的地下区域将在倒计时<color=#D12A2A><b>[time]秒</b></color>后自毁。

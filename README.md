@@ -407,8 +407,6 @@
      align="left" 
      width="400">
 
-<br clear="all">
-
 <br>
 
 > 來源：[@wusem0108](https://x.com/wusem0108)

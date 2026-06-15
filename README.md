@@ -407,8 +407,6 @@
      align="left" 
      width="400">
 
-<br>
-
 > 來源：[@wusem0108](https://x.com/wusem0108)
 
 > 貼文：https://x.com/wusem0108/status/2013938390606151770

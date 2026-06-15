@@ -13,7 +13,7 @@
 <div align="center">
 
 [![release](https://img.shields.io/badge/最新版本-v3.9.0-3F7ED4?style=flat)](https://github.com/KoumeiKyuushou/SCP-SL-Custom-Chinese-Translation-Files-by-Koumei-Kyuushou/releases/tag/v3.9.0)
-[![preview](https://img.shields.io/badge/最新預覽版-v4.0.0PreviewC-FFCB33?style=flat)](https://github.com/KoumeiKyuushou/SCP-SL-Custom-Chinese-Translation-Files-by-Koumei-Kyuushou/releases/tag/v4.0.0PreviewC)
+[![preview](https://img.shields.io/badge/最新預覽版-v4.0.0PreviewD-FFCB33?style=flat)](https://github.com/KoumeiKyuushou/SCP-SL-Custom-Chinese-Translation-Files-by-Koumei-Kyuushou/releases/tag/v4.0.0PreviewD)
 [![bilibili](https://img.shields.io/badge/bilibili-九霄鵼冥Koumei-FF9EF0?style=flat)](https://space.bilibili.com/173589887)
 [![youtube](https://img.shields.io/badge/YouTube-九霄鵼冥Koumei-FF1F1F?style=flat)](https://www.youtube.com/@Koumei-Kyuushou)
 [![X](https://img.shields.io/badge/X-九霄鵼冥Koumei-303030?style=flat)](https://x.com/Koumei_Kyuushou)
@@ -189,7 +189,7 @@
 
    **繁** [點擊這裡下載最新的穩定版 **繁體中文** 版本](https://github.com/KoumeiKyuushou/SCP-SL-Custom-Chinese-Translation-Files-by-Koumei-Kyuushou/releases/download/v3.9.0/zh_tc_bykoumei_3.9.0t01_14.2.6.zip)
 
-   **預** [點擊這裡下載最新的預覽版 **繁體中文** 版本](https://github.com/KoumeiKyuushou/SCP-SL-Custom-Chinese-Translation-Files-by-Koumei-Kyuushou/releases/download/v4.0.0PreviewC/zh_tc_bykoumei_4.0.0previewC_14.2.7.zip.zip)
+   **預** [點擊這裡下載最新的預覽版 **繁體中文** 版本](https://github.com/KoumeiKyuushou/SCP-SL-Custom-Chinese-Translation-Files-by-Koumei-Kyuushou/releases/download/v4.0.0PreviewD/zh_tc_bykoumei_4.0.0previewD_14.2.7.zip)
 
    > _注意，預覽版比穩定版新，相對來說預覽版體驗更好_
 
@@ -199,15 +199,15 @@
 
   ### 🔼 高優先
 
-   > _都在最新預覽版中被解決_
+   > _目前該條目處於被擱置狀態_
 
    ### ⏺️ 中優先
 
-   > _都在最新預覽版中被解決_
+   > _目前該條目處於被擱置狀態_
 
    ### 🔽 低優先
 
-  > _都在最新預覽版中被解決_
+  > _目前該條目處於被擱置狀態_
 
    <br>
 
@@ -375,7 +375,7 @@
 
    **简** [点击这里下载最新的稳定版 **简体中文** 版本](https://github.com/KoumeiKyuushou/SCP-SL-Custom-Chinese-Translation-Files-by-Koumei-Kyuushou/releases/download/v3.9.0/zh_sc_bykoumei_3.9.0s01_14.2.6.zip)
 
-   **预** [点击这里下载最新的预览版 **简体中文** 版本](https://github.com/KoumeiKyuushou/SCP-SL-Custom-Chinese-Translation-Files-by-Koumei-Kyuushou/releases/download/v4.0.0PreviewC/zh_sc_bykoumei_4.0.0previewC_14.2.7.zip.zip)
+   **预** [点击这里下载最新的预览版 **简体中文** 版本](https://github.com/KoumeiKyuushou/SCP-SL-Custom-Chinese-Translation-Files-by-Koumei-Kyuushou/releases/download/v4.0.0PreviewD/zh_sc_bykoumei_4.0.0previewD_14.2.7.zip)
 
    > _注意，预览版比稳定版新，相对来说预览版体验更好_
 
@@ -385,15 +385,15 @@
 
   ### 🔼 高优先
 
-  > _都在最新预览版中被解决_
+  > _目前该条目处于被搁置状态_
 
   ### ⏺️ 中优先
 
-  > _都在最新预览版中被解决_
+  > _目前该条目处于被搁置状态_
 
   ### 🔽 低优先
 
-  > _都在最新预览版中被解决_
+  > _目前该条目处于被搁置状态_
 
    <br>
 
@@ -403,7 +403,7 @@
 
 # 祝你玩得開心！
 
-<img src="https://github.com/KoumeiKyuushou/SCP-SL-Custom-Chinese-Translation-Files-by-Koumei-Kyuushou/blob/穩定版/Assets/ainime/イラストアトリエ_ワンドロ＋28分で小傘ちゃんを描きました！_毎日ワンドロ419日目です！_多々良小傘.jpg?raw=true" 
+<img src="https://github.com/KoumeiKyuushou/SCP-SL-Custom-Chinese-Translation-Files-by-Koumei-Kyuushou/blob/穩定版/Assets/ainime/@wusem0108_東方Project_ミスティア_ローレライ_幽谷響子.jpg?raw=true" 
      align="left" 
      width="400">
 
@@ -411,10 +411,8 @@
 
 <br>
 
-> 來源：[@illust_atelier3](https://x.com/illust_atelier3)
-
-> 貼文：https://x.com/illust_atelier3/status/2064312865985868109
-
+> 來源：[@wusem0108](https://x.com/wusem0108)
+> 貼文：https://x.com/wusem0108/status/2013938390606151770
 > 侵刪
 
 <br>
@@ -423,6 +421,6 @@
 
 [![Contributors](https://contrib.rocks/image?repo=KoumeiKyuushou/SCP-SL-Custom-Chinese-Translation-Files-by-Koumei-Kyuushou)](https://github.com/KoumeiKyuushou/SCP-SL-Custom-Chinese-Translation-Files-by-Koumei-Kyuushou/graphs/contributors)
 
-_115年 | 2026年 | 06月08日 | 週一_
+_115年 | 2026年 | 06月16日 | 週二_
 
 _By Koumei Kyuushou (九霄鵼冥Koumei)_

@@ -1,18 +1,18 @@
-自定义 📝
-预设 📝#[index]
-<color=green>保存 ✔</color>
-<color=red>清空配件配置❌</color>
-预设配置
-📝 预设 📝
-<size=250><color=red>\n\uf023</color></size>
-<size=150%><color=#0096FF>SITE-02</color> 枪械配件自定义点</size>\n触碰屏幕以启动
-<size=250><color=#00FFFF>\n🔘</color></size>
-<size=150%>正在载入配件数据\n请稍等....</size>
-<size=250><color=#00b300>\n\uf09c</color></size>
-<size=150%><color=#0096FF>SITE-02</color>枪械配件自定义点</size>\n请装备好您的枪械进行配件改装
-<size=250><color=#00FFFF>\n🔘</color></size>
-<size=150%>工作站正在关闭中...</size>
-显示概要
-关闭概要
+自定义 \uf1c9
+默认 #[index] \uf56d
+<color=#50DE47>保存 \uf574</color>
+<color=#FF4747>清空配件配置 ❌</color>
+预设配置 \uf15b
+<b>预设集</b>
+<color=#FF4747><size=250>\uf7d9</size></color>
+<color=#FF4747><size=300%><b>离线</b></size></color>\n<size=200%><color=#ccc>SITE-02 枪械配件自定义工作站</color></size>\n<color=#FF4747>//////////////////////// \uf071 仅限已授权人员 \uf071 ////////////////////////
+<size=250>\uf7d9</size>
+<size=300%><b>加载中</b></size>
+<color=#0096FF><size=250>\uf7d9</size></color>
+<color=#0096FF><size=300%><b>在线</b></size></color>\n<size=200%><color=#ccc>SITE-02 枪械配件自定义工作站</color></size>\n<color=#FF4747>//////////////////////// \uf071 仅限已授权人员 \uf071 ////////////////////////
+<size=250>\uf7d9</size>
+<size=300%><b>关闭中</b></size>
+显示概要 ℹ️
+关闭概要 ❌
 [Attachment] 自定义
-按下 [Key] 键进行配件改装
+\uf7d9  <b>按下 [Key] 键进行配件改装</b>

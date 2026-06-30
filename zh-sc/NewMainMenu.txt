@@ -56,21 +56,21 @@ SCP-079 - 后处理
 语言
 主菜单样式
 连接
-返回
+<b>返回</b>
 此更改需要重新加载。\n是否立即重新加载主菜单?
 好的
 取消
-您确定要退出吗?
+<b>你确定要退出吗？</b>
 屏幕分辨率
 隐藏IP地址
-欢迎回来，{username}\n翻译文件的适用版本是 14.2.7\n翻译文件版本 3.10.0 Preview A\nBy Koumei Kyuushou\n前往Github新建Issue來反馈问题\n该版本修改日期：\n2026年 | 06月05日 | 星期五
+欢迎回来，{username}\n翻译文件的适用版本是 14.2.7\n翻译文件版本 4.0.0\nBy Koumei Kyuushou\n前往Github新建Issue來反馈问题\n该版本修改日期：\n2026年 | 06月30日 | 星期二
 <b>演职员表</b>
 身份验证中
 正在连接至中心服务器...
-<color=green>\uf1eb | 连接已建立</color>
-<color=red>\uf00d | 连接失败\n<size=15>(请检查控制台查看具体原因\n大陆玩家请尝试使用网络代理、加速器等工具)</size></color>
-<color=red>\uf1b6 | Steam 验证失败(请检查控制台查看具体原因)</color>
-<color=red>\uf392 | Discord 验证失败(请检查控制台查看具体原因)</color>
+<color=#50DE47>\uf1eb  <b>连接已建立</b></color>
+<color=#FF4747><b>❌ 连接失败</b>\n<size=15>(请检查控制台查看具体原因\n大陆玩家请尝试使用网络代理、加速器等工具)</size></color>
+<color=#FF4747><b>❌ Steam 验证失败</b>\n<size=15>(请检查控制台查看具体原因)</size></color>
+<color=#FF4747><b>❌ Discord 验证失败</b>\n<size=15>(请检查控制台查看具体原因)</size></color>
 关闭
 秒
 清理布娃娃(尸体)时间

@@ -1,8 +1,8 @@
-<size=200%>✔️</size>
-<size=200%>\uf3c9</size>\n<size=75%><b>{0}s</b></size>
-<color=#ff00b0><size=200%>\uf590</size>\n<size=75%>旁路模式</size></color>
-<color=#00FFFF><size=200%>🔃</size>\n<size=75%><b>{0}s</b></size></color>
-<color=#ff00b0><size=200%>\uf590</size>\n<size=75%>管理員</size></color>
-<color=red><size=200%>\uf539</size>\n<size=75%>禁言中</size></color>
-<size=200%>❔</size>
-<size=200%>⏳</size>
+<b><color=#50DE47><size=200%>✔️</size>\n<size=75%>就绪</size></color></b>
+<color=#50DE47><size=200%>\uf3c9</size>\n<size=75%><b>通信中</b>\n{0}s</size></color>
+<color=#50DE47><size=200%>\uf590</size></color>\n<color=#ff00b0><size=75%><b>旁路模式</b></size></color>
+<color=#FF4747><size=200%>\uf1da</size>\n<size=75%><b>等待重启</b>\n{0}s</size></color>
+<color=#FF4747><size=200%>\uf1da</size></color>\n<color=#ff00b0><size=75%><b>管理员使用中</b></size></color>
+<color=#FF4747><size=200%>❌</size>\n<size=75%>你已被管理员禁言</size></color>
+<size=200%><b>未知</b></size>
+<color=#FFC338><size=200%>\uf017</size>\n<size=75%><b>启动中</b></size></color>

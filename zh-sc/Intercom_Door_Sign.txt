@@ -1,9 +1,7 @@
 #INFO FOR TRANSLATORS: In this file you can use as many lines as you want, all of them will be displayed on the display above the door.
-INTERCOM
-BROAD-
--CASTING
-CENTER
-广播室
+广  播  室
+广  播  室
 全局无线电
-广播中心
-正常运作
+全局无线电
+广 播 中 心
+广 播 中 心

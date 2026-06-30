@@ -56,21 +56,21 @@ SCP-079 - 後期處理
 語言
 主選單
 連線
-返回
+<b>返回</b>
 這個更改需要重新載入遊戲。\n是否立即重新載入主畫面？
 是
 否
-你確定要退出嗎?
+<b>你確定要退出嗎？</b>
 螢幕解析度
 隱藏IP
-歡迎回來，{username}\n翻譯文件的適用版本是 14.2.7\n翻譯文件版本 3.10.0 Preview A\nBy Koumei Kyuushou\n前往Github新建Issue來回報問題\n該版本修改日期：\n115年 | 2026年 | 06月05日 | 週五
+歡迎回來，{username}\n翻譯文件的適用版本是 14.2.7\n翻譯文件版本 4.0.0\nBy Koumei Kyuushou\n前往Github新建Issue來回報問題\n該版本修改日期：\n115年 | 2026年 | 06月30日 | 週二
 <b>製作人員名單</b>
 身份驗證中
 正在連接至中央伺服器...
-<color=green>\uf1eb | 已建立連線</color>
-<color=red>\uf00d | 連線失敗 \n<size=15>(檢查控制台來獲得更多詳細訊息)</size></color>
-<color=red>\uf00d | Steam 驗證失敗 (檢查控制台來獲得更多詳細訊息)</color>
-<color=red>\uf00d | Discord 驗證失敗 (檢查控制台來獲得更多詳細訊息)</color>
+<color=#50DE47>\uf1eb  <b>已建立連線</b></color>
+<color=#FF4747><b>❌ 連線失敗</b>\n<size=15>(檢查控制台來獲得更多詳細訊息)</size></color>
+<color=#FF4747><b>❌ Steam 驗證失敗</b>\n<size=15>(檢查控制台來獲得更多詳細訊息)</size></color>
+<color=#FF4747><b>❌ Discord 驗證失敗</b>\n<size=15>(檢查控制台來獲得更多詳細訊息)</size></color>
 關閉
 秒
 清理人偶時間

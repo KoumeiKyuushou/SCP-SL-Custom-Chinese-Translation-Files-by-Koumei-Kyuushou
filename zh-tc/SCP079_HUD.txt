@@ -43,13 +43,13 @@ $<color=#8080FF>\uf0e7</color> 備用電力$ - <color=orange>\uf0d8</color> 上�
 $<color=#E3A800>\uf070</color> 斷電$ - <color=green>\uf3c1 已解鎖</color> - 按下 $[key]$ 鍵關閉房間內的燈光
 $<color=#E3A800>\uf070</color> 斷電$ - <color=orange>\uf0d8</color> 使用上限新增到 $[number]$ 個房間
 $<color=red>\uf05e</color> 封鎖$ - <color=green>\uf3c1 已解鎖</color> - 按下 $[key]$ 鍵可暫時鎖定一個房間內的所有門
-<color=#8080FF>+ [amount] EXP</color> - <color=#ff00b0>作弊</color>
-<color=#8080FF>+ [amount] EXP</color> - \uf714 協助擊殺 [role] - 
-<color=#8080FF>+ [amount] EXP</color> - 💀 直接擊殺 [role]
-<color=#8080FF>+ [amount] EXP</color> - \uf2a8 目擊到隊友擊殺 [role]
-<color=#8080FF>+ [amount] EXP</color> - \uf4c4 協助隊友追擊
-<color=#8080FF>+ [amount] EXP</color> - \ue06c 保護隊友
-<color=#8080FF>+ [amount] EXP</color> - \uf256 阻礙使用 Micro H.I.D.
+<color=#8080FF>+ [amount] EXP</color> - <color=#ff00b0>\uf121</color> 作弊
+<color=#8080FF>+ [amount] EXP</color> - <color=#FF4747>\uf714</color> 協助擊殺 [role]
+<color=#8080FF>+ [amount] EXP</color> - <color=red>💀</color> 直接擊殺 [role]
+<color=#8080FF>+ [amount] EXP</color> - <color=#FF4747>\uf2a8</color> 目擊到隊友擊殺 [role]
+<color=#8080FF>+ [amount] EXP</color> - <color=orange>\uf4c4</color> 協助隊友追擊
+<color=#8080FF>+ [amount] EXP</color> - <color=green>\ue06c</color> 保護隊友
+<color=#8080FF>+ [amount] EXP</color> - <color=#4ABAFF>\uf256</color> 阻礙使用 Micro H.I.D.
 <size=150%>\uf071 限制 \uf071</size>\n已經激活了鎖門能力
 <color=#E34F00>\uf185</color> 區域斷電 <color=red>\uf0e7-[cost]</color>
 $<color=#E34F00>\uf185</color> 區域斷電$ - <color=green>\uf3c1 已解鎖</color> - 按鈕顯示在$設施地圖$內的區域名右側

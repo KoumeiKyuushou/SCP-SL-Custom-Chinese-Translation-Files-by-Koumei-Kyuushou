@@ -1,9 +1,9 @@
- (%time% \uf2f2)
+ (%time% \uf017)
  (+%influence% 👊)
 <color=%factionColor%>%timeDisplay%%influenceDisplay%</color>
-<size=150%><mark=#ff80bc11><color=#ff80bc>⚠️ - 已完成的目标将会显示在这里！- ⚠️</color></mark></size>
-「<color=%achieverColor%>\uf714</color>」 - <color=%achieverColor%>%achieverName%</color> 杀死了 <color=%victimColor%>%victimName%</color>
-「<color=%achieverColor%>💥</color>」 - <color=%achieverColor%>%achieverName%</color> 对 <color=%victimColor%>%victimName%</color>造成了有效伤害
-「<color=%achieverColor%>🏃</color>」 - <color=%achieverColor%>%achieverName%</color> 成功逃离了 <color=#0096ff>Site-02</color>
-「<color=%achieverColor%>\uf0e7</color>」 - <color=%achieverColor%>%achieverName%</color> 成功启动了一个 <color=#8080FF>发电机</color>
-「<color=%achieverColor%>\uf780</color>」 - <color=%achieverColor%>%achieverName%</color> 拾取了 <color=red>%itemName%</color>
+<size=150%><color=#FFC338>ℹ️</color> <b>已完成的目标将会显示在这里</b></size>
+<color=#F54949>💀</color>  <color=%achieverColor%><b>%achieverName%</b></color> 杀死了 <color=%victimColor%><b>%victimName%</b></color>
+<color=#FCAA2D>\uf7e4</color>  <color=%achieverColor%><b>%achieverName%</b></color> 对 <color=%victimColor%><b>%victimName%</b></color> <color=#ffffff>造成了</color><color=#FCAA2D>有效伤害</color>
+<color=#B5B5B5>\uf70c</color>  <color=%achieverColor%><b>%achieverName%</b></color> 逃离了设施
+<color=#91FFE6>\uf0ad</color>  <color=%achieverColor%><b>%achieverName%</b></color> 启动了一台<color=#91FFE6><b>发电机</b></color>
+<color=#F5DD5B>\uf555</color>  <color=%achieverColor%><b>%achieverName%</b></color> 拾取了 <color=#EC2222>%itemName%</color>

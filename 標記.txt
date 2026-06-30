@@ -226,7 +226,7 @@ SCP1507_HUD
 
 📝Subtitle
        廣播文本，有修改。
-       上次修改：4.0.0 Preview D
+       上次修改：4.0.0
 
 📝Summary
        終局文本，有修改。

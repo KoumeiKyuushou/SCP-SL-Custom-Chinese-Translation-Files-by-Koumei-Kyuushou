@@ -17,11 +17,11 @@
 \n　　　　　　　　　　<b>所有的应急发电站已被成功激活。</b></color>
 <color=#91FFE6>\uf0ad <b>电力过载倒计时3… 2… 1…</b></color>
 <color=#91FFE6>\uf0ad</color> 设施已恢复正常运作模式。
-<color=#82BD71>\ue075</color> 全体人员请注意。\n　　　　　　　　　　 <color=#82BD71><b>轻收容区净化程序</b></color>将在倒计时 <color=#A2FF87><b>15分钟</b></color>后进行。\n　　　　　　　　　　 所有生物必须立即转移，以避免被清除。
+<color=#82BD71>\ue075</color> 全体人员请注意。\n                 <color=#82BD71><b>轻收容区净化程序</b></color>将在倒计时 <color=#A2FF87><b>15分钟</b></color>后进行。\n                 所有生物必须立即转移，以避免被清除。
 <color=#82BD71>\ue075</color> 危险，<color=#82BD71><b>轻收容区净化程序</b></color>将在倒计时<color=#FFD68F><b>[time]分钟</b></color>后开始。
 <color=#82BD71>\ue075</color> 危险，<color=#82BD71><b>轻收容区净化程序</b></color>将在倒计时<color=#FF9999><b>1分钟</b></color>后开始。
-<color=#82BD71>\ue075</color> 危险，<color=#82BD71><b>轻收容区净化程序</b></color>将在倒计时<color=#D12A2A><b>30秒</b></color>后开始。\n　　　　　　　　　　 所有检查点的门禁已永久开启，请立即疏散撤离。</color>
-<color=#82BD71>\ue075</color> 轻收容区域已被封锁即将准备净化清除。\n　　　　　　　　　　 现在开始清除所有生物。
+<color=#82BD71>\ue075</color> 危险，<color=#82BD71><b>轻收容区净化程序</b></color>将在倒计时<color=#D12A2A><b>30秒</b></color>后开始。\n                 所有检查点的门禁已永久开启，请立即疏散撤离。</color>
+<color=#82BD71>\ue075</color> 轻收容区域已被封锁即将准备净化清除。\n                 现在开始清除所有生物。
 <color=#FF7F29>\uf7b9</color> <color=#FF7F29><b>ALPHA核弹头紧急引爆程序</b></color>已启动。\n　　　　　　　　　　本设施的地下区域将在倒计时<color=#FF9999><b>[time]秒</b></color>后被引爆。
 <b><color=#ff4545>❌</color></b>引爆程序被取消，正在重启系统。
 <color=#FF7F29>\uf7b9</color> <color=#FF7F29><b>ALPHA核弹头紧急引爆程序</b></color>已重新启动，倒计时<color=#D12A2A><b>[time]秒</b></color>。

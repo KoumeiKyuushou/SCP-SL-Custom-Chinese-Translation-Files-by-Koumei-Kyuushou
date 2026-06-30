@@ -17,7 +17,7 @@
 [![bilibili](https://img.shields.io/badge/bilibili-九霄鵼冥Koumei-FF9EF0?style=flat)](https://space.bilibili.com/173589887)
 [![youtube](https://img.shields.io/badge/YouTube-九霄鵼冥Koumei-FF1F1F?style=flat)](https://www.youtube.com/@Koumei-Kyuushou)
 [![X](https://img.shields.io/badge/X-九霄鵼冥Koumei-303030?style=flat)](https://x.com/Koumei_Kyuushou)
-[![Threads](https://img.shields.io/badge/X-九霄鵼冥Koumei-303030?style=flat)](https://www.threads.com/@koumeikyuushou)
+[![Threads](https://img.shields.io/badge/Threads-九霄鵼冥Koumei-303030?style=flat)](https://www.threads.com/@koumeikyuushou)
 ![qq](https://img.shields.io/badge/在QQ上下載或回報問題-739337627-FFFFFF?style=flat)
 [![issues](https://img.shields.io/badge/回報-創建發起Issues-A4E04C?style=flat)](https://github.com/KoumeiKyuushou/SCP-SL-Custom-Chinese-Translation-Files-by-Koumei-Kyuushou/issues)
 [![GitHub Repo stars](https://img.shields.io/github/stars/KoumeiKyuushou/SCP-SL-Custom-Chinese-Translation-Files-by-Koumei-Kyuushou?color=FFDA66&style=flat)](https://github.com/KoumeiKyuushou/SCP-SL-Custom-Chinese-Translation-Files-by-Koumei-Kyuushou/stargazers)

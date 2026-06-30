@@ -410,9 +410,11 @@
 
 <br>
 
-> 來源：[@gongichaa](https://x.com/gongichaa)
-> 貼文：https://x.com/gongichaa/status/2071395320957952335
-> 侵刪
+來源：[@gongichaa](https://x.com/gongichaa)
+
+貼文：https://x.com/gongichaa/status/2071395320957952335
+
+侵刪
 
 <br>
 

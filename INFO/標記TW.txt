@@ -1,3 +1,4 @@
+4.0.1 WIP
 #台繁
 #這裡標記了每一個檔案是幹什麼，部分註釋了具體修改位置。
 #每一個有修改的檔案前方都有“📝”Emoji標識。
@@ -14,7 +15,7 @@ AttachmentDescriptiveDownsides
 
 📝AttachmentEditors
       工作站，有修改。
-      上次修改：4.0.0 Preview C
+      上次修改：4.0.1
 
 AttachmentNames
       配件詳情，沒有修改。

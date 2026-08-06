@@ -1,6 +1,6 @@
 客製化 \uf1c9
 預設 #[index] \uf56d
-<color=#50DE47>保存 \uf574</color>
+<color=#50DE47>儲存 \uf574</color>
 <color=#FF4747>清空配件配置 ❌</color>
 預設配置 \uf15b
 <b>預設集</b>

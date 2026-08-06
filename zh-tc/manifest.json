@@ -1,12 +1,15 @@
 {
-	"Name": "繁體中文（台灣）///Koumei的客製化翻譯文件-4.0.0",
+	"Name": "繁體中文（台灣）///Koumei的客製化翻譯文件-4.0.1",
 	"Authors": [
-		"Tychus_驍奕",
+		"Tychus_骁奕",
+		"美味水H2O Delicious",
         "Koumei Kyuushou"
+		
 	],
 	"InterfaceLocales": [
 		"zh-TW",
-		"zh-Hant"
+		"zh-Hant",
+		"zh"
 	],
 	"SystemLocales": [
 		"zh-TW",

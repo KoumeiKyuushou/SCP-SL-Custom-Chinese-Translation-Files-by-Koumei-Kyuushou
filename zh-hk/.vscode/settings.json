@@ -1,0 +1,77 @@
+{
+  "highlight.regexes": {
+    // \n灰色背景灰色字符加邊框
+    "(\\\\n)": {
+      "filterLanguageRegex": "plaintext",
+      "decorations": [
+        { 
+          "color": "#A0A0A0",
+          "backgroundColor": "#2D2D2D",
+          "borderRadius": "3px",
+          "border": "1px solid #444444"
+        }
+      ]
+    },
+    // color染色但是值不染色
+    "(<color=)([^>]*)(>)": {
+      "filterLanguageRegex": "plaintext",
+      "decorations": [
+        { "color": "#FF9EFE" },
+        {},
+        { "color": "#FF9EFE" }
+      ]
+    },
+    // color結束染色
+    "(</color>)": {
+      "filterLanguageRegex": "plaintext",
+      "decorations": [
+        { "color": "#FF9EFE" }
+      ]
+    },
+    // b染色
+    "(<b>)": {
+      "filterLanguageRegex": "plaintext",
+      "decorations": [
+        { "color": "#8C9FFF", "fontWeight": "bold" }
+      ]
+    },
+    // b結束染色
+    "(</b>)": {
+      "filterLanguageRegex": "plaintext",
+      "decorations": [
+        { "color": "#8C9FFF", "fontWeight": "bold" }
+      ]
+    },
+    // i染色
+    "(<i>)": {
+      "filterLanguageRegex": "plaintext",
+      "decorations": [
+        { "color": "#C38CFF", "fontStyle": "italic" }
+      ]
+    },
+    // i結束染色
+    "(</i>)": {
+      "filterLanguageRegex": "plaintext",
+      "decorations": [
+        { "color": "#C38CFF", "fontStyle": "italic" }
+      ]
+    },
+    // \u後面4個字元染色
+    "(\\\\u.{4})": {
+      "filterLanguageRegex": "plaintext",
+      "decorations": [
+        { "color": "#B4FF91", "fontWeight": "bold" }
+      ]
+    },
+    // <size=> </size>染色，值單獨染色
+    "(<size=)([^>]+)(>)|(</size>)": {
+      "filterLanguageRegex": "plaintext",
+      "decorations": [
+        { "color": "#FF866E" },
+        { "color": "#FFCFC7" },
+        { "color": "#FF866E" },
+        { "color": "#FF866E" }
+      ]
+    }
+  }
+}

@@ -1,0 +1,18 @@
+客製化 \uf1c9
+預設 #[index] \uf56d
+<color=#50DE47>保存 \uf574</color>
+<color=#FF4747>清空配件配置 ❌</color>
+預設配置 \uf15b
+<b>預設集</b>
+<color=#FF4747><size=250>\uf7d9</size></color>
+<color=#FF4747><size=300%><b>離線</b></size></color>\n<size=200%><color=#ccc>SITE-02 槍械配件客製化工作站</color></size>\n<color=#FF4747>//////////////////////// \uf071 僅限已授權人員 \uf071 ////////////////////////
+<size=250>\uf7d9</size>
+<size=300%><b>載入中</b></size>
+<color=#0096FF><size=250>\uf7d9</size></color>
+<color=#0096FF><size=300%><b>在線</b></size></color>\n<size=200%><color=#ccc>SITE-02 槍械配件客製化工作站</color></size>\n<color=#FF4747>//////////////////////// \uf071 僅限已授權人員 \uf071 ////////////////////////
+<size=250>\uf7d9</size>
+<size=300%><b>關閉中</b></size>
+顯示概要 ℹ️
+關閉概要 ❌
+[Attachment] 客製化
+\uf7d9  <b>按下 [Key] 鍵進行配件改裝</b>

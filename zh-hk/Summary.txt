@@ -1,0 +1,19 @@
+<b>本回合結束!</b>
+<size=85%><color=#EC2222>SCP 獲勝</color></size>
+<size=85%><color=#5d87d2>基金會獲勝</color></size>
+<size=85%><color=#608f38>分裂者獲勝</color></size>
+<size=85%>陷入僵局</size>
+<b><color=#EC2222>异常項目侵佔了設施，緊急應變措施已啟動</color></b>
+<b><color=#5d87d2>所有對安全的威脅都已無效化，Site-02又恢復了安全</color></b>
+<b><color=#608f38>基金會安保部隊被徹底消滅，特工們正隨時待命準備出動</color></b>
+<b>Site-02基本得到了控制，但並非沒有付出代價，最終贏家難以確定</b>
+<b><color=#FF8000>\uf70c 逃走的D級人員數：[summary_d_escaped]</color></b>
+<b><color=#FFFF7C>\uf610 倖存下來的科學家數：[summary_s_escaped]</color></b>
+<b><color=#FF7F29>\uf7b9 Alpha核彈頭引爆並殺死了 [summary_warhead_kills] 條人命</color></b>
+<b>\uf7b9 Alpha核彈頭在這次任務中未被引爆</b>
+<b>這次任務耗時 [summary_round_minutes] 分 [summary_round_seconds] 秒</b>
+<b><color=#FF6E6E>\uf3ed [summary_scp_terminated] 個 SCP 重新收容</color></b>
+<b>下回合將在 [summary_next_round_countdown] 秒後開始</b>
+<b><color=#EC2222>\uf780 SCP共殺死了 [summary_scpfrags] 名人類</color></b>
+<size=85%><color=#FF59CA>紅鶴勝利</color></size>
+<b><color=#FF59CA>其它的陣營全軍覆沒，紅鶴們取得了完全勝利</color></b>

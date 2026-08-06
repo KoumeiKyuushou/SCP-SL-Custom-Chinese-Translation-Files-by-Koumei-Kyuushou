@@ -1,0 +1,7 @@
+淨化程序將開始於
+<size=6><color=red>\uf70c 請撤離該區域 \uf70c</color>
+<size=6><color=red>\uf071 請撤離 \uf071</color>
+威脅分析進行中
+安全系統準備中
+系統準備就緒
+初始化程式 p-b-3

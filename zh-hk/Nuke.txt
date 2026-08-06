@@ -1,0 +1,4 @@
+<size=2500><color=#FF4747>\uf7b9</color></size><size=1000>\n<color=#FF4747><b>已禁用引爆程式</b></color></size>
+<size=2500><color=#A6A4A4>\uf7b9</color></size><size=1000>\n<b>系統重啟中</b></size>
+<size=2500><color=#FF7F29>\uf7b9</color></size><size=1000>\n<color=#FF7F29><b>已啟用引爆程式</b></color></size>
+/// ! 引爆程式無法終止 ! ///

@@ -1,0 +1,30 @@
+<b><color=red><size=43%>塑像 - 最初的作品</size></color></b> \n<size=20%>殺死所有人，不要讓任何人逃走\n與其他 <color=#F00><b>SCP</b></color> 合作\n</size>
+<size=20%>設法逃離設施\n與 <color=#608f38><b>混沌分裂者</b></color> 合作\n躲開其他陣營\n</size>
+<size=20%>等待重生</size>
+<b><color=#3451b3><size=43%>詭厄老者</size></color></b> \n<size=20%>殺死所有人，不要讓任何人逃走\n與其他 <color=#F00><b>SCP</b></color> 合作\n</size>
+<size=20%>奪回設施控制權\n協助 <b><color=#ffff7c>科學家</color></b> 逃離設施\n與 <color=#556278><b>設施警衛</b></color> 合作\n消滅其他目標\n</size>
+<b><color=#a9de2c><size=43%>瘟疫醫生</size></color></b> \n<size=20%>殺死所有人，不要讓任何人逃走\n與其他 <color=#F00><b>SCP</b></color> 合作\n</size>
+<size=20%>設法逃離設施\n與 <color=#5d87d2><b>九尾狐小隊</b></color> 和 <color=#556278><b>設施警衛</b></color> 合作\n躲開其他陣營\n</size>
+<b><color=#8080FF><size=43%>過時AI</size></color></b> \n<size=20%>殺死所有人，不要讓任何人逃走\n與其他 <color=#F00><b>SCP</b></color> 合作\n</size>
+<size=20%>佔領設施奪取控制權\n協助 <color=#ff8000><b>D級人員</b></color> 逃離設施\n消滅其他目標\n</size>
+<b><color=#7d060a><size=43%>羞澀的人</size></color></b> \n<size=20%>殺死所有人，不要讓任何人逃走\n與其他 <color=#F00><b>SCP</b></color> 合作\n</size>
+<b><color=#e03d0b><size=43%>“被治愈者”</size></color></b> \n<size=20%>殺死所有人，不要讓任何人逃走\n與其他 <color=#F00><b>SCP</b></color> 合作\n</size>
+<size=20%>奪回設施控制權\n協助 <b><color=#ffff7c>科學家</color></b> 逃離設施\n與 <color=#556278><b>設施警衛</b></color> 合作\n消滅其他目標\n</size>
+<size=20%>奪回設施控制權\n協助 <b><color=#ffff7c>科學家</color></b> 逃離設施\n與 <color=#556278><b>設施警衛</b></color> 合作\n消滅其他目標\n</size>
+<size=20%>奪回設施控制權\n協助 <b><color=#ffff7c>科學家</color></b> 逃離設施\n與 <color=#556278><b>設施警衛</b></color> 合作\n消滅其他目標\n</size>
+<size=20%>根據遊戲提示來完成你的目標\n</size>
+<size=20%>奪回設施控制權\n協助 <color=#ffff7c><b>科學家</b></color> 逃離設施\n與 <color=#5d87d2><b>九尾狐小隊</b></color> 合作\n消滅其他目標\n</size>
+<b><color=#636363><size=43%>引渡他聲</size></color></b> \n<size=20%>殺死所有人，不要讓任何人逃走\n與其他 <color=#F00><b>SCP</b></color> 合作\n</size>
+-
+<size=20%>佔領設施奪取控制權\n協助 <color=#ff8000><b>D級人員</b></color> 逃離設施\n消滅其他目標\n</size>
+<size=20%>佔領設施奪取控制權\n協助 <color=#ff8000><b>D級人員</b></color> 逃離設施\n消滅其他目標\n</size>
+<size=20%>佔領設施奪取控制權\n協助 <color=#ff8000><b>D級人員</b></color> 逃離設施\n消滅其他目標\n</size>
+-
+-
+<b><color=#bf5e5e><size=43%>會不會太冷顫了點 ?</size></color></b> \n<size=20%>殺死所有人，不要讓任何人逃走\n與其他 <color=#F00><b>SCP</b></color> 合作\n</size>
+-
+<b><color=#fb57c6><size=43%>紅鶴</size></color></b> \n<size=20%>攻擊你見到的任何東西\n與你的 <color=#FF59CA><b>族群</b></color> 合作\n</size>
+<b><color=#E94BB7><size=43%>紅鶴</size></color></b> \n<size=20%>攻擊你見到的任何東西\n與你的 <color=#FF59CA><b>族群</b></color> 合作\n</size>
+<b><color=#B08B68><size=43%>僵屍紅鶴</size></color></b> \n<size=20%>殺死所有人，不要讓任何人逃走\n與其他 <color=#F00><b>節日掃興者</b></color> 合作\n</size>
+<color=#0096FF><b><size=43%>九尾狐小隊 紅鶴</size></b></color>\n<size=20%>奪回設施控制權\n協助 <b><color=#ffff7c>科學家</color></b> 逃離設施\與 <color=#556278><b>設施警衛</b></color> 合作\n消滅其他目標\n</size>
+<color=#006326><b><size=43%>混沌分裂者 紅鶴</size></b></color>\n<size=20%>佔領設施奪取控制權\n協助 <color=#ff8000><b>D級人員</b></color> 逃離設施\n消滅其他目標\n</size>

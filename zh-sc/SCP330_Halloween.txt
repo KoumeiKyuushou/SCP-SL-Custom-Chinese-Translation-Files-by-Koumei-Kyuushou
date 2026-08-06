@@ -1,25 +1,25 @@
 🍬糖果🎃
 <color=purple>\uf75b</color> <b><color=#8ad8ff>彩</color><color=#f53b5a>虹</color><color=#cb5cfa>糖</color></color><color=#89f059>果</b> <color=#F7C74D>🍬
-\n\n\n<size=75%><color=#f47fff>一塊硬邦邦的糖，充滿了各種味道</color></size></b>
+\n\n\n<size=75%><color=#f47fff>一块硬邦邦的糖，充满了各种味道</color></size></b>
 \n\n\n\n\n<size=200%>WIP</size>
-<color=#dca43c>🍋 <b>黃色糖果</b> 🍬</color>
-\n\n\n<size=75%><color=#dca43c>濃郁的檸檬香氣撲鼻而來使你有點猶豫</color></size>
+<color=#dca43c>🍋 <b>黄色糖果</b> 🍬</color>
+\n\n\n<size=75%><color=#dca43c>浓郁的柠檬香气扑鼻而来使你有点犹豫</color></size>
 \n\n\n\n\n<size=200%>WIP</size>
 <color=purple><b>🍇 紫色糖果 🍬</b></color>
 \n<size=75%><color=purple>飽滿多汁的葡萄氣味，你的口水開始止不住往下流</color></size>
 \n\n\n\n\n<size=200%>WIP</size>
-<color=#b40404>🍒 <b>紅色糖果</b> 🍬</color>
-\n\n\n<size=75%><color=#b40404>一股濃烈的櫻桃氣味充滿了房間，這味道有點…<i>太</i>濃烈了</color></size>
+<color=#b40404>🍒 <b>红色糖果</b> 🍬</color>
+\n\n\n<size=75%><color=#b40404>一股浓烈的樱桃气味充满了房间，这有点...<i>太</i>劲了</color></size>
 \n\n\n\n\n<size=200%>WIP</size>
-<color=#2a731f>🌿 <b>綠色糖果</b> 🍬</color>
-\n\n\n<size=75%><color=#2a731f>一股難聞的草藥氣味從糖果中散發出來</color></size>
+<color=#2a731f>🌿 <b>绿色糖果</b> 🍬</color>
+\n\n\n<size=75%><color=#2a731f>一股难闻的草药气味从糖果中散发出来</color></size>
 \n\n\n\n\n<size=200%>WIP</size>
-<color=#36a7d6>🍬 <b>藍色糖果</b> 🍬</color>
-\n\n\n<size=75%><color=#36a7d6>聞起來香軟又甜蜜，就像是棉花糖</color></size>
+<color=#36a7d6>🍬 <b>蓝色糖果</b> 🍬</color>
+\n\n\n<size=75%><color=#36a7d6>闻起来香软又甜美，就像是棉花糖</color></size>
 \n\n\n\n\n<size=200%>WIP</size>
 <color=#f47fff>🍓 <b>粉色糖果</b> 🍬</color>
-\n\n\n<size=75%><color=#f47fff>草莓的香氣就和它外表一樣柔和</color></size>
-\n\n\n\n\n<size=200%><color=#FFFFFF>\uf164 | 美味\n\uf164 | 其中的美味是非常的美味\n\uf164 | 好評如潮\n\uf164 | 好吃到爆\n</color>
+\n\n\n<size=75%><color=#f47fff>草莓的香气就和它外表一样柔和</color></size>
+\n\n\n\n\n<size=200%><color=#FFFFFF>\uf164 | 美味\n\uf164 | 其中的美味是非常的美味\n\uf164 | 好评如潮\n\uf164 | 好吃到爆\n</color>
 <color=orange><b>🍊 橘色糖果 🍬</b></color>
 \n\n\n<size=75%>WIP</size>
 \n\n\n\n\n<size=200%>WIP</size>
@@ -30,8 +30,8 @@
 \n\n\n<size=75%>WIP</size>
 \n\n\n\n\n<size=200%>WIP</size>
 <color=#949494>🍬 <b>黑色糖果</b> 🍬</color>
-\n\n\n<size=75%><color=#949494>你在碗的界限之外取出了這顆糖，你記得無數次嘗過它，卻又想不起是什麼滋味</color></size>
-\n\n\n\n\n<size=200%><color=#FFFFFF>\uf074 | 一切都是未知數...</color></size>
+\n\n\n<size=75%><color=#949494>你在碗的界限之外取出了这颗糖，你记得无数次尝过它，却又想不起是什么滋味</color></size>
+\n\n\n\n\n<size=200%><color=#FFFFFF>\uf074 | 一切都是未知数...</color></size>
 <color=#523a28><b>☕️ 棕色糖果 🍬</b></color>
 \n\n\n<size=75%>WIP</size>
 \n\n\n\n\n<size=200%>WIP</size>

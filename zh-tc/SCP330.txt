@@ -1,39 +1,39 @@
 糖果
-<b><color=purple>\uf75b</color> <color=#8ad8ff>彩</color><color=#f53b5a>虹</color><color=#cb5cfa>糖</color></color><color=#89f059>果 <color=#F7C74D>🍬</b>
+<color=purple>\uf75b</color> <b><color=#8ad8ff>彩</color><color=#f53b5a>虹</color><color=#cb5cfa>糖</color></color><color=#89f059>果</b> <color=#F7C74D>🍬
 \n\n\n<size=75%><color=#f47fff>一塊硬邦邦的糖，充滿了各種味道</color></size></b>
 \n\n\n\n\n<size=200%><color=#f57caa>✚</color><color=#FFFFFF> | 恢復 </color><color=#f57caa>15 HP</color>\n<color=#767676>\uf70c</color><color=#FFFFFF> | \uf017 5 <b>秒內</b>不消耗體力</color>\n<color=#DE65EB>\uf0d8</color><color=#FFFFFF> | 給予<b>永久身體減傷</b> (等級可疊加)</color>\n<color=#55da09>\uf3ed</color><color=#FFFFFF> | 給予臨時 </color><color=#55da09>20 AHP</color></size>
-<color=#dca43c><b>🍋 黃色糖果 🍬</b></color>
+<color=#dca43c>🍋 <b>黃色糖果</b> 🍬</color>
 \n\n\n<size=75%><color=#dca43c>濃郁的檸檬香氣撲鼻而來使你有點猶豫</color></size>
 \n\n\n\n\n<size=200%><color=#767676>\uf70c</color><color=#FFFFFF> | 恢復 <b>25%</b> 體力</color>\n<color=#767676>\uf70c</color><color=#FFFFFF> | \uf017 8 <b>秒內</b>不消耗體力</color>\n<color=#DE65EB>\uf0d8</color><color=#FFFFFF> | 給予 \uf005 10 <b>級</b>的<b>移動速度加成</b>效果 \uf017 8 <b>秒</b></color>\n</size>
-<color=purple><b>🍇 紫色糖果 🍬</b></color>
+<color=purple>🍇 <b>紫色糖果</b> 🍬</color>
 \n\n\n<size=75%><color=purple>飽滿多汁的葡萄氣味，你的口水開始止不住往下流</color></size>
 \n\n\n\n\n<size=200%><color=#FC4C93>\uf481</color><color=#FFFFFF> | \uf017 10 <b>秒內</b>再生</color><color=#f57caa> 15 HP</color>\n<color=#DE65EB>\uf0d8</color><color=#FFFFFF> | 給予 \uf005 40 <b>級</b>的<b>傷害減免</b>效果 \uf017 15 <b>秒</b>\n(時間可疊加)</color></size>
-<color=#b40404><b>🍒 紅色糖果 🍬</b></color>
+<color=#b40404>🍒 <b>紅色糖果</b> 🍬</color>
 \n\n\n<size=75%><color=#b40404>一股濃烈的櫻桃氣味充滿了房間，這味道有點…<i>太</i>濃烈了</color></size>
 \n\n\n\n\n<size=200%><color=#FC4C93>\uf481</color><color=#FFFFFF> | \uf017 5 <b>秒內</b>再生</color><color=#f57caa> 45 HP</color></size>
-<color=#2a731f><b>🌿 綠色糖果 🍬</b></color>
+<color=#2a731f>🌿 <b>綠色糖果</b> 🍬</color>
 \n\n\n<size=75%><color=#2a731f>一股難聞的草藥氣味從糖果中散發出來</color></size>
 \n\n\n\n\n<size=200%><color=#FC4C93>\uf481</color><color=#FFFFFF> | \uf017 80 <b>秒內</b>再生</color><color=#f57caa> 120 HP</color>\n<color=#DE65EB>\uf0d8</color><color=#FFFFFF> | 給予 \uf017 30 <b>秒</b><b>負面狀態免除和傷害減免</b>\n(時間可疊加)</color></size>
-<color=#36a7d6><b>🍬 藍色糖果 🍬</b></color>
+<color=#36a7d6>🍬 <b>藍色糖果</b> 🍬</color>
 \n\n\n<size=75%><color=#36a7d6>聞起來香軟又甜蜜，就像是棉花糖</color></size>
 \n\n\n\n\n<size=200%><color=#55da09>\uf3ed</color><color=#FFFFFF> | 給予 </color><color=#55da09>30 AHP</color></size>
-<color=#f47fff><b>🍓 粉色糖果 🍬</b></color>
+<color=#f47fff>🍓 <b>粉色糖果</b> 🍬</color>
 \n\n\n<size=75%><color=#f47fff>草莓的香氣就和它外表一樣柔和</color></size>
 \n\n\n\n\n<size=200%><color=#FFFFFF>\uf164 | 美味\n\uf164 | 其中的美味是非常的美味\n\uf164 | 好評如潮\n\uf164 | 好吃到爆\n</color>
-<color=orange><b>🍊 橘色糖果 🍬</b></color>
+<color=orange>🍊 <b>橘色糖果</b> 🍬</color>
 <color=#FFFFFF>
-<color=#FFFFFF><b>👻 白色糖果 🍬</b></color>
+<color=#FFFFFF>👻 <b>白色糖果</b> 🍬</color>
 <color=#FFFFFF>
 ​
-<color=#808080><b>🍬 灰色糖果 🍬</b></color>
+<color=#808080>🍬 <b>灰色糖果</b> 🍬</color>
 <color=#FFFFFF>
 ​
 
-<color=#949494><b>🍬 黑色糖果 🍬</b></color>
+<color=#949494>🍬 <b>黑色糖果</b> 🍬</color>
 \n\n\n<size=75%><color=#949494>你在碗的界限之外取出了這顆糖，你記得無數次嘗過它，卻又想不起是什麼滋味</color></size>
 \n\n\n\n\n<size=200%><color=#FFFFFF>\uf074 | 一切都是未知數...</color></size>
-<color=#523a28><b☕️ 棕色糖果 🍬</b></color>
+<color=#523a28>☕️ <b>棕色糖果</b> 🍬</color>
 <color=#FFFFFF>
 ​
-<color=red><b>💀 惡魔糖果 💀</b></color>
+<color=red>💀 <b>惡魔糖果</b> 💀</color>
 <color=#FFFFFF>

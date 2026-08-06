@@ -3,7 +3,7 @@
 <color=#FF82F0><b>醫療物品</b></color>
 <color=#ab99bf><b>無線電</b></color>
 <color=#CDE9FA><b>槍械</b></color>
-<color=#34d2ff><b>戰術道具</b></color>
+<color=#80B4BF><b>戰術道具</b></color>
 <color=#F00><b>SCP物品</b></color>
 <color=#4ABAFF><b>實驗性武器</b></color>
 <color=#BF965C><b>彈藥</b></color>

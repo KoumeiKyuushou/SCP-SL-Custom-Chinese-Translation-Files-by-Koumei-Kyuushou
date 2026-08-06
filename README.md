@@ -12,7 +12,7 @@
 
 <div align="center">
 
-[![release](https://img.shields.io/badge/最新版本-v4.0.0-3F7ED4?style=flat)](https://github.com/KoumeiKyuushou/SCP-SL-Custom-Chinese-Translation-Files-by-Koumei-Kyuushou/releases/tag/v4.0.0)
+[![release](https://img.shields.io/badge/最新版本-v4.0.1-3F7ED4?style=flat)](https://github.com/KoumeiKyuushou/SCP-SL-Custom-Chinese-Translation-Files-by-Koumei-Kyuushou/releases/tag/v4.0.1)
 [![preview](https://img.shields.io/badge/最新預覽版(舊的)-v4.0.0PreviewD-FFCB33?style=flat)](https://github.com/KoumeiKyuushou/SCP-SL-Custom-Chinese-Translation-Files-by-Koumei-Kyuushou/releases/tag/v4.0.0PreviewD)
 [![bilibili](https://img.shields.io/badge/bilibili-九霄鵼冥Koumei-FF9EF0?style=flat)](https://space.bilibili.com/173589887)
 [![youtube](https://img.shields.io/badge/YouTube-九霄鵼冥Koumei-FF1F1F?style=flat)](https://www.youtube.com/@Koumei-Kyuushou)
@@ -188,9 +188,9 @@
 
   # ⬇️ 想立即試試嗎？
 
-   **繁** [點擊這裡下載最新的穩定版 **繁體中文** 版本](https://github.com/KoumeiKyuushou/SCP-SL-Custom-Chinese-Translation-Files-by-Koumei-Kyuushou/releases/download/v4.0.0/zh_tc_bykoumei_4.0.0_14.2.7.zip)
+   **繁** [點擊這裡下載最新的穩定版 **繁體中文** 版本](https://github.com/KoumeiKyuushou/SCP-SL-Custom-Chinese-Translation-Files-by-Koumei-Kyuushou/releases/download/v4.0.1/zh_tc_bykoumei_4.0.1_14.2.7.zip)
 
-   **預** [點擊這裡下載最新的預覽版 **繁體中文** 版本](https://github.com/KoumeiKyuushou/SCP-SL-Custom-Chinese-Translation-Files-by-Koumei-Kyuushou/releases/download/v4.0.0PreviewD/zh_tc_bykoumei_4.0.0previewD_14.2.7.zip)
+   **預** [(已過期)點擊這裡下載最新的預覽版 **繁體中文** 版本](https://github.com/KoumeiKyuushou/SCP-SL-Custom-Chinese-Translation-Files-by-Koumei-Kyuushou/releases/download/v4.0.0PreviewD/zh_tc_bykoumei_4.0.0previewD_14.2.7.zip)
 
    > _注意，現在預覽版比穩定版舊_
 
@@ -374,9 +374,9 @@
 
   # ⬇️ 想立即试试吗？
 
-   **简** [点击这里下载最新的稳定版 **简体中文** 版本](https://github.com/KoumeiKyuushou/SCP-SL-Custom-Chinese-Translation-Files-by-Koumei-Kyuushou/releases/download/v4.0.0/zh_sc_bykoumei_4.0.0_14.2.7.zip)
+   **简** [点击这里下载最新的稳定版 **简体中文** 版本](https://github.com/KoumeiKyuushou/SCP-SL-Custom-Chinese-Translation-Files-by-Koumei-Kyuushou/releases/download/v4.0.1/zh_sc_bykoumei_4.0.1_14.2.7.zip)
 
-   **预** [点击这里下载最新的预览版 **简体中文** 版本](https://github.com/KoumeiKyuushou/SCP-SL-Custom-Chinese-Translation-Files-by-Koumei-Kyuushou/releases/download/v4.0.0PreviewD/zh_sc_bykoumei_4.0.0previewD_14.2.7.zip)
+   **预** [(已过期)点击这里下载最新的预览版 **简体中文** 版本](https://github.com/KoumeiKyuushou/SCP-SL-Custom-Chinese-Translation-Files-by-Koumei-Kyuushou/releases/download/v4.0.0PreviewD/zh_sc_bykoumei_4.0.0previewD_14.2.7.zip)
 
    > _注意，现在预览版比稳定版旧_
 
@@ -404,15 +404,15 @@
 
 # 祝你玩得開心！
 
-<img src="https://github.com/KoumeiKyuushou/SCP-SL-Custom-Chinese-Translation-Files-by-Koumei-Kyuushou/blob/穩定版/Assets/ainime/gongichaa_東方project二次創作.jpg?raw=true" 
+<img src="https://github.com/KoumeiKyuushou/SCP-SL-Custom-Chinese-Translation-Files-by-Koumei-Kyuushou/blob/穩定版/Assets/ainime/@mochimoti0528_こいし.jpg?raw=true" 
      align="left" 
      width="400">
 
 <br>
 
-來源：[@gongichaa](https://x.com/gongichaa)
+來源：[@mochimoti0528](https://x.com/mochimoti0528)
 
-貼文：https://x.com/gongichaa/status/2071395320957952335
+貼文：https://x.com/mochimoti0528/status/2083904985591636181
 
 侵刪
 
@@ -422,6 +422,6 @@
 
 [![Contributors](https://contrib.rocks/image?repo=KoumeiKyuushou/SCP-SL-Custom-Chinese-Translation-Files-by-Koumei-Kyuushou)](https://github.com/KoumeiKyuushou/SCP-SL-Custom-Chinese-Translation-Files-by-Koumei-Kyuushou/graphs/contributors)
 
-_115年 | 2026年 | 06月30日 | 週二_
+_115年 | 2026年 | 08月06日 | 週四_
 
 _By Koumei Kyuushou (九霄鵼冥Koumei)_

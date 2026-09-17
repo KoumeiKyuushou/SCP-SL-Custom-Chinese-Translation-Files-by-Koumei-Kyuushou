@@ -40,7 +40,7 @@
 44~<color=#ABB9CC>❄️ <b>SCP-244-A</b> ❄️</color>~<color=#ABB9CC>\uf0c2</color> | 制造一团冰雾 \n<color=#B05353>\uf714</color> | 雾會冻死人~<color=#ABB9CC>冰雾罐
 45~<color=#ABB9CC>❄️ <b>SCP-244-B</b> ❄️</color>~<color=#ABB9CC>\uf0c2</color> | 制造一团冰雾 \n<color=#B05353>\uf714</color> | 雾會冻死人~<color=#ABB9CC>冰雾罐
 46~<color=#95D600>\uf492 <b>SCP-1853</b> \uf492</color>~<size=80%><color=#95D600>\uf0d8</color> | 降低 20% <b>精度误差</b>、<b>后坐力</b>、<b>拔枪时间</b>、<b>瞄准切换</b>和<b>物品使用时间</b>\n<color=#95D600>\uf0d8</color> | 降低 35% <b>换弹时间</b>\n<color=#95D600>\uf0d8</color> | 移除因所持物品的<b>耐力惩罚</b></size>\n<size=75%>以上效果会因为<b><color=#95D600>危险值</color></b>增加而加强\n\n<size=80%><b>\uf071 不要与下列物品混用 \uf071</b>\n<color=#fe001a>\uf72f SCP-207 \uf72f</color>\n<color=#076BF5>\uf72f 702-PCS \uf72f</size>~<color=#95D600>性能增强剂
-47~<color=#4ABAFF>\uf5d2 <b>3-X 分子裂解者</b> \uf5d2</color>~<i><size=130%><color=#4ABAFF><b>实验性武器</b></color></size></i>\n一把能发射强大的分解能量光束的\n奇怪武器
+47~<color=#4ABAFF>\uf5d2 <b>3-X 分子裂解者</b> \uf5d2</color>~<i><size=130%><color=#4ABAFF><b>实验性武器</b></color></size></i>\n能发射强大分解能量光束的奇怪武器
 48~<color=#34d2ff>\uf05b <b>COM-45</b> \uf05b</color>
 49~<color=#DED187>\uf6e2 <b>SCP-1576</b> \uf6e2</color>~\uf6e2 | 允许暂时与死者交流 \uf017 30 <b>秒</b>\n\uf1da | 冷却时间 2 <b>分钟</b>~<color=#DED187>爱迪生死者通信器
 50~<color=#4ABAFF>\uf0e7 <b>囚鸟</b> \uf0e7</color>~<i><size=130%><color=#4ABAFF><b>实验性武器</b></color></size></i>\n一根奇怪又不稳定奇怪棍棒\n可用于挥击目标或蓄力\n造成大量伤害

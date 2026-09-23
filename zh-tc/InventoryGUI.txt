@@ -18,13 +18,13 @@
 按下 <color=#ff80bc><b>[key]</b></color> 鍵發出奸笑聲
 <size=150%>\uf0e7 <b>[percent]</b>
 <size=150%>\uf5d2 <b>[rem]</b>
-按住 <b>[primary]</b> 鍵使用快速射擊模式
+\n\n\n\n按住 <b>[primary]</b> 鍵使用快速射擊模式
 按住 <b>[secondary]</b> 鍵使用高能蓄力模式
-按下 <b>[key]</b> 鍵切換射擊模式
-按下 <b>[key]</b> 鍵進行攻擊
+\n\n\n\n按下 <b>[key]</b> 鍵切換射擊模式
+\n\n\n\n按下 <b>[key]</b> 鍵進行攻擊
 按住 <b>[key]</b> 鍵進行蓄能
-<size=125%><color=#FFC338>ℹ️<b> 放電已就緒</b></color></size>\n<size=80%>按下<b> [primary] </b>鍵發射</size>
-<color=#FF4747>\uf071</color>  MICRO H.I.D. 已損壞，功能受限
-<color=#8079FF><b>SCP-127</b></color> 的力量會隨著您與它牽絆的加深而變得更強
+\n\n<color=#4ABAFF><size=200%>\uf0e7</size>\n<b>放電已就緒</b>\n</color>按下<b> [primary] </b>鍵發射
+\n\n<color=#FF4747><size=200%>\uf071</size>\nMICRO H.I.D. 已損壞，功能受限</color>
+\n\n\n\n<color=#8079FF><b>SCP-127</b></color> 的力量會隨著您與它牽絆的加深而變得更強
 使用$方向鍵$或$[up], [left], [down], 以及[right]鍵$來操縱蛇的移動
 衝刺速度

@@ -1,10 +1,10 @@
-<color=green><size=60>-○-</size>\n<size=30>OPENED</size></size></color>
-<color=#07A2FF><size=60>-●-</size>\n<size=30>CLOSED</size></size></color>
-<color=orange><size=40>┃⇆┃</size>\n<size=30>MOVING</size></color>
-<color=red><size=50>-\uf023-</size></color>
-<color=yellow><size=50>-⚠️-</size>\n<size=30>ERR606</size></color>
-<color=red><size=50>-❌-</size></color>
-<color=green><size=50>-✔️-</size></color>
-<color=#07A2FF><size=35>-🔑-</size></color>
-<color=orange><size=45>-⭕-</size></color>
-<color=orange><size=45>-⛔-</size></color>
+<color=green>已開啟</color>
+<color=#07A2FF>已關閉</color>
+<color=orange>移動中</color>
+<color=red>已鎖定</color>
+<color=red>故 障</color>
+<color=red>拒絕訪問</color>
+<color=green>允許訪問</color>
+<color=#07A2FF>需要鎖匙卡</color>
+<color=orange>請通行</color>
+<color=orange>關閉中</color>

@@ -1,16 +1,16 @@
-<b><color=#FF4747>❌</color> 这缕灵魂已消散殆尽</b>
-<B><color=#FF4747>❌</color> 这具尸体完全腐烂了</B>
-<B><color=#FF4747>❌</color> 这缕灵魂已经复苏太多次了</B>
-<B><color=#FF4747>❌</color> 这缕灵魂不再想被复苏了</B>
-<B><color=#FF4747>❌</color> 这具尸体无法复苏</B>
-<B><color=#FF4747>❌</color> 这具尸体已经被啃食殆尽了</B>
-<B><color=#FF4747>❌</color> 只能啃食人类的尸体</B>
+<b><color=#FF4747>❌</color></b> 这缕灵魂已消散殆尽
+<B><color=#FF4747>❌</color></B> 这具尸体完全腐烂了
+<B><color=#FF4747>❌</color></B> 这缕灵魂已经复苏太多次了
+<B><color=#FF4747>❌</color></B> 这缕灵魂不再想被复苏了
+<B><color=#FF4747>❌</color></B> 这具尸体无法复苏
+<B><color=#FF4747>❌</color></B> 这具尸体已经被啃食殆尽了
+<B><color=#FF4747>❌</color></B> 只能啃食人类的尸体
 攻击间隔
-<B><color=#50DE47>✔️</color> 已拒绝复苏</B>
-<color=#FFC338>\uf05a</color>  <B>按下 [key] 键拒绝再次复苏</B>
-<color=#FF4747>\uf070</color>  <B>未选定到目标</B>
-<B><color=#FF4747>❌</color> 您已经满血了</B>
-<B><color=#FF4747>❌</color> 这具尸体已经被啃食殆尽了</B>
+<B><color=#50DE47>✔️</color></B> 已拒绝复苏
+<color=#FFC338>\uf05a</color>  按下 <B>[key]</B> 键拒绝再次复苏
+<color=#FF4747>\uf070</color>  未选定到目标
+<B><color=#FF4747>❌</color></B> 你已经满血了
+<B><color=#FF4747>❌</color></B> 这具尸体已经被啃食殆尽了
 与你的<color=#F00>SCP队友</color>一同合作。利用你的能力复苏并维持一群复活的僵尸，扭转游戏局势，使其对你们有利。
 与你的<color=#F00>SCP队友</color>一同合作。遵循<color=#F00>SCP-049</color>的指挥击杀目标，为你的尸群创造新的成员。
 心脏攻击:对准附近的人类按下[key]造成心脏骤停效果，如果目标未及时受到治疗，最终会导致死亡。如果目标已经处于心脏骤停状态，攻击将直接造成击杀。
@@ -21,4 +21,3 @@
 暴食:对人类尸体按下[key]可吞食尸体。吞食尸体可恢复生命值。
 <B><color=#1affa6>✚ 复苏</B>
 长按[key]键
-撕裂:按下[key]对附近的人类发起攻击，造成中等伤害。

@@ -69,12 +69,11 @@ ControlsSettings
 
 📝Disarming
       繳械文本，有修改。
-      上次修改：4.0.0 Preview B
+      第三行文本原是聽從指揮或向隊友尋求幫助
+      上次修改：4.1.0
 
 📝Doors
-      舊的門操作面板，有修改。
-      但是已經沒啥用了，留著當兼容老版本遊戲。
-      上次修改：公開之前
+      舊的門操作面板，沒有修改。
 
 📝Facility
       超級多的雜項文本，有修改。
@@ -115,7 +114,7 @@ InterfaceSettings
 
 📝InventoryGUI
       提示文本和槍械背包數據文本，有修改。
-      上次修改：4.0.0 Preview B
+      上次修改：4.1.0
 
 📝Items
       物品背包文本，有修改。
@@ -183,13 +182,17 @@ SCP_Interfaces
 SCP079
        舊版SCP079，沒有修改。
 
+📝SCP049_HUD
+       SCP096，有修改。
+       上次修改：4.1.0
+
 📝SCP079_HUD
        SCP079，有修改。
        上次修改：4.0.0 Preview D
 
 📝SCP096_HUD
        SCP096，有修改。
-       上次修改：4.0.0 Preview A
+       上次修改：4.1.0
 
 📝SCP106_HUD
        SCP106，有修改。
@@ -211,14 +214,14 @@ SCP173_HUD
 
 📝SCP939_HUD
        SCP939，有修改。
-       上次修改：4.0.0 Preview A
+       上次修改：4.1.0
 
 SCP1507_HUD
        SCP1507，沒有修改。
 
 📝SCP3114_HUD
        SCP3114，有修改。
-       上次修改：4.0.0 Preview B
+       上次修改：4.1.0
 
 📝SettingsCategories
        設定選項標籤，有修改。

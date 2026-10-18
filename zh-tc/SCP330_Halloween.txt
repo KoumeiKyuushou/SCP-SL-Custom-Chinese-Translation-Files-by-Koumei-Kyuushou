@@ -1,40 +1,40 @@
 🍬糖果🎃
 <color=purple>\uf75b</color> <b><color=#8ad8ff>彩</color><color=#f53b5a>虹</color><color=#cb5cfa>糖</color></color><color=#89f059>果</b> <color=#F7C74D>🍬
 \n\n\n<size=75%><color=#f47fff>一塊硬邦邦的糖，充滿了各種味道</color></size></b>
-\n\n\n\n\n<size=200%>WIP</size>
+\n\n\n\n\n<size=200%><color=#89f059>\uf0c2</color><color=#FFFFFF> | 在地面生成一朵彩虹</color>\n<color=#f53b5a>\uf0c2</color><color=#FFFFFF> | 位於彩虹中將獲得一系列<b>正面效果</b></color>\n<color=#F7C74D>\uf004</color><color=#FFFFFF> | 位於彩虹中，非秒殺攻擊<b>免死</b></size>
 <color=#dca43c>🍋 <b>黃色糖果</b> 🍬</color>
 \n\n\n<size=75%><color=#dca43c>濃郁的檸檬香氣撲鼻而來使你有點猶豫</color></size>
-\n\n\n\n\n<size=200%>WIP</size>
+\n\n\n\n\n<size=200%><color=#DE65EB>\uf0d8</color><color=#FFFFFF> | 移動速度提升 <b>50%</b></color>\n<color=#767676>\uf70c</color><color=#FFFFFF> | 補滿體力\n<color=#dca43c>\uf51a</color><color=#FFFFFF> | 衝刺！無法轉向和控制角色移動</size>
 <color=purple><b>🍇 紫色糖果 🍬</b></color>
-\n<size=75%><color=purple>飽滿多汁的葡萄氣味，你的口水開始止不住往下流</color></size>
-\n\n\n\n\n<size=200%>WIP</size>
+\n\n\n\n<size=75%><color=purple>飽滿多汁的葡萄氣味，你的口水開始止不住往下流</color></size>
+\n\n\n\n\n\n<size=200%><color=#DE65EB>\uf0dd</color><color=#FFFFFF> | 移動速度降低 <b>10%</b></color>\n<color=#DE65EB>\uf5cd</color><color=#FFFFFF> | 體重變胖，聲音變得低沉\n<color=purple>🍬</color><color=#FFFFFF> | 糖果食用速度提升 x3\n<color=#55da09>\uf3ed</color><color=#FFFFFF> | 給予持續消耗的 </color><color=#55da09>330 AHP </color>，\n該護盾<b>傷害吸收</b> 100%</size>
 <color=#b40404>🍒 <b>紅色糖果</b> 🍬</color>
 \n\n\n<size=75%><color=#b40404>一股濃烈的櫻桃氣味充滿了房間，這味道有點…<i>太</i>濃烈了</color></size>
-\n\n\n\n\n<size=200%>WIP</size>
+\n\n\n\n\n<size=200%><color=#b40404>\uf7e4</color><color=#FFFFFF> | 燃起來！！！</size>
 <color=#2a731f>🌿 <b>綠色糖果</b> 🍬</color>
 \n\n\n<size=75%><color=#2a731f>一股難聞的草藥氣味從糖果中散發出來</color></size>
-\n\n\n\n\n<size=200%>WIP</size>
+\n\n\n\n\n<size=200%><color=#FC4C93>✚</color><color=#FFFFFF> | 給予臨時 <color=#f57caa> 200 HP\n<color=#FC4C93>\uf481</color><color=#FFFFFF> | 每秒再生</color><color=#f57caa> 6 HP</color>\n<color=#2a731f>\uf587</color><color=#FFFFFF> | 太太太太正！！！</size>
 <color=#36a7d6>🍬 <b>藍色糖果</b> 🍬</color>
 \n\n\n<size=75%><color=#36a7d6>聞起來香軟又甜蜜，就像是棉花糖</color></size>
-\n\n\n\n\n<size=200%>WIP</size>
+\n\n\n\n\n<size=200%><color=#ab99bf>\uf54c</color><color=#FFFFFF> | 化身<color=#ab99bf><b>棉花糖人</b></color>\uf017 15 <b>秒</b></size>
 <color=#f47fff>🍓 <b>粉色糖果</b> 🍬</color>
 \n\n\n<size=75%><color=#f47fff>草莓的香氣就和它外表一樣柔和</color></size>
 \n\n\n\n\n<size=200%><color=#FFFFFF>\uf164 | 美味\n\uf164 | 其中的美味是非常的美味\n\uf164 | 好評如潮\n\uf164 | 好吃到爆\n</color>
 <color=orange><b>🍊 橘色糖果 🍬</b></color>
-\n\n\n<size=75%>WIP</size>
-\n\n\n\n\n<size=200%>WIP</size>
-<color=#FFFFFF><b>👻 白色糖果 🍬</b></color>
-\n\n\n<size=75%>WIP</size>
-\n\n\n\n\n<size=200%>WIP</size>
-<color=#808080><b>🍬 灰色糖果 🍬</b></color>
-\n\n\n<size=75%>WIP</size>
-\n\n\n\n\n<size=200%>WIP</size>
+\n\n\n<size=75%><color=orange>這顆柑橘香味的糖果散發出誘人的光澤
+\n\n\n\n\n<size=200%><color=orange>\uf0eb</color><color=#FFFFFF> | 成為世界上最閃耀之人，\uf017 20 <b>秒</size>
+<color=#FFFFFF><b>\uf6e2 白色糖果 🍬</b></color>
+\n\n\n<size=75%><color=#FFFFFF>包裝紙裏散發出明顯的糖果香味。 但裡面似乎沒有糖果…
+\n\n\n\n\n<size=200%><color=#FFFFFF>\uf6e2</color><color=#FFFFFF> | 變為<b>幽靈</b>，\uf017 25 <b>秒</size>
+<color=#808080><b>\uf5cd 灰色糖果 🍬</b></color>
+\n\n\n<color=#808080><size=75%>這顆重的出奇的糖果散發出淡淡的鉛味
+\n\n\n\n\n<size=200%><color=#808080>\uf5cd</color><color=#FFFFFF> | 變成重的出奇的<b>鉛塊</b>，\uf017 30 <b>秒</size>
 <color=#949494>🍬 <b>黑色糖果</b> 🍬</color>
 \n\n\n<size=75%><color=#949494>你在碗的界限之外取出了這顆糖，你記得無數次嘗過它，卻又想不起是什麼滋味</color></size>
 \n\n\n\n\n<size=200%><color=#FFFFFF>\uf074 | 一切都是未知數...</color></size>
-<color=#523a28><b>☕️ 棕色糖果 🍬</b></color>
-\n\n\n<size=75%>WIP</size>
-\n\n\n\n\n<size=200%>WIP</size>
+<color=#9C6033><b>☕️ 棕色糖果 🍬</b></color>
+\n\n\n<color=#9C6033><size=75%>熟悉的咖啡香味吸引著你
+\n\n\n\n\n<size=200%><color=#9C6033>\uf619</color><color=#FFFFFF> | 這更像是瀉藥</size>
 <color=red><b>💀 惡魔糖果 💀</b></color>
-\n\n\n<size=75%>WIP</size>
-\n\n\n\n\n<size=200%>WIP</size>
+\n\n\n<color=red><size=75%>這顆糖果充滿邪惡的力量
+\n\n\n\n\n<size=200%><color=#ab99bf>\uf54c</color><color=#FFFFFF> | 化身<color=#ab99bf><b>棉花糖人</b></color>\uf017 <b>永久</b></size>

@@ -15,7 +15,7 @@
 <b>共計</b> [amount]
 護甲穿透
 奔跑時射擊精度
-按下 <color=#ff80bc><b>[key]</b></color> 鍵發出奸笑聲
+按下 <color=#ab99bf><b>[key]</b></color> 鍵發出奸笑聲
 <size=150%>\uf0e7 <b>[percent]</b>
 <size=150%>\uf5d2 <b>[rem]</b>
 \n\n\n\n按住 <b>[primary]</b> 鍵使用快速射擊模式

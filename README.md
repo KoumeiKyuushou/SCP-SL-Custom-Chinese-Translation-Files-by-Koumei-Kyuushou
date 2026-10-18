@@ -12,6 +12,7 @@
 
 <div align="center">
 
+[![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white)](https://github.com/KoumeiKyuushou)
 [![Bilibili](https://img.shields.io/badge/bilibili-%2300A1D6.svg?style=for-the-badge&logo=bilibili&logoColor=white)](https://space.bilibili.com/173589887)
 [![YouTube](https://img.shields.io/badge/YouTube-%23FF0000.svg?style=for-the-badge&logo=YouTube&logoColor=white)](https://www.youtube.com/@Koumei-Kyuushou)
 [![X](https://img.shields.io/badge/X-%23000000.svg?style=for-the-badge&logo=X&logoColor=white)](https://x.com/Koumei_Kyuushou)

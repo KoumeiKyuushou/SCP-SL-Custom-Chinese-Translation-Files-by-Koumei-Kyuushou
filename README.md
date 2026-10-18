@@ -404,15 +404,15 @@
 
 # 祝你玩得開心！
 
-<img src="https://github.com/KoumeiKyuushou/SCP-SL-Custom-Chinese-Translation-Files-by-Koumei-Kyuushou/blob/穩定版/Assets/ainime/@ti_owo_🎆𓆏🎆.jpg?raw=true" 
+<img src="https://github.com/KoumeiKyuushou/SCP-SL-Custom-Chinese-Translation-Files-by-Koumei-Kyuushou/blob/%E7%A9%A9%E5%AE%9A%E7%89%88/Assets/ainime/%40agz2536368_%23%E8%A5%BF%E8%A1%8C%E5%AF%BA%E5%B9%BD%E3%80%85%E5%AD%90%F0%9F%8D%A1.jpg" 
      align="left" 
      width="400">
 
 <br>
 
-來源：[@ti_owo8](https://x.com/ti_owo)
+來源：[@agz2536368_まんまるウミウシ](https://x.com/agz2536368/status/2110207247485894913)
 
-貼文：https://x.com/ti_owo/status/2098782636777025553
+貼文：https://x.com/agz2536368/status/2110207247485894913
 
 侵刪
 
@@ -422,6 +422,6 @@
 
 [![Contributors](https://contrib.rocks/image?repo=KoumeiKyuushou/SCP-SL-Custom-Chinese-Translation-Files-by-Koumei-Kyuushou)](https://github.com/KoumeiKyuushou/SCP-SL-Custom-Chinese-Translation-Files-by-Koumei-Kyuushou/graphs/contributors)
 
-_115年 | 2026年 | 09月23日 | 週三_
+_115年 | 2026年 | 10月18日 | 週日_
 
 _By Koumei Kyuushou (九霄鵼冥Koumei)_

@@ -1,4 +1,4 @@
-<!-- 圖示 -->
+<!-- LOGO -->
 
 <p align="center">
   <img src="./Assets/logo/NEWLOGO.png" alt="logo" width="400">
@@ -8,24 +8,39 @@
 
 <p align="center">由 九霄鵼冥Koumei 製作</p>
 
-<!-- 徽章 -->
+<!-- BADGE -->
 
 <div align="center">
 
-[![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white)](https://github.com/KoumeiKyuushou)
-[![Bilibili](https://img.shields.io/badge/bilibili-%2300A1D6.svg?style=for-the-badge&logo=bilibili&logoColor=white)](https://space.bilibili.com/173589887)
-[![YouTube](https://img.shields.io/badge/YouTube-%23FF0000.svg?style=for-the-badge&logo=YouTube&logoColor=white)](https://www.youtube.com/@Koumei-Kyuushou)
-[![X](https://img.shields.io/badge/X-%23000000.svg?style=for-the-badge&logo=X&logoColor=white)](https://x.com/Koumei_Kyuushou)
-[![Threads](https://img.shields.io/badge/Threads-%23000000.svg?style=for-the-badge&logo=Threads&logoColor=white)](https://www.threads.com/@koumeikyuushou)
-[![Tencent QQ](https://img.shields.io/badge/Tencent_QQ-%2312B7F5.svg?style=for-the-badge&logo=qq&logoColor=white)](https://qun.qq.com/universal-share/share?ac=1&authKey=sESt9q243y20c8HCe7x2lA%2F8N18Sy4dqfLuYVmY5V7ZUD2GjzQKJfo7K2lcjw5w2&busi_data=eyJncm91cENvZGUiOiI3MzkzMzc2MjciLCJ0b2tlbiI6IjExVlpja00vRjF2ZzR2STA1OTJsZ09Hcm0wSTBUMVVMV0VoNzQzcmdIKzAwdktYZG1QOG02RTI0SlJXV1BPckEiLCJ1aW4iOiIyOTYwNTI0Mjk0In0%3D&data=zBhqE383XJ5UNd1oGxbOdCqattuMTg6_J5dzusr4v8UnoQ8PEKTP3ZcdYaf_GtrfJ7QlpMNoXl5qSt8u5h6_5w&svctype=4&tempid=h5_group_info)
+ [![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white)](https://github.com/KoumeiKyuushou)
+ [![Bilibili](https://img.shields.io/badge/bilibili-%2300A1D6.svg?style=for-the-badge&logo=bilibili&logoColor=white)](https://space.bilibili.com/173589887)
+ [![YouTube](https://img.shields.io/badge/YouTube-%23FF0000.svg?style=for-the-badge&logo=YouTube&logoColor=white)](https://www.youtube.com/@Koumei-Kyuushou)
+ [![X](https://img.shields.io/badge/X-%23000000.svg?style=for-the-badge&logo=X&logoColor=white)](https://x.com/Koumei_Kyuushou)
+ [![Threads](https://img.shields.io/badge/Threads-%23000000.svg?style=for-the-badge&logo=Threads&logoColor=white)](https://www.threads.com/@koumeikyuushou)
+ [![Tencent QQ](https://img.shields.io/badge/Tencent_QQ-%2312B7F5.svg?style=for-the-badge&logo=qq&logoColor=white)](https://qun.qq.com/universal-share/share?ac=1&authKey=sESt9q243y20c8HCe7x2lA%2F8N18Sy4dqfLuYVmY5V7ZUD2GjzQKJfo7K2lcjw5w2&busi_data=eyJncm91cENvZGUiOiI3MzkzMzc2MjciLCJ0b2tlbiI6IjExVlpja00vRjF2ZzR2STA1OTJsZ09Hcm0wSTBUMVVMV0VoNzQzcmdIKzAwdktYZG1QOG02RTI0SlJXV1BPckEiLCJ1aW4iOiIyOTYwNTI0Mjk0In0%3D&data=zBhqE383XJ5UNd1oGxbOdCqattuMTg6_J5dzusr4v8UnoQ8PEKTP3ZcdYaf_GtrfJ7QlpMNoXl5qSt8u5h6_5w&svctype=4&tempid=h5_group_info)
 
-<br>
-
-[![release](https://img.shields.io/badge/最新版本-v4.2.0-3F7ED4?style=flat)](https://github.com/KoumeiKyuushou/SCP-SL-Custom-Chinese-Translation-Files-by-Koumei-Kyuushou/releases/tag/v4.2.0)
-[![preview](https://img.shields.io/badge/最新預覽版(舊的)-v4.0.0PreviewD-FFCB33?style=flat)](https://github.com/KoumeiKyuushou/SCP-SL-Custom-Chinese-Translation-Files-by-Koumei-Kyuushou/releases/tag/v4.0.0PreviewD)
-[![issues](https://img.shields.io/badge/回報-創建發起Issues-A4E04C?style=flat)](https://github.com/KoumeiKyuushou/SCP-SL-Custom-Chinese-Translation-Files-by-Koumei-Kyuushou/issues)
-[![GitHub Repo stars](https://img.shields.io/github/stars/KoumeiKyuushou/SCP-SL-Custom-Chinese-Translation-Files-by-Koumei-Kyuushou?color=FFDA66&style=flat)](https://github.com/KoumeiKyuushou/SCP-SL-Custom-Chinese-Translation-Files-by-Koumei-Kyuushou/stargazers)
-[![GitHub forks](https://img.shields.io/github/forks/KoumeiKyuushou/SCP-SL-Custom-Chinese-Translation-Files-by-Koumei-Kyuushou?color=FFFFFF&style=flat)](https://github.com/KoumeiKyuushou/SCP-SL-Custom-Chinese-Translation-Files-by-Koumei-Kyuushou/network/members)
+<p align="center">
+  <a href="https://github.com/KoumeiKyuushou/SCP-SL-Custom-Chinese-Translation-Files-by-Koumei-Kyuushou/releases/tag/v4.2.0">
+    <img
+      src="https://img.shields.io/badge/最新版本-v4.2.0-3F7ED4?style=for-the-badge"
+    />
+  </a>
+  <a href="https://github.com/KoumeiKyuushou/SCP-SL-Custom-Chinese-Translation-Files-by-Koumei-Kyuushou/releases/tag/v4.0.0PreviewD">
+    <img
+      src="https://img.shields.io/badge/最新預覽版(舊的)-v4.0.0PreviewD-FFCB33?style=for-the-badge"
+    />
+  </a>
+    <a href="https://github.com/KoumeiKyuushou/SCP-SL-Custom-Chinese-Translation-Files-by-Koumei-Kyuushou/issues">
+    <img
+      src="https://img.shields.io/badge/回報-Issues-A4E04C?style=for-the-badge"
+    />
+  </a>
+    <a href="https://github.com/KoumeiKyuushou/SCP-SL-Custom-Chinese-Translation-Files-by-Koumei-Kyuushou/stargazers">
+    <img
+      src="https://img.shields.io/github/stars/KoumeiKyuushou/SCP-SL-Custom-Chinese-Translation-Files-by-Koumei-Kyuushou?style=for-the-badge&label=STARS&color=FFDA66"
+    />
+  </a>
+</p>
 
 </div>
 

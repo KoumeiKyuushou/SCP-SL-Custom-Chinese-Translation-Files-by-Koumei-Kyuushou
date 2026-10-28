@@ -22,12 +22,12 @@
 <p align="center">
   <a href="https://github.com/KoumeiKyuushou/SCP-SL-Custom-Chinese-Translation-Files-by-Koumei-Kyuushou/releases/tag/v4.2.0">
     <img
-      src="https://img.shields.io/badge/最新版本-v4.2.0-3F7ED4?style=for-the-badge"
+      src="https://img.shields.io/badge/stable-v4.2.0-3F7ED4?style=for-the-badge"
     />
   </a>
   <a href="https://github.com/KoumeiKyuushou/SCP-SL-Custom-Chinese-Translation-Files-by-Koumei-Kyuushou/releases/tag/v4.0.0PreviewD">
     <img
-      src="https://img.shields.io/badge/最新預覽版(舊的)-v4.0.0PreviewD-FFCB33?style=for-the-badge"
+      src="https://img.shields.io/badge/dev(old)-v4.0.0PreviewD-FFCB33?style=for-the-badge"
     />
   </a>
     <a href="https://github.com/KoumeiKyuushou/SCP-SL-Custom-Chinese-Translation-Files-by-Koumei-Kyuushou/issues">
@@ -205,11 +205,11 @@
 
   # ⬇️ 想立即試試嗎？
 
-   **繁** [點擊這裡下載最新的穩定版 **繁體中文** 版本](https://github.com/KoumeiKyuushou/SCP-SL-Custom-Chinese-Translation-Files-by-Koumei-Kyuushou/releases/download/v4.2.0/zh_tc_bykoumei_4.2.0_14.2.8.zip)
+   **繁** [點擊這裡下載Stable版本 **繁體中文** 版本](https://github.com/KoumeiKyuushou/SCP-SL-Custom-Chinese-Translation-Files-by-Koumei-Kyuushou/releases/download/v4.2.0/zh_tc_bykoumei_4.2.0_14.2.8.zip)
 
-   **預** [(已過期)點擊這裡下載最新的預覽版 **繁體中文** 版本](https://github.com/KoumeiKyuushou/SCP-SL-Custom-Chinese-Translation-Files-by-Koumei-Kyuushou/releases/download/v4.0.0PreviewD/zh_tc_bykoumei_4.0.0previewD_14.2.7.zip)
+   **預** [(已過期)點擊這裡下載Dev版本 **繁體中文** 版本](https://github.com/KoumeiKyuushou/SCP-SL-Custom-Chinese-Translation-Files-by-Koumei-Kyuushou/releases/download/v4.0.0PreviewD/zh_tc_bykoumei_4.0.0previewD_14.2.7.zip)
 
-   > _注意，現在預覽版比穩定版舊_
+   > _若Dev標註已過期，代表沒有新的Dev版本，請下載Stable_
 
    <br>
 
@@ -389,11 +389,11 @@
 
   # ⬇️ 想立即试试吗？
 
-   **简** [点击这里下载最新的稳定版 **简体中文** 版本](https://github.com/KoumeiKyuushou/SCP-SL-Custom-Chinese-Translation-Files-by-Koumei-Kyuushou/releases/download/v4.2.0/zh_sc_bykoumei_4.2.0_14.2.8.zip)
+   **简** [点击这里下载Stable版本 **简体中文** 版本](https://github.com/KoumeiKyuushou/SCP-SL-Custom-Chinese-Translation-Files-by-Koumei-Kyuushou/releases/download/v4.2.0/zh_sc_bykoumei_4.2.0_14.2.8.zip)
 
-   **预** [(已过期)点击这里下载最新的预览版 **简体中文** 版本](https://github.com/KoumeiKyuushou/SCP-SL-Custom-Chinese-Translation-Files-by-Koumei-Kyuushou/releases/download/v4.0.0PreviewD/zh_sc_bykoumei_4.0.0previewD_14.2.7.zip)
+   **预** [(已过期)点击这里下载Dev版本 **简体中文** 版本](https://github.com/KoumeiKyuushou/SCP-SL-Custom-Chinese-Translation-Files-by-Koumei-Kyuushou/releases/download/v4.0.0PreviewD/zh_sc_bykoumei_4.0.0previewD_14.2.7.zip)
 
-   > _注意，现在预览版比稳定版旧_
+   > _若Dev標註已过期，代表没有新的Dev，请下载Stable_
 
    <br>
 

@@ -130,8 +130,8 @@
    * 重生時盡量防止遮擋，不丟失原版訊息。
 
    <p align="center">
-    <img src="https://github.com/KoumeiKyuushou/SCP-SL-Custom-Chinese-Translation-Files-by-Koumei-Kyuushou/blob/穩定版/Assets/Features/重生1.png?raw=true" alt="重生1" width="49%">
-    <img src="https://github.com/KoumeiKyuushou/SCP-SL-Custom-Chinese-Translation-Files-by-Koumei-Kyuushou/blob/穩定版/Assets/Features/重生2.png?raw=true" alt="重生2" width="49%">
+    <img src="https://github.com/KoumeiKyuushou/SCP-SL-Custom-Chinese-Translation-Files-by-Koumei-Kyuushou/blob/stable/Assets/Features/重生1.png?raw=true" alt="重生1" width="49%">
+    <img src="https://github.com/KoumeiKyuushou/SCP-SL-Custom-Chinese-Translation-Files-by-Koumei-Kyuushou/blob/stable/Assets/Features/重生2.png?raw=true" alt="重生2" width="49%">
    </p>
 
    <br>
@@ -141,18 +141,18 @@
    > _詳細的功能來源於[官方Wiki](https://en.scpslgame.com/index.php?title=Main_Page)，可能有誤或過時。_
 
    <p align="center">
-    <img src="https://github.com/KoumeiKyuushou/SCP-SL-Custom-Chinese-Translation-Files-by-Koumei-Kyuushou/blob/穩定版/Assets/Features/SCP物品1.png?raw=true" alt="SCP物品1" width="49%">
-    <img src="https://github.com/KoumeiKyuushou/SCP-SL-Custom-Chinese-Translation-Files-by-Koumei-Kyuushou/blob/穩定版/Assets/Features/SCP物品2.png?raw=true" alt="SCP物品2" width="49%">
+    <img src="https://github.com/KoumeiKyuushou/SCP-SL-Custom-Chinese-Translation-Files-by-Koumei-Kyuushou/blob/stable/Assets/Features/SCP物品1.png?raw=true" alt="SCP物品1" width="49%">
+    <img src="https://github.com/KoumeiKyuushou/SCP-SL-Custom-Chinese-Translation-Files-by-Koumei-Kyuushou/blob/stable/Assets/Features/SCP物品2.png?raw=true" alt="SCP物品2" width="49%">
    </p>
 
    <p align="center">
-    <img src="https://github.com/KoumeiKyuushou/SCP-SL-Custom-Chinese-Translation-Files-by-Koumei-Kyuushou/blob/穩定版/Assets/Features/物品1.png?raw=true" alt="物品1" width="49%">
-    <img src="https://github.com/KoumeiKyuushou/SCP-SL-Custom-Chinese-Translation-Files-by-Koumei-Kyuushou/blob/穩定版/Assets/Features/物品2.png?raw=true" alt="物品2" width="49%">
+    <img src="https://github.com/KoumeiKyuushou/SCP-SL-Custom-Chinese-Translation-Files-by-Koumei-Kyuushou/blob/stable/Assets/Features/物品1.png?raw=true" alt="物品1" width="49%">
+    <img src="https://github.com/KoumeiKyuushou/SCP-SL-Custom-Chinese-Translation-Files-by-Koumei-Kyuushou/blob/stable/Assets/Features/物品2.png?raw=true" alt="物品2" width="49%">
    </p>
 
    <p align="center">
-    <img src="https://github.com/KoumeiKyuushou/SCP-SL-Custom-Chinese-Translation-Files-by-Koumei-Kyuushou/blob/穩定版/Assets/Features/糖果1.png?raw=true" alt="糖果1" width="49%">
-    <img src="https://github.com/KoumeiKyuushou/SCP-SL-Custom-Chinese-Translation-Files-by-Koumei-Kyuushou/blob/穩定版/Assets/Features/糖果2.png?raw=true" alt="糖果2" width="49%">
+    <img src="https://github.com/KoumeiKyuushou/SCP-SL-Custom-Chinese-Translation-Files-by-Koumei-Kyuushou/blob/stable/Assets/Features/糖果1.png?raw=true" alt="糖果1" width="49%">
+    <img src="https://github.com/KoumeiKyuushou/SCP-SL-Custom-Chinese-Translation-Files-by-Koumei-Kyuushou/blob/stable/Assets/Features/糖果2.png?raw=true" alt="糖果2" width="49%">
    </p>
 
    <br>
@@ -160,17 +160,17 @@
    * 其它一些無關緊要的優化。
 
    <p align="center">
-    <img src="https://github.com/KoumeiKyuushou/SCP-SL-Custom-Chinese-Translation-Files-by-Koumei-Kyuushou/blob/穩定版/Assets/Features/提示1.png?raw=true" alt="提示1" width="49%">
-    <img src="https://github.com/KoumeiKyuushou/SCP-SL-Custom-Chinese-Translation-Files-by-Koumei-Kyuushou/blob/穩定版/Assets/Features/提示2.png?raw=true" alt="提示2" width="49%">
+    <img src="https://github.com/KoumeiKyuushou/SCP-SL-Custom-Chinese-Translation-Files-by-Koumei-Kyuushou/blob/stable/Assets/Features/提示1.png?raw=true" alt="提示1" width="49%">
+    <img src="https://github.com/KoumeiKyuushou/SCP-SL-Custom-Chinese-Translation-Files-by-Koumei-Kyuushou/blob/stable/Assets/Features/提示2.png?raw=true" alt="提示2" width="49%">
    </p>
 
    <p align="center">
-    <img src="https://github.com/KoumeiKyuushou/SCP-SL-Custom-Chinese-Translation-Files-by-Koumei-Kyuushou/blob/穩定版/Assets/Features/提示3.png?raw=true" alt="提示3" width="49%">
-    <img src="https://github.com/KoumeiKyuushou/SCP-SL-Custom-Chinese-Translation-Files-by-Koumei-Kyuushou/blob/穩定版/Assets/Features/提示4.png?raw=true" alt="提示4" width="49%">
+    <img src="https://github.com/KoumeiKyuushou/SCP-SL-Custom-Chinese-Translation-Files-by-Koumei-Kyuushou/blob/stable/Assets/Features/提示3.png?raw=true" alt="提示3" width="49%">
+    <img src="https://github.com/KoumeiKyuushou/SCP-SL-Custom-Chinese-Translation-Files-by-Koumei-Kyuushou/blob/stable/Assets/Features/提示4.png?raw=true" alt="提示4" width="49%">
    </p>
 
    <p align="center">
-    <img src="https://github.com/KoumeiKyuushou/SCP-SL-Custom-Chinese-Translation-Files-by-Koumei-Kyuushou/blob/穩定版/Assets/Features/主界面.png?raw=true" alt="主界面" width="49%">
+    <img src="https://github.com/KoumeiKyuushou/SCP-SL-Custom-Chinese-Translation-Files-by-Koumei-Kyuushou/blob/stable/Assets/Features/主界面.png?raw=true" alt="主界面" width="49%">
    </p>
 
    <br>
@@ -178,23 +178,23 @@
    * SCP-079的GUI優化。
 
    <p align="center">
-    <img src="https://github.com/KoumeiKyuushou/SCP-SL-Custom-Chinese-Translation-Files-by-Koumei-Kyuushou/blob/穩定版/Assets/Features/0791.png?raw=true" alt="0791" width="49%">
-    <img src="https://github.com/KoumeiKyuushou/SCP-SL-Custom-Chinese-Translation-Files-by-Koumei-Kyuushou/blob/穩定版/Assets/Features/0792.png?raw=true" alt="0792" width="49%">
+    <img src="https://github.com/KoumeiKyuushou/SCP-SL-Custom-Chinese-Translation-Files-by-Koumei-Kyuushou/blob/stable/Assets/Features/0791.png?raw=true" alt="0791" width="49%">
+    <img src="https://github.com/KoumeiKyuushou/SCP-SL-Custom-Chinese-Translation-Files-by-Koumei-Kyuushou/blob/stable/Assets/Features/0792.png?raw=true" alt="0792" width="49%">
    </p>
 
    <p align="center">
-    <img src="https://github.com/KoumeiKyuushou/SCP-SL-Custom-Chinese-Translation-Files-by-Koumei-Kyuushou/blob/穩定版/Assets/Features/0793.png?raw=true" alt="0793" width="49%">
-    <img src="https://github.com/KoumeiKyuushou/SCP-SL-Custom-Chinese-Translation-Files-by-Koumei-Kyuushou/blob/穩定版/Assets/Features/0794.png?raw=true" alt="0794" width="49%">
+    <img src="https://github.com/KoumeiKyuushou/SCP-SL-Custom-Chinese-Translation-Files-by-Koumei-Kyuushou/blob/stable/Assets/Features/0793.png?raw=true" alt="0793" width="49%">
+    <img src="https://github.com/KoumeiKyuushou/SCP-SL-Custom-Chinese-Translation-Files-by-Koumei-Kyuushou/blob/stable/Assets/Features/0794.png?raw=true" alt="0794" width="49%">
    </p>
 
    <p align="center">
-    <img src="https://github.com/KoumeiKyuushou/SCP-SL-Custom-Chinese-Translation-Files-by-Koumei-Kyuushou/blob/穩定版/Assets/Features/0795.png?raw=true" alt="0795" width="49%">
-    <img src="https://github.com/KoumeiKyuushou/SCP-SL-Custom-Chinese-Translation-Files-by-Koumei-Kyuushou/blob/穩定版/Assets/Features/0796.png?raw=true" alt="0796" width="49%">
+    <img src="https://github.com/KoumeiKyuushou/SCP-SL-Custom-Chinese-Translation-Files-by-Koumei-Kyuushou/blob/stable/Assets/Features/0795.png?raw=true" alt="0795" width="49%">
+    <img src="https://github.com/KoumeiKyuushou/SCP-SL-Custom-Chinese-Translation-Files-by-Koumei-Kyuushou/blob/stable/Assets/Features/0796.png?raw=true" alt="0796" width="49%">
    </p>
 
    <p align="center">
-    <img src="https://github.com/KoumeiKyuushou/SCP-SL-Custom-Chinese-Translation-Files-by-Koumei-Kyuushou/blob/穩定版/Assets/Features/0797.png?raw=true" alt="0797" width="49%">
-    <img src="https://github.com/KoumeiKyuushou/SCP-SL-Custom-Chinese-Translation-Files-by-Koumei-Kyuushou/blob/穩定版/Assets/Features/0798.png?raw=true" alt="0798" width="49%">
+    <img src="https://github.com/KoumeiKyuushou/SCP-SL-Custom-Chinese-Translation-Files-by-Koumei-Kyuushou/blob/stable/Assets/Features/0797.png?raw=true" alt="0797" width="49%">
+    <img src="https://github.com/KoumeiKyuushou/SCP-SL-Custom-Chinese-Translation-Files-by-Koumei-Kyuushou/blob/stable/Assets/Features/0798.png?raw=true" alt="0798" width="49%">
    </p>
 
    <br>
@@ -314,8 +314,8 @@
    * 重生时尽量防止遮挡，不丢失原版信息。
 
    <p align="center">
-    <img src="https://github.com/KoumeiKyuushou/SCP-SL-Custom-Chinese-Translation-Files-by-Koumei-Kyuushou/blob/穩定版/Assets/Features/重生1.png?raw=true" alt="重生1" width="49%">
-    <img src="https://github.com/KoumeiKyuushou/SCP-SL-Custom-Chinese-Translation-Files-by-Koumei-Kyuushou/blob/穩定版/Assets/Features/重生2.png?raw=true" alt="重生2" width="49%">
+    <img src="https://github.com/KoumeiKyuushou/SCP-SL-Custom-Chinese-Translation-Files-by-Koumei-Kyuushou/blob/stable/Assets/Features/重生1.png?raw=true" alt="重生1" width="49%">
+    <img src="https://github.com/KoumeiKyuushou/SCP-SL-Custom-Chinese-Translation-Files-by-Koumei-Kyuushou/blob/stable/Assets/Features/重生2.png?raw=true" alt="重生2" width="49%">
    </p>
 
    <br>
@@ -325,18 +325,18 @@
    > _详细的功能来源于[官方Wiki](https://en.scpslgame.com/index.php?title=Main_Page)，可能有误或过时。_
 
    <p align="center">
-    <img src="https://github.com/KoumeiKyuushou/SCP-SL-Custom-Chinese-Translation-Files-by-Koumei-Kyuushou/blob/穩定版/Assets/Features/SCP物品1.png?raw=true" alt="SCP物品1" width="49%">
-    <img src="https://github.com/KoumeiKyuushou/SCP-SL-Custom-Chinese-Translation-Files-by-Koumei-Kyuushou/blob/穩定版/Assets/Features/SCP物品2.png?raw=true" alt="SCP物品2" width="49%">
+    <img src="https://github.com/KoumeiKyuushou/SCP-SL-Custom-Chinese-Translation-Files-by-Koumei-Kyuushou/blob/stable/Assets/Features/SCP物品1.png?raw=true" alt="SCP物品1" width="49%">
+    <img src="https://github.com/KoumeiKyuushou/SCP-SL-Custom-Chinese-Translation-Files-by-Koumei-Kyuushou/blob/stable/Assets/Features/SCP物品2.png?raw=true" alt="SCP物品2" width="49%">
    </p>
 
    <p align="center">
-    <img src="https://github.com/KoumeiKyuushou/SCP-SL-Custom-Chinese-Translation-Files-by-Koumei-Kyuushou/blob/穩定版/Assets/Features/物品1.png?raw=true" alt="物品1" width="49%">
-    <img src="https://github.com/KoumeiKyuushou/SCP-SL-Custom-Chinese-Translation-Files-by-Koumei-Kyuushou/blob/穩定版/Assets/Features/物品2.png?raw=true" alt="物品2" width="49%">
+    <img src="https://github.com/KoumeiKyuushou/SCP-SL-Custom-Chinese-Translation-Files-by-Koumei-Kyuushou/blob/stable/Assets/Features/物品1.png?raw=true" alt="物品1" width="49%">
+    <img src="https://github.com/KoumeiKyuushou/SCP-SL-Custom-Chinese-Translation-Files-by-Koumei-Kyuushou/blob/stable/Assets/Features/物品2.png?raw=true" alt="物品2" width="49%">
    </p>
 
    <p align="center">
-    <img src="https://github.com/KoumeiKyuushou/SCP-SL-Custom-Chinese-Translation-Files-by-Koumei-Kyuushou/blob/穩定版/Assets/Features/糖果1.png?raw=true" alt="糖果1" width="49%">
-    <img src="https://github.com/KoumeiKyuushou/SCP-SL-Custom-Chinese-Translation-Files-by-Koumei-Kyuushou/blob/穩定版/Assets/Features/糖果2.png?raw=true" alt="糖果2" width="49%">
+    <img src="https://github.com/KoumeiKyuushou/SCP-SL-Custom-Chinese-Translation-Files-by-Koumei-Kyuushou/blob/stable/Assets/Features/糖果1.png?raw=true" alt="糖果1" width="49%">
+    <img src="https://github.com/KoumeiKyuushou/SCP-SL-Custom-Chinese-Translation-Files-by-Koumei-Kyuushou/blob/stable/Assets/Features/糖果2.png?raw=true" alt="糖果2" width="49%">
    </p>
 
    <br>
@@ -344,17 +344,17 @@
    * 其它一些无关紧要的优化。
 
    <p align="center">
-    <img src="https://github.com/KoumeiKyuushou/SCP-SL-Custom-Chinese-Translation-Files-by-Koumei-Kyuushou/blob/穩定版/Assets/Features/提示1.png?raw=true" alt="提示1" width="49%">
-    <img src="https://github.com/KoumeiKyuushou/SCP-SL-Custom-Chinese-Translation-Files-by-Koumei-Kyuushou/blob/穩定版/Assets/Features/提示2.png?raw=true" alt="提示2" width="49%">
+    <img src="https://github.com/KoumeiKyuushou/SCP-SL-Custom-Chinese-Translation-Files-by-Koumei-Kyuushou/blob/stable/Assets/Features/提示1.png?raw=true" alt="提示1" width="49%">
+    <img src="https://github.com/KoumeiKyuushou/SCP-SL-Custom-Chinese-Translation-Files-by-Koumei-Kyuushou/blob/stable/Assets/Features/提示2.png?raw=true" alt="提示2" width="49%">
    </p>
 
    <p align="center">
-    <img src="https://github.com/KoumeiKyuushou/SCP-SL-Custom-Chinese-Translation-Files-by-Koumei-Kyuushou/blob/穩定版/Assets/Features/提示3.png?raw=true" alt="提示3" width="49%">
-    <img src="https://github.com/KoumeiKyuushou/SCP-SL-Custom-Chinese-Translation-Files-by-Koumei-Kyuushou/blob/穩定版/Assets/Features/提示4.png?raw=true" alt="提示4" width="49%">
+    <img src="https://github.com/KoumeiKyuushou/SCP-SL-Custom-Chinese-Translation-Files-by-Koumei-Kyuushou/blob/stable/Assets/Features/提示3.png?raw=true" alt="提示3" width="49%">
+    <img src="https://github.com/KoumeiKyuushou/SCP-SL-Custom-Chinese-Translation-Files-by-Koumei-Kyuushou/blob/stable/Assets/Features/提示4.png?raw=true" alt="提示4" width="49%">
    </p>
 
    <p align="center">
-    <img src="https://github.com/KoumeiKyuushou/SCP-SL-Custom-Chinese-Translation-Files-by-Koumei-Kyuushou/blob/穩定版/Assets/Features/主界面.png?raw=true" alt="主界面" width="49%">
+    <img src="https://github.com/KoumeiKyuushou/SCP-SL-Custom-Chinese-Translation-Files-by-Koumei-Kyuushou/blob/stable/Assets/Features/主界面.png?raw=true" alt="主界面" width="49%">
    </p>
 
    <br>
@@ -362,23 +362,23 @@
    * SCP-079的GUI优化。
 
    <p align="center">
-    <img src="https://github.com/KoumeiKyuushou/SCP-SL-Custom-Chinese-Translation-Files-by-Koumei-Kyuushou/blob/穩定版/Assets/Features/0791.png?raw=true" alt="0791" width="49%">
-    <img src="https://github.com/KoumeiKyuushou/SCP-SL-Custom-Chinese-Translation-Files-by-Koumei-Kyuushou/blob/穩定版/Assets/Features/0792.png?raw=true" alt="0792" width="49%">
+    <img src="https://github.com/KoumeiKyuushou/SCP-SL-Custom-Chinese-Translation-Files-by-Koumei-Kyuushou/blob/stable/Assets/Features/0791.png?raw=true" alt="0791" width="49%">
+    <img src="https://github.com/KoumeiKyuushou/SCP-SL-Custom-Chinese-Translation-Files-by-Koumei-Kyuushou/blob/stable/Assets/Features/0792.png?raw=true" alt="0792" width="49%">
    </p>
 
    <p align="center">
-    <img src="https://github.com/KoumeiKyuushou/SCP-SL-Custom-Chinese-Translation-Files-by-Koumei-Kyuushou/blob/穩定版/Assets/Features/0793.png?raw=true" alt="0793" width="49%">
-    <img src="https://github.com/KoumeiKyuushou/SCP-SL-Custom-Chinese-Translation-Files-by-Koumei-Kyuushou/blob/穩定版/Assets/Features/0794.png?raw=true" alt="0794" width="49%">
+    <img src="https://github.com/KoumeiKyuushou/SCP-SL-Custom-Chinese-Translation-Files-by-Koumei-Kyuushou/blob/stable/Assets/Features/0793.png?raw=true" alt="0793" width="49%">
+    <img src="https://github.com/KoumeiKyuushou/SCP-SL-Custom-Chinese-Translation-Files-by-Koumei-Kyuushou/blob/stable/Assets/Features/0794.png?raw=true" alt="0794" width="49%">
    </p>
 
    <p align="center">
-    <img src="https://github.com/KoumeiKyuushou/SCP-SL-Custom-Chinese-Translation-Files-by-Koumei-Kyuushou/blob/穩定版/Assets/Features/0795.png?raw=true" alt="0795" width="49%">
-    <img src="https://github.com/KoumeiKyuushou/SCP-SL-Custom-Chinese-Translation-Files-by-Koumei-Kyuushou/blob/穩定版/Assets/Features/0796.png?raw=true" alt="0796" width="49%">
+    <img src="https://github.com/KoumeiKyuushou/SCP-SL-Custom-Chinese-Translation-Files-by-Koumei-Kyuushou/blob/stable/Assets/Features/0795.png?raw=true" alt="0795" width="49%">
+    <img src="https://github.com/KoumeiKyuushou/SCP-SL-Custom-Chinese-Translation-Files-by-Koumei-Kyuushou/blob/stable/Assets/Features/0796.png?raw=true" alt="0796" width="49%">
    </p>
 
    <p align="center">
-    <img src="https://github.com/KoumeiKyuushou/SCP-SL-Custom-Chinese-Translation-Files-by-Koumei-Kyuushou/blob/穩定版/Assets/Features/0797.png?raw=true" alt="0797" width="49%">
-    <img src="https://github.com/KoumeiKyuushou/SCP-SL-Custom-Chinese-Translation-Files-by-Koumei-Kyuushou/blob/穩定版/Assets/Features/0798.png?raw=true" alt="0798" width="49%">
+    <img src="https://github.com/KoumeiKyuushou/SCP-SL-Custom-Chinese-Translation-Files-by-Koumei-Kyuushou/blob/stable/Assets/Features/0797.png?raw=true" alt="0797" width="49%">
+    <img src="https://github.com/KoumeiKyuushou/SCP-SL-Custom-Chinese-Translation-Files-by-Koumei-Kyuushou/blob/stable/Assets/Features/0798.png?raw=true" alt="0798" width="49%">
    </p>
 
    <br>
@@ -419,7 +419,7 @@
 
 # 祝你玩得開心！
 
-<img src="https://github.com/KoumeiKyuushou/SCP-SL-Custom-Chinese-Translation-Files-by-Koumei-Kyuushou/blob/%E7%A9%A9%E5%AE%9A%E7%89%88/Assets/ainime/%40agz2536368_%23%E8%A5%BF%E8%A1%8C%E5%AF%BA%E5%B9%BD%E3%80%85%E5%AD%90%F0%9F%8D%A1.jpg" 
+<img src="https://github.com/KoumeiKyuushou/SCP-SL-Custom-Chinese-Translation-Files-by-Koumei-Kyuushou/blob/stable/Assets/ainime/%40agz2536368_%23%E8%A5%BF%E8%A1%8C%E5%AF%BA%E5%B9%BD%E3%80%85%E5%AD%90%F0%9F%8D%A1.jpg" 
      align="left" 
      width="400">
 

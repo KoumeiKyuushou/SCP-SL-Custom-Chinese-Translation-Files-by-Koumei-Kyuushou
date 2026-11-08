@@ -43,11 +43,11 @@
 <div align="center">
 
 <a href="./README.md">
- <img src="https://img.shields.io/badge/當前語言-繁體中文-000095?style=for-the-badge" alt="Traditional Chinese">
+ <img src="https://img.shields.io/badge/當前語言-繁體中文-F58D36?style=for-the-badge" alt="Traditional Chinese">
 </a>
 
 <a href="./README_SC.md">
- <img src="https://img.shields.io/badge/切換到-簡體中文-EE1C25?style=for-the-badge" alt="Simplified Chinese">
+ <img src="https://img.shields.io/badge/切換到-簡體中文-F5C195?style=for-the-badge" alt="Simplified Chinese">
 </a>
 
 </div>

@@ -1,5 +1,3 @@
-<!-- LOGO -->
-
 <p align="center">
   <img src="./Assets/logo/NEWLOGO.png" alt="logo" width="400">
 </p>
@@ -7,8 +5,6 @@
 <h1 align="center">KOUMEI的中文客製化翻譯文件</h1>
 
 <p align="center">由 九霄鵼冥Koumei 製作</p>
-
-<!-- BADGE -->
 
 <div align="center">
 
@@ -22,12 +18,12 @@
 <p align="center">
   <a href="https://github.com/KoumeiKyuushou/SCP-SL-Custom-Chinese-Translation-Files-by-Koumei-Kyuushou/releases/tag/v4.2.0">
     <img
-      src="https://img.shields.io/badge/最新版本-v4.2.0-3F7ED4?style=for-the-badge"
+      src="https://img.shields.io/badge/stable-v4.2.0-3F7ED4?style=for-the-badge"
     />
   </a>
   <a href="https://github.com/KoumeiKyuushou/SCP-SL-Custom-Chinese-Translation-Files-by-Koumei-Kyuushou/releases/tag/v4.0.0PreviewD">
     <img
-      src="https://img.shields.io/badge/最新預覽版(舊的)-v4.0.0PreviewD-FFCB33?style=for-the-badge"
+      src="https://img.shields.io/badge/dev(old)-v4.0.0PreviewD-FFCB33?style=for-the-badge"
     />
   </a>
     <a href="https://github.com/KoumeiKyuushou/SCP-SL-Custom-Chinese-Translation-Files-by-Koumei-Kyuushou/issues">
@@ -44,72 +40,71 @@
 
 </div>
 
-<!-- 一級 -->
+<div align="center">
 
-# 🌐 該文檔同時提供 **繁體中文** 與 **简体中文**
+<a href="./README.md">
+ <img src="https://img.shields.io/badge/當前語言-繁體中文-F58D36?style=for-the-badge" alt="Traditional Chinese">
+</a>
 
-<!-- 繁體中文 -->
+<a href="./README_SC.md">
+ <img src="https://img.shields.io/badge/切換到-簡體中文-F5C195?style=for-the-badge" alt="Simplified Chinese">
+</a>
 
-<details>
- <summary><b>TW 繁體中文</b></summary>
+</div>
+
+<div align="center">
   
   # ⚠️ 使用前請閱讀《使用前須知》
 
-   ## ℹ️ 說明
-   這是最初基於“SCP:SL Custom Translation Files by Lambda”的中文客製化翻譯檔，目前很多內容已經與其不同，並朝著不同方向發展，所以這不是“SCP:SL Custom Translation Files by Lambda”的中文版本！該翻譯檔開放隨意修改及二次分發；該翻譯檔僅供交流使用，因修改或分發所產生的任何問題，請自行承擔風險。
+</div>
+
+## ℹ️ 說明
+
+  這是最初基於“SCP:SL Custom Translation Files by Lambda”的中文客製化翻譯檔，目前很多內容已經與其不同，並朝著不同方向發展，所以這不是“SCP:SL Custom Translation Files by Lambda”的中文版本！該翻譯檔開放隨意修改及二次分發；該翻譯檔僅供交流使用，因修改或分發所產生的任何問題，請自行承擔風險。
   
-   如果你想造訪“SCP:SL Custom Translation Files by Lambda”，[點擊這裡前往](https://github.com/Corporal1Lambda/SCP-SL-Custom-Translation-Files)。
+  如果你想造訪“SCP:SL Custom Translation Files by Lambda”，[點擊這裡前往](https://github.com/Corporal1Lambda/SCP-SL-Custom-Translation-Files)。
 
-   <br>
+<br>
 
-   ## 📖 如何使用？
+## 📖 如何使用？
 
-   1️⃣ 將下載的壓縮檔解壓縮；
-
+  1️⃣ 將下載的壓縮檔解壓縮；
+  
    ![步驟1](./Assets/How-to-use/1.png)
 
-   <br>
+<br>
 
-   2️⃣ 解壓縮出來的檔案夾應該叫“koumei_zh_tc”或“koumei_zh_sc”，否則就是被嵌套在了解壓縮檔案夾之中。複製或剪下該檔案；
+  2️⃣ 解壓縮出來的檔案夾應該叫“koumei_zh_tc”或“koumei_zh_sc”，否則就是被嵌套在了解壓縮檔案夾之中。複製或剪下該檔案；
 
    ![步驟2](./Assets/How-to-use/2.png)
 
-   <br>
+<br>
 
-   3️⃣ 在Steam找到SCP: Secret Laboratory右鍵，如圖所示前往 管理 > 瀏覽本機檔案 ；
+  3️⃣ 在Steam找到SCP: Secret Laboratory右鍵，如圖所示前往 管理 > 瀏覽本機檔案 ；
 
    ![步驟3](./Assets/How-to-use/3.png)
 
-   <br>
+<br>
 
-   4️⃣ 在打開的檔案總管視窗中前往Translations檔案夾；
+  4️⃣ 在打開的檔案總管視窗中前往Translations檔案夾；
 
    ![步驟4](./Assets/How-to-use/4.png)
 
-   <br>
+<br>
 
-   5️⃣ 右鍵貼上之前複製或剪下的檔案夾，更新時同理，直接覆蓋即可；
+  5️⃣ 右鍵貼上之前複製或剪下的檔案夾，更新時同理，直接覆蓋即可；
 
    ![步驟5](./Assets/How-to-use/5.png)
 
-   <br>
+<br>
 
-   6️⃣ 在遊戲中修改語言即可，一些地方可能需要重啟遊戲生效。
+  6️⃣ 在遊戲中修改語言即可，一些地方可能需要重啟遊戲生效。
 
    ![步驟6](./Assets/How-to-use/6.png)
 
-   <br>
+<br>
 
-   ## 🛜 中國大陸的網路問題
-   如果你無法或很難訪問Github，可以加入QQ群聊下載或回報
-
-   群號 **739337627**
-  
-   進群代碼 **0558341**
-
-   <br>
-
-   ## ⚖️ 免責聲明
+## ⚖️ 免責聲明
 
    * **非官方檔案**：本專案為第三方客製化翻譯檔，與 Northwood Studios（SCP: Secret Laboratory 官方開發團隊）無關。
 
@@ -119,22 +114,22 @@
 
    * **無後續更新保證**：本專案由作者利用業餘時間維護，不保證能永久隨遊戲同步更新，亦不承擔必須修復所有問題以及後續相容性問題的義務。**目前狀態：維護中**。
 
-   <br>
+<br>
 
-  # ✨ 特點
+# ✨ 特點
 
-   > _所有預覽圖片都經過壓縮處理，因此視覺表現可能與實際不一致_
+  > _所有預覽圖片都經過壓縮處理，因此視覺表現可能與實際不一致_
 
-   <br>
+<br>
 
-   * 重生時盡量防止遮擋，不丟失原版訊息。
+  * 重生時盡量防止遮擋，不丟失原版訊息。
 
    <p align="center">
     <img src="https://github.com/KoumeiKyuushou/SCP-SL-Custom-Chinese-Translation-Files-by-Koumei-Kyuushou/blob/stable/Assets/Features/重生1.png?raw=true" alt="重生1" width="49%">
     <img src="https://github.com/KoumeiKyuushou/SCP-SL-Custom-Chinese-Translation-Files-by-Koumei-Kyuushou/blob/stable/Assets/Features/重生2.png?raw=true" alt="重生2" width="49%">
    </p>
 
-   <br>
+<br>
 
    * 詳細的功能描述與按物品類型的顏色標記，每個SCP物品和糖果有獨特顏色標記。
 
@@ -155,7 +150,7 @@
     <img src="https://github.com/KoumeiKyuushou/SCP-SL-Custom-Chinese-Translation-Files-by-Koumei-Kyuushou/blob/stable/Assets/Features/糖果2.png?raw=true" alt="糖果2" width="49%">
    </p>
 
-   <br>
+<br>
 
    * 其它一些無關緊要的優化。
 
@@ -173,7 +168,7 @@
     <img src="https://github.com/KoumeiKyuushou/SCP-SL-Custom-Chinese-Translation-Files-by-Koumei-Kyuushou/blob/stable/Assets/Features/主界面.png?raw=true" alt="主界面" width="49%">
    </p>
 
-   <br>
+<br>
 
    * SCP-079的GUI優化。
 
@@ -197,246 +192,35 @@
     <img src="https://github.com/KoumeiKyuushou/SCP-SL-Custom-Chinese-Translation-Files-by-Koumei-Kyuushou/blob/stable/Assets/Features/0798.png?raw=true" alt="0798" width="49%">
    </p>
 
-   <br>
+<br>
 
-   > _擷取時的翻譯文件版本為 4.1.0_
-
-   <br>
-
-  # ⬇️ 想立即試試嗎？
-
-   **繁** [點擊這裡下載最新的穩定版 **繁體中文** 版本](https://github.com/KoumeiKyuushou/SCP-SL-Custom-Chinese-Translation-Files-by-Koumei-Kyuushou/releases/download/v4.2.0/zh_tc_bykoumei_4.2.0_14.2.8.zip)
-
-   **預** [(已過期)點擊這裡下載最新的預覽版 **繁體中文** 版本](https://github.com/KoumeiKyuushou/SCP-SL-Custom-Chinese-Translation-Files-by-Koumei-Kyuushou/releases/download/v4.0.0PreviewD/zh_tc_bykoumei_4.0.0previewD_14.2.7.zip)
-
-   > _注意，現在預覽版比穩定版舊_
-
-   <br>
-
-   # 🪲 目前已知的問題
-
-  ### 🔼 高優先
-
-   > _暫無_
-
-   ### ⏺️ 中優先
-
-   > _暫無_
-
-   ### 🔽 低優先
-
-  > _暫無_
-
-   <br>
-
-</details>
-
-<!-- 簡體中文 -->
-
-<details>
- <summary><b>CN 简体中文</b></summary>
+# ⬇️ 下載繁體中文版本
   
-  # ⚠️ 使用前请阅读《使用前须知》
+   [**STABLE 4.2.0 - 14.2.x**](https://github.com/KoumeiKyuushou/SCP-SL-Custom-Chinese-Translation-Files-by-Koumei-Kyuushou/releases/download/v4.2.0/zh_tc_bykoumei_4.2.0_14.2.x.zip)
 
-   ## ℹ️ 说明
+   [**DEV 4.0.0 - 14.2.7**](https://github.com/KoumeiKyuushou/SCP-SL-Custom-Chinese-Translation-Files-by-Koumei-Kyuushou/releases/download/v4.0.0PreviewD/zh_tc_bykoumei_4.0.0previewD_14.2.7.zip)
 
-   这是最初基于“SCP:SL Custom Translation Files by Lambda”的中文自定义翻译文件，目前很多內容已经与其不同，并朝着不同方向发展，所以这不是“SCP:SL Custom Translation Files by Lambda”的中文版本！该翻译文件开放随意修改及二次分发；该翻译文件仅供交流使用，因修改或分发所产生的任何问题，请自行承担风险。
-  
-   如果你想造访“SCP:SL Custom Translation Files by Lambda”，[点击这里前往](https://github.com/Corporal1Lambda/SCP-SL-Custom-Translation-Files)。
-
-   <br>
-
-   ## 📖 如何使用？
-
-   1️⃣ 将下载的压缩包解压；
-
-   ![步骤1](./Assets/How-to-use/1.png)
-
-   <br>
-
-   2️⃣ 解压出来的文件夹应该叫“koumei_zh_tc”或“koumei_zh_sc”，否则就是被嵌套在解压文件夹之中。复制或剪切该文件夹；
-
-   ![步骤2](./Assets/How-to-use/2.png)
-
-   <br>
-
-   3️⃣ 在Steam找到SCP: Secret Laboratory右键，如图所示前往 管理 > 浏览本地文件 ；
-
-   ![步骤3](./Assets/How-to-use/3.png)
-
-   <br>
-
-   4️⃣ 在打开的资源管理器窗口中前往Translations文件夹；
-
-   ![步骤4](./Assets/How-to-use/4.png)
-
-   <br>
-
-   5️⃣ 右键粘贴之前复制或剪切的文件夹，更新时同理，直接覆盖即可；
-
-   ![步骤5](./Assets/How-to-use/5.png)
-
-   <br>
-
-   6️⃣ 在游戏中修改语言即可，一些地方可能需要重启游戏生效。
-
-   ![步骤6](./Assets/How-to-use/6.png)
-
-   <br>
-
-   ## 🛜 中国大陆的网络问题
-   如果你无法或很难访问Github，可以加入QQ群聊下载或反馈
-
-   群号 **739337627**
-  
-   进群代码 **0558341**
-
-   <br>
-
-   ## ⚖️ 免责声明
-
-   * **非官方文件**：本项目为第三方自定义翻译文件，与 Northwood Studios（SCP: Secret Laboratory 官方开发团队）无关。
-
-   * **风险自负**：本翻译文件仅供交流使用。因使用、修改或分发本文件所产生的任何游戏崩溃、文件损坏或相关争议，请自行承担风险，项目作者概不负责。
-
-   * **翻译版权归属**：本文件的原始中文文本并非由本项目作者翻译，而是直接采用自游戏官方中文文件，原始翻译者为：Tychus_骁奕、美味水H2O Delicious（来源：manifest.json）。本项目仅在此基础上进行自定义修改与优化。
-
-   * **无后续更新保证**：本项目由作者利用业余时间维护，不保证能永久随游戏同步更新，亦不承担必须修复所有问题以及后续兼容性问题的义务。**目前状态：维护中**。
-
-   <br>
-
-  # ✨ 特点
-
-   > _所有预览图片都经过压缩处理，因此视觉表现可能与实际不一致_
-
-   <br>
-
-   * 重生时尽量防止遮挡，不丢失原版信息。
-
-   <p align="center">
-    <img src="https://github.com/KoumeiKyuushou/SCP-SL-Custom-Chinese-Translation-Files-by-Koumei-Kyuushou/blob/stable/Assets/Features/重生1.png?raw=true" alt="重生1" width="49%">
-    <img src="https://github.com/KoumeiKyuushou/SCP-SL-Custom-Chinese-Translation-Files-by-Koumei-Kyuushou/blob/stable/Assets/Features/重生2.png?raw=true" alt="重生2" width="49%">
-   </p>
-
-   <br>
-
-   * 详细的功能描述与按物品类型的颜色标记，每个SCP物品和糖果有独特颜色标记。
-
-   > _详细的功能来源于[官方Wiki](https://en.scpslgame.com/index.php?title=Main_Page)，可能有误或过时。_
-
-   <p align="center">
-    <img src="https://github.com/KoumeiKyuushou/SCP-SL-Custom-Chinese-Translation-Files-by-Koumei-Kyuushou/blob/stable/Assets/Features/SCP物品1.png?raw=true" alt="SCP物品1" width="49%">
-    <img src="https://github.com/KoumeiKyuushou/SCP-SL-Custom-Chinese-Translation-Files-by-Koumei-Kyuushou/blob/stable/Assets/Features/SCP物品2.png?raw=true" alt="SCP物品2" width="49%">
-   </p>
-
-   <p align="center">
-    <img src="https://github.com/KoumeiKyuushou/SCP-SL-Custom-Chinese-Translation-Files-by-Koumei-Kyuushou/blob/stable/Assets/Features/物品1.png?raw=true" alt="物品1" width="49%">
-    <img src="https://github.com/KoumeiKyuushou/SCP-SL-Custom-Chinese-Translation-Files-by-Koumei-Kyuushou/blob/stable/Assets/Features/物品2.png?raw=true" alt="物品2" width="49%">
-   </p>
-
-   <p align="center">
-    <img src="https://github.com/KoumeiKyuushou/SCP-SL-Custom-Chinese-Translation-Files-by-Koumei-Kyuushou/blob/stable/Assets/Features/糖果1.png?raw=true" alt="糖果1" width="49%">
-    <img src="https://github.com/KoumeiKyuushou/SCP-SL-Custom-Chinese-Translation-Files-by-Koumei-Kyuushou/blob/stable/Assets/Features/糖果2.png?raw=true" alt="糖果2" width="49%">
-   </p>
-
-   <br>
-
-   * 其它一些无关紧要的优化。
-
-   <p align="center">
-    <img src="https://github.com/KoumeiKyuushou/SCP-SL-Custom-Chinese-Translation-Files-by-Koumei-Kyuushou/blob/stable/Assets/Features/提示1.png?raw=true" alt="提示1" width="49%">
-    <img src="https://github.com/KoumeiKyuushou/SCP-SL-Custom-Chinese-Translation-Files-by-Koumei-Kyuushou/blob/stable/Assets/Features/提示2.png?raw=true" alt="提示2" width="49%">
-   </p>
-
-   <p align="center">
-    <img src="https://github.com/KoumeiKyuushou/SCP-SL-Custom-Chinese-Translation-Files-by-Koumei-Kyuushou/blob/stable/Assets/Features/提示3.png?raw=true" alt="提示3" width="49%">
-    <img src="https://github.com/KoumeiKyuushou/SCP-SL-Custom-Chinese-Translation-Files-by-Koumei-Kyuushou/blob/stable/Assets/Features/提示4.png?raw=true" alt="提示4" width="49%">
-   </p>
-
-   <p align="center">
-    <img src="https://github.com/KoumeiKyuushou/SCP-SL-Custom-Chinese-Translation-Files-by-Koumei-Kyuushou/blob/stable/Assets/Features/主界面.png?raw=true" alt="主界面" width="49%">
-   </p>
-
-   <br>
-
-   * SCP-079的GUI优化。
-
-   <p align="center">
-    <img src="https://github.com/KoumeiKyuushou/SCP-SL-Custom-Chinese-Translation-Files-by-Koumei-Kyuushou/blob/stable/Assets/Features/0791.png?raw=true" alt="0791" width="49%">
-    <img src="https://github.com/KoumeiKyuushou/SCP-SL-Custom-Chinese-Translation-Files-by-Koumei-Kyuushou/blob/stable/Assets/Features/0792.png?raw=true" alt="0792" width="49%">
-   </p>
-
-   <p align="center">
-    <img src="https://github.com/KoumeiKyuushou/SCP-SL-Custom-Chinese-Translation-Files-by-Koumei-Kyuushou/blob/stable/Assets/Features/0793.png?raw=true" alt="0793" width="49%">
-    <img src="https://github.com/KoumeiKyuushou/SCP-SL-Custom-Chinese-Translation-Files-by-Koumei-Kyuushou/blob/stable/Assets/Features/0794.png?raw=true" alt="0794" width="49%">
-   </p>
-
-   <p align="center">
-    <img src="https://github.com/KoumeiKyuushou/SCP-SL-Custom-Chinese-Translation-Files-by-Koumei-Kyuushou/blob/stable/Assets/Features/0795.png?raw=true" alt="0795" width="49%">
-    <img src="https://github.com/KoumeiKyuushou/SCP-SL-Custom-Chinese-Translation-Files-by-Koumei-Kyuushou/blob/stable/Assets/Features/0796.png?raw=true" alt="0796" width="49%">
-   </p>
-
-   <p align="center">
-    <img src="https://github.com/KoumeiKyuushou/SCP-SL-Custom-Chinese-Translation-Files-by-Koumei-Kyuushou/blob/stable/Assets/Features/0797.png?raw=true" alt="0797" width="49%">
-    <img src="https://github.com/KoumeiKyuushou/SCP-SL-Custom-Chinese-Translation-Files-by-Koumei-Kyuushou/blob/stable/Assets/Features/0798.png?raw=true" alt="0798" width="49%">
-   </p>
-
-   <br>
-
-   > _截取时的翻译文件版本为 4.1.0_
-
-   <br>
-
-  # ⬇️ 想立即试试吗？
-
-   **简** [点击这里下载最新的稳定版 **简体中文** 版本](https://github.com/KoumeiKyuushou/SCP-SL-Custom-Chinese-Translation-Files-by-Koumei-Kyuushou/releases/download/v4.2.0/zh_sc_bykoumei_4.2.0_14.2.8.zip)
-
-   **预** [(已过期)点击这里下载最新的预览版 **简体中文** 版本](https://github.com/KoumeiKyuushou/SCP-SL-Custom-Chinese-Translation-Files-by-Koumei-Kyuushou/releases/download/v4.0.0PreviewD/zh_sc_bykoumei_4.0.0previewD_14.2.7.zip)
-
-   > _注意，现在预览版比稳定版旧_
-
-   <br>
-
-   # 🪲 目前已知的问题
-
-  ### 🔼 高优先
-
-  > _暂无_
-
-  ### ⏺️ 中优先
-
-  > _暂无_
-
-  ### 🔽 低优先
-
-  > _暂无_
-
-   <br>
-
-</details>
+<br>
 
 -----------------------------
 
+<div align="center">
+
 # 祝你玩得開心！
 
-<img src="https://github.com/KoumeiKyuushou/SCP-SL-Custom-Chinese-Translation-Files-by-Koumei-Kyuushou/blob/stable/Assets/ainime/%40agz2536368_%23%E8%A5%BF%E8%A1%8C%E5%AF%BA%E5%B9%BD%E3%80%85%E5%AD%90%F0%9F%8D%A1.jpg" 
-     align="left" 
-     width="400">
+</div>
 
-<br>
+<img src="https://github.com/KoumeiKyuushou/SCP-SL-Custom-Chinese-Translation-Files-by-Koumei-Kyuushou/raw/stable/Assets/ainime/%40agz2536368_%23%E8%A5%BF%E8%A1%8C%E5%AF%BA%E5%B9%BD%E3%80%85%E5%AD%90%F0%9F%8D%A1.jpg" align="left" width="400" hspace="15" vspace="5" alt="西行寺幽幽子">
 
-來源：[@agz2536368_まんまるウミウシ](https://x.com/agz2536368/status/2110207247485894913)
-
-貼文：https://x.com/agz2536368/status/2110207247485894913
-
-侵刪
-
-<br>
+> 來源：[@agz2536368_まんまるウミウシ](https://x.com/agz2536368/status/2110207247485894913)  
+> 貼文：https://x.com/agz2536368/status/2110207247485894913  
+> 侵刪
 
 **貢獻者**
 
 [![Contributors](https://contrib.rocks/image?repo=KoumeiKyuushou/SCP-SL-Custom-Chinese-Translation-Files-by-Koumei-Kyuushou)](https://github.com/KoumeiKyuushou/SCP-SL-Custom-Chinese-Translation-Files-by-Koumei-Kyuushou/graphs/contributors)
 
-_115年 | 2026年 | 10月18日 | 週日_
+_08/11/26_  
+_By Koumei Kyuushou_
 
-_By Koumei Kyuushou (九霄鵼冥Koumei)_
+<br clear="all" />

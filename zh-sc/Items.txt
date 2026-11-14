@@ -1,14 +1,14 @@
-0~<color=#b9a6b8>\uf2bb <b>清洁工 </color></b>钥匙卡
-1~<color=#d5c78e>\uf2bb <b>科学家 </color></b>钥匙卡
-2~<color=#cf8e4b>\uf2bb <b>研究主管 </color></b>钥匙卡
-3~<color=#0e6145>\uf2bb <b>区域总监 </color></b>钥匙卡
-4~<color=#617278>\uf2bb <b>警卫 </color></b>钥匙卡
+0~<color=#b9a6b8>\uf2bb <b>清洁工 </color></b>钥匙卡~~<color=#b9a6b8>可开启SCP-914
+1~<color=#d5c78e>\uf2bb <b>科学家 </color></b>钥匙卡~~<color=#d5c78e>可开启SCP收容室
+2~<color=#cf8e4b>\uf2bb <b>研究主管 </color></b>钥匙卡~~<color=#cf8e4b>可开启SCP物品台和检查点
+3~<color=#0e6145>\uf2bb <b>区域总监 </color></b>钥匙卡~~<color=#0e6145>可开启检查点和SCP-914
+4~<color=#617278>\uf2bb <b>警卫 </color></b>钥匙卡~~<color=#617278>常规设施低级访问权限
 5~<color=#70c3ff>\uf2bb <b>MTF列兵 </color></b>钥匙卡
 6~<color=#3e9521>\uf2bb <b>收容工程师 </color></b>钥匙卡
-7~<color=#5d87d2>\uf2bb <b>MTF特工 </color></b>钥匙卡
-8~<color=#003dca>\uf2bb <b>MTF指挥官 </color></b>钥匙卡
-9~<color=#8c181c>\uf2bb <b>设施总监 </color></b>钥匙卡
-10~<color=#608f38>📟 <b>混沌分裂者 </color></b>破解装置
+7~<color=#5d87d2>\uf2bb <b>MTF特工 </color></b>钥匙卡~~<color=#5d87d2>常规访问权限
+8~<color=#003dca>\uf2bb <b>MTF指挥官 </color></b>钥匙卡~~<color=#003dca>常规和试做型武器访问权限
+9~<color=#8c181c>\uf2bb <b>设施总监 </color></b>钥匙卡~~<color=#8c181c>可开启SCP武器柜与核弹头面板
+10~<color=#608f38>📟 <b>混沌分裂者 </color></b>破解装置~~<color=#608f38>常规与试做型武器访问权限
 11~\uf2bb <b>O5级别</b> 钥匙卡
 12~<color=#ab99bf>📻 <b>无线电</b> 📻</color>~<b>级别  距离  空闲耗电  通话耗电</b>\nSR      108m     0.5/m       40/m\nMR     180m     1.2/m       60/m\nLR    1080m     4.5/m     120/m\nUR    7200m   13.5/m    240/m
 13~\uf05b <b>COM-15</b> \uf05b

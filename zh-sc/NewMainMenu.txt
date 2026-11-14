@@ -63,7 +63,7 @@ SCP-079 - 后处理
 <b>你确定要退出吗？</b>
 屏幕分辨率
 隐藏IP地址
-Welcome Back, {username}\nGame Version: 14.2.x\nTranslation: stable_4.2.0\nLanguage: Simplified Chinese\nRelease: 08/11/26\nBy Koumei Kyuushou 
+Welcome Back, {username}\nGame Version: beta 5.0\nTranslation: dev_5.0.0_a\nLanguage: Simplified Chinese\nRelease: 14/11/26\nBy Koumei Kyuushou
 <b>演职员表</b>
 身份验证中
 正在连接至中心服务器...

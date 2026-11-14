@@ -28,3 +28,4 @@
 <b><color=#B08B68><size=43%>僵尸火烈鸟</size></color></b> \n<size=20%>杀死所有人，不要让任何人逃走\n与其他 <color=#F00><b>節日掃興者</b></color> 合作\n</size>
 <color=#0096FF><b><size=43%>九尾狐小队 火烈鸟</size></b></color>\n<size=20%>夺回设施控制权\n协助 <b><color=#ffff7c>科学家</color></b> 逃离设施\n与 <color=#556278><b>设施警卫</b></color> 合作\n消灭其他目标\n</size>
 <color=#006326><b><size=43%>混沌分裂者 火烈鸟</size></b></color>\n<size=20%>占领设施夺取控制权\n协助 <color=#ff8000><b>D级人员</b></color> 逃离设施\n消灭其他目标\n</size>
+\n\n<b><color=#00d36f><size=43%>多形态类人</size></color></b> \n<size=20%>杀死所有人，不要让任何人逃走\n与其他 <color=#F00><b>SCP</b></color> 合作\n</size>

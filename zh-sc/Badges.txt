@@ -111,15 +111,15 @@ Northwood工作室官方 硬表面建模师
 Northwood工作室官方 人力资源代表
 Northwood工作室官方 人力资源协调员
 Northwood工作室官方 经理
-Northwood工作室官方 反作弊-机器码专员
+Northwood工作室官方 反作弊机器码专员
 Northwood工作室官方 营销专员
-Northwood工作室官方 合作联络人
+Northwood工作室官方 合作伙伴联络员
 Northwood工作室官方 程序员
 Northwood工作室官方 宣传媒体专员
 Northwood工作室官方 资深游戏策划
-Northwood工作室官方 论坛管理经理
-Northwood工作室官方 技术向游戏策划
-Northwood工作室官方 文本翻译员
+Northwood工作室官方 论坛经理
+Northwood工作室官方 技术性游戏策划
+Northwood工作室官方 翻译员
 Northwood工作室官方 UI设计师
 Northwood工作室官方 视觉特效设计师
 SCP:SL 官方服务器服主
@@ -155,3 +155,4 @@ Northwood工作室官方 技术支持专员
 Northwood工作室官方 Web开发工程师
 Northwood工作室官方 维基百科协调员
 Northwood工作室官方 维基百科翻译员
+SCP:SL 安全贡献者

@@ -14,7 +14,7 @@ SCP-049-2
 <color=#70c3ff><b>九尾狐 列兵\n</b></color>
 <color=#ff00b0><b>教程角色\n</b></color>
 <color=#556278><b>设施警卫\n</b></color>
-SCP-939
+SCP-939\n
 -
 <color=#008f1c><b>混沌分裂者 步枪手\n</b></color>
 <color=#006326><b>混沌分裂者 掠夺者\n</b></color>
@@ -28,3 +28,4 @@ SCP-1507-Alpha
 SCP-1507-049
 SCP-1507-Nine-Tailed
 SCP-1507-Chaos Insurgency
+SCP-953

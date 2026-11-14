@@ -31,7 +31,7 @@ MAX
 <color=red>\uf05e</color> 封锁 <color=red>\uf0e7-[cost]</color>
 <size=150%>\uf05e 拒绝 \uf05e</size>\n封锁处于冷却时间中
 <size=150%>❌ 错误 ❌</size>\n没有可用于封锁的门
- <color=#8080FF>ℹ️</color> 标记位置 <color=red>\uf0e7-[cost]</color>
+<color=#8080FF>ℹ️</color> 标记位置 <color=red>\uf0e7-[cost]</color>
 <size=150%>\uf071 限制 \uf071</size>\n已达到标记频率限制
 <size=150%>❌ 错误 ❌</size>\n摄像头切换失败
 信号丢失
@@ -89,3 +89,7 @@ $<color=#C850FA>\uf542</color> 入侵扫描器$ - <color=green>\uf3c1 已解锁<
 \n=========================================\nSITE-02 INFORMATION SECURITY DIVISION\nCENTRAL CORE INFRASTRUCTURE LOGS\n=========================================\n(C) SITE-02 TECH OPS & ENGINEERING DEPT. ALL RIGHTS RESERVED.\nPROPERTY OF THE SCP FOUNDATION - FOR EXCLUSIVE USE WITHIN INFRASTRUCTURE SITE-02.\nINTEGRATED WITH C.A.S.S.I.E. (Central Automated Security System) CORE REVISION 4.2.\n-----------------------------------------\n<color=red>\uf071 SCP-079 has achieved Access Tier 4 and bypassed the encryption keys of Module 44-B.
 <color=red>\uf071 必须选择至少一个阵营
 $<color=red>\uf023</color> 锁定门$ - <color=green>\uf3c1 已解锁</color> - 在指定的门上按下 $[key]$ 可暂时锁定该门
+<color=#8080FF>\uf095</color> 开始通话
+<color=#8080FF>\uf2a0</color> 加入通话
+<color=#29F007>\uf2a0</color> 接听电话
+<color=red>\uf095</color> 离开通话

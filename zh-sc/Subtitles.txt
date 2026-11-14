@@ -30,3 +30,5 @@
 <color=#608f38>\uf6de</color> 全体人员请注意，在A大门处检测到<color=#608f38><b>[number]名混沌分裂者</b></color>。\n　　　　　　　　　　已授权使用致命武力。
 <color=#608f38>\uf6de</color> 已在A大门处确认新增<color=#608f38><b>[number]名混沌分裂者</b></color> 。\n　　　　　　　　　　防御模型：已更新。
 <color=#FF4545>\uf7b9</color> 站点恢复失败——<color=#FF4545><b>终焉协议已启动</b></color>。\n　　　　　　　　　　本设施的地下区域将在倒计时<color=#D12A2A><b>[time]秒</b></color>后自毁。
+应急备用发电机已启用，预计将在倒计时[time]秒后激活。
+备用发电机已成功接入。中央电力已转接至防御模块。正在以紧急频率广播。

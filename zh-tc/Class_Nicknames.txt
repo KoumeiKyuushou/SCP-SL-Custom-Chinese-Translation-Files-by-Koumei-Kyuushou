@@ -1,30 +1,31 @@
-雕像
+The Sculpture
 -
 -
-老人
+The Old Man
 -
-瘟醫
+The Plague Doctor
 -
-舊AI
+The Old AI
 -
-“羞澀”的人
-被治癒者
--
--
--
--
--
-千喉之獸
-千喉之獸
+The Shy Guy
+The Cured
 -
 -
 -
 -
 -
-是不是太冷淡了些？
+With Many Voices
+With Many Voices
 -
-粉色紅鸛
-粉色紅鸛
-僵尸紅鸛
-藍色紅鸛
-綠色紅鸛
+-
+-
+-
+-
+Wouldn't it be Chilly?
+-
+Pink Flamingos
+Pink Flamingos
+Zombie Flamingos
+Blue Flamingos
+Green Flamingos
+Polymorphic Humanoid

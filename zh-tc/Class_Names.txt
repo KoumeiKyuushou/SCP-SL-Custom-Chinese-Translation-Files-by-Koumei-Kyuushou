@@ -24,7 +24,8 @@ SCP-939
 SCP-3114
 斷線玩家
 SCP-1507
-SCP-1507-Alpha
+SCP-1507-AlphaV
 SCP-1507-049
 SCP-1507-Nine-Tailed
 SCP-1507-Chaos Insurgency
+SCP-953

@@ -28,3 +28,4 @@
 <b><color=#B08B68><size=43%>僵屍紅鶴</size></color></b> \n<size=20%>殺死所有人，不要讓任何人逃走\n與其他 <color=#F00><b>節日掃興者</b></color> 合作\n</size>
 <color=#0096FF><b><size=43%>九尾狐小隊 紅鶴</size></b></color>\n<size=20%>奪回設施控制權\n協助 <b><color=#ffff7c>科學家</color></b> 逃離設施\與 <color=#556278><b>設施警衛</b></color> 合作\n消滅其他目標\n</size>
 <color=#006326><b><size=43%>混沌分裂者 紅鶴</size></b></color>\n<size=20%>佔領設施奪取控制權\n協助 <color=#ff8000><b>D級人員</b></color> 逃離設施\n消滅其他目標\n</size>
+\n\n<b><color=#00d36f><size=43%>多型類人實體</size></color></b> \n<size=20%>殺死所有人，不要讓任何人逃走\n與其他 <color=#F00><b>SCP</b></color> 合作\n</size>

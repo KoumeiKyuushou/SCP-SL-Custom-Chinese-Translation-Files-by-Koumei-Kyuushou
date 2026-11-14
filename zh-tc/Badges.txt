@@ -113,13 +113,13 @@ Northwood工作室 人力資源協調員
 Northwood工作室 經理
 Northwood工作室 反作弊機器碼專員
 Northwood工作室 行銷專員
-Northwood工作室 合作聯絡人
+Northwood工作室 合作夥伴聯絡員
 Northwood工作室 程式設計師
 Northwood工作室 宣傳媒體專員
 Northwood工作室 資深遊戲策劃
-Northwood工作室 論壇管理經理
+Northwood工作室 論壇經理
 Northwood工作室 技術向遊戲策劃
-Northwood工作室 文本翻譯員
+Northwood工作室 翻譯員
 Northwood工作室 UI設計師
 Northwood工作室 視覺特效設計師
 SCP:SL官方伺服器服主
@@ -155,3 +155,4 @@ Northwood工作室 技術支援專員
 Northwood工作室 Web 開發工程師
 Northwood工作室 維基協調員
 Northwood工作室 維基翻譯員
+SCP:SL 安全貢獻者

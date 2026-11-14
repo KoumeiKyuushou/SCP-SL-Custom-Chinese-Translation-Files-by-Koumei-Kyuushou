@@ -1,0 +1,23 @@
+Use [CameraInputKey] to look around.
+Use [MoveForward][MoveLeft][MoveBackward][MoveRight] to move.
+Use [SprintKey] while moving to sprint.
+Use [InteractKey] to interact with doors and objects.
+Use [ProximityDeviceKey] to communicate with nearby players.
+Use [TeamDeviceKey] to communicate with your team.
+Press [RoleInfoScreenKey] for more information about your role.
+Press [ATTACKKEY] to ATTACK.\nUse [ReviveKey] on corpses to REVIVE fallen humans.
+Press [ATTACKKEY] to ATTACK.\nUse [ConsumeKey] on corpses to CONSUME fallen humans.
+Use [079InteractKey] to interact with the facility.\nPress [079PingKey] to ping places of interest to your team.\nPress [079MapKey] to open a map of the facility.
+Using your abilities comes at the cost of AUXILIARY POWER (AP), which regenerates automatically.
+You are rewarded with EXPERIENCE (EXP) when you assist your team with eliminations. When you gain enough EXP, your ACCESS TIER will be upgraded, unlocking new abilities.
+While DOCILE, use [StopCryKey] to lean on walls and silence your cries.\nWhen observed, hold [RageKey] to trigger RAGE.
+Press [AttackKey] to capture humans, sending them to the Pocket Dimension.
+You can walk through doors and windows without needing to open them.
+Your abilities rely on VIGOR, a form of stamina that regenerates when you move around or successfully attack enemies.
+You are extremely fast, but cannot move while observed until humans blink.\nWhile unobserved, press [AttackKey] to ATTACK.\nWhile observed, hold and release [TeleportKey] to BLINK, eliminating any human you come into contact with.
+Your vision is heavily limited. You can only see humans when they are nearby or making noise.\nPress [AttackKey] to ATTACK humans.\nUse [MimicryMenuKey] to replicate sounds and deceive humans.
+AMNESTIC CLOUD afflicts you with AMNESIA, affecting your vision and making SCP-939 appear invisible to you until one of you attacks the other. Keep an eye out for sudden changes in your vision!
+Escaping the POCKET DIMENSION will leave you TRAUMATIZED, making it easier for SCP-106 to track and kill you.
+SCP-173 cannot move while observed, but it can teleport every time you blink. Keep your distance and don’t let it leave your sight!
+SCP-079 can cause TESLA GATES to fire prematurely. If the nearest camera emits a blue light, proceed with caution.
+SCP-049’s initial attack inflicts CARDIAC ARREST, which is eventually lethal unless treated with medical items such as ADRENALINE or SCP-500. While afflicted, a second attack from SCP-049 is instantly lethal.

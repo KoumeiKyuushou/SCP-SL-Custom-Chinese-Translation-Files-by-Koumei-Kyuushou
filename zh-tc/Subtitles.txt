@@ -30,3 +30,5 @@
 <color=#608f38>\uf6de</color> 全體人員請注意，在A大門處偵測到<color=#608f38><b>[number]名混沌分裂者</b></color>。\n　　　　　　　　　　已授權使用致命武力。
 <color=#608f38>\uf6de</color> 已在A大門處確認新增<color=#608f38><b>[number]名混沌分裂者</b></color>。\n　　　　　　　　　　防禦模型：已更新。
 <color=#FF4545>\uf7b9</color> 站點恢復失敗——<color=#FF4545><b>終焉協議已啟動</b></color>。\n　　　　　　　　　　本設施的地下區域將在倒計時<color=#D12A2A><b>[time]秒</b></color>後自毀。
+緊急備用發電機已激活，預計將在倒數計時[time]秒後啟動。
+備用發電機已成功接入。中央電力已轉接至防禦模組。正在以緊急頻率廣播。

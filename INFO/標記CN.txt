@@ -37,11 +37,11 @@ Badges
 
 📝Class_Descriptions
       重生詳情，有修改。
-      上次修改：4.1.0
+      上次修改：DEV5.0.0
 
 📝Class_Names
       角色名字，有修改。
-      上次修改：4.1.0
+      上次修改：DEV5.0.0
 
 Class_Nicknames
       幫助，沒有修改。
@@ -67,12 +67,15 @@ ControlsSettings
       淨化程式面板，有修改。
       上次修改：4.0.0 Preview A
 
+Dialog
+      新的按鍵提示，沒有修改。
+
 📝Disarming
       繳械文本，有修改。
       第三行文本原是聽從指揮或向隊友尋求幫助
       上次修改：4.1.0
 
-📝Doors
+Doors
       舊的門操作面板，沒有修改。
 
 📝Facility
@@ -89,6 +92,9 @@ ControlsSettings
 📝GameHints
       拾取上限文本，有修改。  
       上次修改：3.8.1
+
+Dialog
+      直接返回桌面的詢問，沒有修改。
 
 HID_Sign
       HID門上的面板文本。
@@ -145,6 +151,9 @@ MainMenu
 MenuWarnings
        集成顯示卡警告，沒有修改。
 
+MiscControls
+      新的暫停頁面？沒有修改。
+
 📝NewMainMenu
        主介面，有修改。
        上次修改：每一次更新都要修改
@@ -184,11 +193,11 @@ SCP079
 
 📝SCP049_HUD
        SCP096，有修改。
-       上次修改：4.1.0
+       上次修改：DEV5.0.0
 
 📝SCP079_HUD
        SCP079，有修改。
-       上次修改：4.0.0 Preview D
+       上次修改：DEV5.0.0
 
 📝SCP096_HUD
        SCP096，有修改。
@@ -216,6 +225,9 @@ SCP173_HUD
        SCP939，有修改。
        上次修改：4.1.0
 
+📝SCP953_HUD
+       SCP939，有修改。
+
 SCP1507_HUD
        SCP1507，沒有修改。
 
@@ -229,7 +241,7 @@ SCP1507_HUD
 
 📝Subtitle
        廣播文本，有修改。
-       上次修改：4.0.0
+       上次修改：DEV5.0.0
 
 📝Summary
        終局文本，有修改。

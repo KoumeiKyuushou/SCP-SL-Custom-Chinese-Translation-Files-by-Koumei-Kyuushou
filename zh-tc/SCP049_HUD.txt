@@ -5,7 +5,7 @@
 <B><color=#FF4747>❌</color></B> 這具屍體無法復甦
 <B><color=#FF4747>❌</color></B> 這具屍體已經被啃食殆盡了
 <B><color=#FF4747>❌</color></B> 只能啃食人類的屍體
-攻擊間隔
+ㅤ
 <B><color=#50DE47>✔️</color></B> 已拒絕復甦
 <color=#FFC338>\uf05a</color>  按下 <B>[key]</B> 鍵拒絕再次復甦
 <color=#FF4747>\uf070</color>  未選定到目標

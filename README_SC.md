@@ -70,37 +70,37 @@
 
   1️⃣ 将下载的压缩包解压；
 
-   ![步骤1](./Assets/How-to-use/1.png)
+   ![步骤1](./Assets/How-to-use/1.webp)
 
 <br>
 
-  2️⃣ 解压出来的文件夹应该叫“koumei_zh_tc”或“koumei_zh_sc”，否则就是被嵌套在解压文件夹之中。复制或剪切该文件夹；
+  2️⃣ 解压出来的文件夹应该叫“koumei_zh_tc”或“koumei_zh_sc”(dev版本帶有_dev)，否则就是被嵌套在解压文件夹之中。复制或剪切该文件夹；
 
-   ![步骤2](./Assets/How-to-use/2.png)
+   ![步骤2](./Assets/How-to-use/2.webp)
 
 <br>
 
   3️⃣ 在Steam找到SCP: Secret Laboratory右键，如图所示前往 管理 > 浏览本地文件 ；
 
-   ![步骤3](./Assets/How-to-use/3.png)
+   ![步骤3](./Assets/How-to-use/3.webp)
 
 <br>
 
   4️⃣ 在打开的资源管理器窗口中前往Translations文件夹；
 
-   ![步骤4](./Assets/How-to-use/4.png)
+   ![步骤4](./Assets/How-to-use/4.webp)
 
 <br>
 
   5️⃣ 右键粘贴之前复制或剪切的文件夹，更新时同理，直接覆盖即可；
 
-   ![步骤5](./Assets/How-to-use/5.png)
+   ![步骤5](./Assets/How-to-use/5.webp)
 
 <br>
 
   6️⃣ 在游戏中修改语言即可，一些地方可能需要重启游戏生效。
 
-   ![步骤6](./Assets/How-to-use/6.png)
+   ![步骤6](./Assets/How-to-use/6.webp)
 
 <br>
 
@@ -135,8 +135,8 @@
    * 重生时尽量防止遮挡，不丢失原版信息。
 
    <p align="center">
-    <img src="https://github.com/KoumeiKyuushou/SCP-SL-Custom-Chinese-Translation-Files-by-Koumei-Kyuushou/blob/stable/Assets/Features/重生1.png?raw=true" alt="重生1" width="49%">
-    <img src="https://github.com/KoumeiKyuushou/SCP-SL-Custom-Chinese-Translation-Files-by-Koumei-Kyuushou/blob/stable/Assets/Features/重生2.png?raw=true" alt="重生2" width="49%">
+    <img src="https://github.com/KoumeiKyuushou/SCP-SL-Custom-Chinese-Translation-Files-by-Koumei-Kyuushou/blob/stable/Assets/Features/重生1.webp?raw=true" alt="重生1" width="49%">
+    <img src="https://github.com/KoumeiKyuushou/SCP-SL-Custom-Chinese-Translation-Files-by-Koumei-Kyuushou/blob/stable/Assets/Features/重生2.webp?raw=true" alt="重生2" width="49%">
    </p>
 
 <br>

@@ -21,9 +21,9 @@
       src="https://img.shields.io/badge/stable-v4.2.0-3F7ED4?style=for-the-badge"
     />
   </a>
-  <a href="https://github.com/KoumeiKyuushou/SCP-SL-Custom-Chinese-Translation-Files-by-Koumei-Kyuushou/releases/tag/v4.0.0PreviewD">
+  <a href="https://github.com/KoumeiKyuushou/SCP-SL-Custom-Chinese-Translation-Files-by-Koumei-Kyuushou/releases/tag/dev5.0.0c">
     <img
-      src="https://img.shields.io/badge/dev(old)-v4.0.0PreviewD-FFCB33?style=for-the-badge"
+      src="https://img.shields.io/badge/dev(new)-v5.0.0C-FFCB33?style=for-the-badge"
     />
   </a>
     <a href="https://github.com/KoumeiKyuushou/SCP-SL-Custom-Chinese-Translation-Files-by-Koumei-Kyuushou/issues">
@@ -70,37 +70,37 @@
 
   1️⃣ 將下載的壓縮檔解壓縮；
   
-   ![步驟1](./Assets/How-to-use/1.png)
+   ![步驟1](./Assets/How-to-use/1.webp)
 
 <br>
 
-  2️⃣ 解壓縮出來的檔案夾應該叫“koumei_zh_tc”或“koumei_zh_sc”，否則就是被嵌套在了解壓縮檔案夾之中。複製或剪下該檔案；
+  2️⃣ 解壓縮出來的檔案夾應該叫“koumei_zh_tc”或“koumei_zh_sc”(dev版本帶有_dev)，否則就是被嵌套在了解壓縮檔案夾之中。複製或剪下該檔案；
 
-   ![步驟2](./Assets/How-to-use/2.png)
+   ![步驟2](./Assets/How-to-use/2.webp)
 
 <br>
 
   3️⃣ 在Steam找到SCP: Secret Laboratory右鍵，如圖所示前往 管理 > 瀏覽本機檔案 ；
 
-   ![步驟3](./Assets/How-to-use/3.png)
+   ![步驟3](./Assets/How-to-use/3.webp)
 
 <br>
 
   4️⃣ 在打開的檔案總管視窗中前往Translations檔案夾；
 
-   ![步驟4](./Assets/How-to-use/4.png)
+   ![步驟4](./Assets/How-to-use/4.webp)
 
 <br>
 
   5️⃣ 右鍵貼上之前複製或剪下的檔案夾，更新時同理，直接覆蓋即可；
 
-   ![步驟5](./Assets/How-to-use/5.png)
+   ![步驟5](./Assets/How-to-use/5.webp)
 
 <br>
 
   6️⃣ 在遊戲中修改語言即可，一些地方可能需要重啟遊戲生效。
 
-   ![步驟6](./Assets/How-to-use/6.png)
+   ![步驟6](./Assets/How-to-use/6.webp)
 
 <br>
 
@@ -125,8 +125,8 @@
   * 重生時盡量防止遮擋，不丟失原版訊息。
 
    <p align="center">
-    <img src="https://github.com/KoumeiKyuushou/SCP-SL-Custom-Chinese-Translation-Files-by-Koumei-Kyuushou/blob/stable/Assets/Features/重生1.png?raw=true" alt="重生1" width="49%">
-    <img src="https://github.com/KoumeiKyuushou/SCP-SL-Custom-Chinese-Translation-Files-by-Koumei-Kyuushou/blob/stable/Assets/Features/重生2.png?raw=true" alt="重生2" width="49%">
+    <img src="https://github.com/KoumeiKyuushou/SCP-SL-Custom-Chinese-Translation-Files-by-Koumei-Kyuushou/blob/stable/Assets/Features/重生1.webp?raw=true" alt="重生1" width="49%">
+    <img src="https://github.com/KoumeiKyuushou/SCP-SL-Custom-Chinese-Translation-Files-by-Koumei-Kyuushou/blob/stable/Assets/Features/重生2.webp?raw=true" alt="重生2" width="49%">
    </p>
 
 <br>
@@ -198,7 +198,7 @@
   
    [**STABLE 4.2.0 - 14.2.x**](https://github.com/KoumeiKyuushou/SCP-SL-Custom-Chinese-Translation-Files-by-Koumei-Kyuushou/releases/download/v4.2.0/zh_tc_bykoumei_4.2.0_14.2.x.zip)
 
-   [**DEV 4.0.0 - 14.2.7**](https://github.com/KoumeiKyuushou/SCP-SL-Custom-Chinese-Translation-Files-by-Koumei-Kyuushou/releases/download/v4.0.0PreviewD/zh_tc_bykoumei_4.0.0previewD_14.2.7.zip)
+   [**DEV 5.0.0 C - Bata 15.0**](https://github.com/KoumeiKyuushou/SCP-SL-Custom-Chinese-Translation-Files-by-Koumei-Kyuushou/releases/download/dev5.0.0c/zh_tc_bykoumei_dev5.0.0c_b15.0.zip.zip)
 
 <br>
 
@@ -220,7 +220,7 @@
 
 [![Contributors](https://contrib.rocks/image?repo=KoumeiKyuushou/SCP-SL-Custom-Chinese-Translation-Files-by-Koumei-Kyuushou)](https://github.com/KoumeiKyuushou/SCP-SL-Custom-Chinese-Translation-Files-by-Koumei-Kyuushou/graphs/contributors)
 
-_08/11/26_  
+_15/11/26_  
 _By Koumei Kyuushou_
 
 <br clear="all" />

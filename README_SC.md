@@ -23,7 +23,7 @@
   </a>
   <a href="https://github.com/KoumeiKyuushou/SCP-SL-Custom-Chinese-Translation-Files-by-Koumei-Kyuushou/releases/tag/dev5.0.0c">
     <img
-      src="https://img.shields.io/badge/dev(new)-v5.0.0C-FFCB33?style=for-the-badge"
+      src="https://img.shields.io/badge/dev(new)-v5.0.0D-FFCB33?style=for-the-badge"
     />
   </a>
     <a href="https://github.com/KoumeiKyuushou/SCP-SL-Custom-Chinese-Translation-Files-by-Koumei-Kyuushou/issues">
@@ -208,7 +208,7 @@
 
    [**STABLE 4.2.0 - 14.2.x**](https://github.com/KoumeiKyuushou/SCP-SL-Custom-Chinese-Translation-Files-by-Koumei-Kyuushou/releases/download/v4.2.0/zh_sc_bykoumei_4.2.0_14.2.x.zip)
 
-   [**DEV 5.0.0 C - Beta 15.0**](https://github.com/KoumeiKyuushou/SCP-SL-Custom-Chinese-Translation-Files-by-Koumei-Kyuushou/releases/download/dev5.0.0c/zh_sc_bykoumei_dev5.0.0c_b15.0.zip.zip)
+   [**DEV 5.0.0 D - Beta 15.0**](https://github.com/KoumeiKyuushou/SCP-SL-Custom-Chinese-Translation-Files-by-Koumei-Kyuushou/releases/download/dev5.0.0d/zh_sc_bykoumei_dev5.0.0d_b15.0.zip)
 
 <br>
 
@@ -230,7 +230,7 @@
 
 [![Contributors](https://contrib.rocks/image?repo=KoumeiKyuushou/SCP-SL-Custom-Chinese-Translation-Files-by-Koumei-Kyuushou)](https://github.com/KoumeiKyuushou/SCP-SL-Custom-Chinese-Translation-Files-by-Koumei-Kyuushou/graphs/contributors)
 
-_15/11/26_  
+_18/11/26_  
 _By Koumei Kyuushou_
 
 <br clear="all" />

@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="./Assets/logo/NEWLOGO.png" alt="logo" width="400">
+  <img src="./Assets/logo/kosuzulogoT.png" alt="logo" width="400">
 </p>
 
 <h1 align="center">KOUMEI的中文自定义翻译文件</h1>

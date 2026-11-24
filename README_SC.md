@@ -53,8 +53,12 @@
 </div>
 
 <div align="center">
+  
+  # 🏷️ 最新消息
 
-  # ⚠️ 使用前请阅读《使用前须知》
+   ![news](https://github.com/KoumeiKyuushou/SCP-SL-Custom-Chinese-Translation-Files-by-Koumei-Kyuushou/blob/stable/Assets/news/261124/news_261124_sc.png)
+
+  # ⚠️ 使用前请阅读并了解
 
 </div>
 

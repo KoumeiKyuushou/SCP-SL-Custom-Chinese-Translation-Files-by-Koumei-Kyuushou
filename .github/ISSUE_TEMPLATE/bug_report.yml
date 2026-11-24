@@ -56,11 +56,13 @@ body:
         - ControlsSettings.txt
         - DeathReasons.txt
         - DecontaminationDisplays.txt
+        - Dialog.txt
         - Disarming.txt
         - Doors.txt
         - Facility.txt
         - Footprints.txt
         - GameHints.txt
+        - GeneralPopups.txt
         - HID_Sign.txt
         - Hotkeys.txt
         - HumanAbilities.txt
@@ -77,14 +79,17 @@ body:
         - LoadingHints.txt
         - MainMenu.txt
         - MenuWarnings.txt
+        - MiscControls.txt
         - NewMainMenu.txt
         - Nuke.txt
         - Nuke_Silo_Sign.txt
         - OtherSettings.txt
         - Overwatch_HUD.txt
+        - ParticleDisruptorDisplay.txt
         - RA_RoleManagement.txt
         - ReportForm.txt
         - RespawnTooltip.txt
+        - RussiaRelay.txt
         - SCP_Interfaces.txt
         - SCP079.txt
         - SCP079_HUD.txt
@@ -97,6 +102,7 @@ body:
         - SCP939_HUD.txt
         - SCP1507_HUD.txt
         - SCP3114_HUD.txt
+        - SCP953_HUD.txt
         - SettingsCategories.txt
         - Subtitle.txt
         - Summary.txt

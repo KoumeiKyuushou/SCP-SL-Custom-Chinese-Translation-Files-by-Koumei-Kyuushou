@@ -70,7 +70,7 @@ ControlsSettings
 
 📝Dialog
       新的按鍵提示，有修改。
-      上次修改：DEV5.0.0B
+      上次修改：DEV5.0.0C
 
 📝Disarming
       繳械文本，有修改。
@@ -154,11 +154,11 @@ MenuWarnings
        集成顯示卡警告，沒有修改。
 
 MiscControls
-      新的暫停頁面？沒有修改。
+       沒有修改。
 
 📝NewMainMenu
-       主介面，有修改。
-       上次修改：每一次更新都要修改
+       主介面，有修改。斃掉了。
+       上次修改：DEV5.0.0C
 
 📝Nuke
        核彈面板，有修改。
@@ -228,7 +228,10 @@ SCP173_HUD
        上次修改：4.1.0
 
 📝SCP953_HUD
-       SCP939，有修改。
+       SCP953，有修改。
+
+SCP953VoiceLines.txt
+       953語音，沒修改。
 
 SCP1507_HUD
        SCP1507，沒有修改。
@@ -236,6 +239,10 @@ SCP1507_HUD
 📝SCP3114_HUD
        SCP3114，有修改。
        上次修改：DEV5.0.0C
+
+📝ServerMenu
+       PLAY介面，有修改。下方倆按鈕漢字加粗。
+       上次修改：DEV5.0.0E
 
 📝SettingsCategories
        設定選項標籤，有修改。

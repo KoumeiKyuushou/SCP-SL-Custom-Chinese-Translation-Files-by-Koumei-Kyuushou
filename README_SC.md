@@ -16,9 +16,9 @@
  [![Tencent QQ](https://img.shields.io/badge/Tencent_QQ-%2312B7F5.svg?style=for-the-badge&logo=qq&logoColor=white)](https://qun.qq.com/universal-share/share?ac=1&authKey=sESt9q243y20c8HCe7x2lA%2F8N18Sy4dqfLuYVmY5V7ZUD2GjzQKJfo7K2lcjw5w2&busi_data=eyJncm91cENvZGUiOiI3MzkzMzc2MjciLCJ0b2tlbiI6IjExVlpja00vRjF2ZzR2STA1OTJsZ09Hcm0wSTBUMVVMV0VoNzQzcmdIKzAwdktYZG1QOG02RTI0SlJXV1BPckEiLCJ1aW4iOiIyOTYwNTI0Mjk0In0%3D&data=zBhqE383XJ5UNd1oGxbOdCqattuMTg6_J5dzusr4v8UnoQ8PEKTP3ZcdYaf_GtrfJ7QlpMNoXl5qSt8u5h6_5w&svctype=4&tempid=h5_group_info)
 
 <p align="center">
-  <a href="https://github.com/KoumeiKyuushou/SCP-SL-Custom-Chinese-Translation-Files-by-Koumei-Kyuushou/releases/tag/v4.2.0">
+  <a href="https://github.com/KoumeiKyuushou/SCP-SL-Custom-Chinese-Translation-Files-by-Koumei-Kyuushou/releases/tag/stable4.2.1">
     <img
-      src="https://img.shields.io/badge/stable-v4.2.0-3F7ED4?style=for-the-badge"
+      src="https://img.shields.io/badge/stable-v4.2.1-3F7ED4?style=for-the-badge"
     />
   </a>
   <a href="https://github.com/KoumeiKyuushou/SCP-SL-Custom-Chinese-Translation-Files-by-Koumei-Kyuushou/releases/tag/dev5.0.0e">
@@ -210,25 +210,31 @@
 
 # ⬇️ 下载简体中文版本
 
-   [**STABLE 4.2.0 - 14.2.x**](https://github.com/KoumeiKyuushou/SCP-SL-Custom-Chinese-Translation-Files-by-Koumei-Kyuushou/releases/download/v4.2.0/zh_sc_bykoumei_4.2.0_14.2.x.zip)
+   [**STABLE 4.2.1 - 14.2.x**](https://github.com/KoumeiKyuushou/SCP-SL-Custom-Chinese-Translation-Files-by-Koumei-Kyuushou/releases/download/stable4.2.1/zh_sc_bykoumei_4.2.1_14.2.x.zip)
 
    [**DEV 5.0.0 E - Beta 15.0**](https://github.com/KoumeiKyuushou/SCP-SL-Custom-Chinese-Translation-Files-by-Koumei-Kyuushou/releases/download/dev5.0.0e/zh_sc_bykoumei_dev5.0.0e_b15.0.zip)
 
 <br>
 
------------------------------
+----------------------------------------------
 
 <div align="center">
 
-# 祝你玩的开心！
+# 祝你玩得开心！
 
 </div>
 
-<img src="https://github.com/KoumeiKyuushou/SCP-SL-Custom-Chinese-Translation-Files-by-Koumei-Kyuushou/raw/stable/Assets/ainime/%40agz2536368_%23%E8%A5%BF%E8%A1%8C%E5%AF%BA%E5%B9%BD%E3%80%85%E5%AD%90%F0%9F%8D%A1.jpg" align="left" width="400" hspace="15" vspace="5" alt="西行寺幽幽子">
+<img src="https://github.com/KoumeiKyuushou/SCP-SL-Custom-Chinese-Translation-Files-by-Koumei-Kyuushou/blob/stable/Assets/ainime/%40tartea_tartar_tartea%EF%BC%88%E3%81%9F%E3%82%8B%E3%81%A6%E3%81%83%EF%BC%89_%23%E6%9D%B1%E6%96%B9Project%20%23%E6%9C%AC%E5%B1%85%E5%B0%8F%E9%88%B4.jpg" align="left" width="400" hspace="15" vspace="5" alt="@tartea_tartar_tartea（たるてぃ）_#東方Project #本居小鈴.jpg">
 
-> 来源：[@agz2536368_まんまるウミウシ](https://x.com/agz2536368/status/2110207247485894913)  
-> 贴文：https://x.com/agz2536368/status/2110207247485894913  
-> 侵删
+图片画师
+[tartea（たるてぃ）](https://x.com/tartea_tartar)
+
+图片来源
+https://x.com/tartea_tartar/status/2087165752717820241
+
+侵删
+
+----------------------------------------------
 
 **贡献者**
 

@@ -1,0 +1,13 @@
+<size=24>隐藏无人服</size>
+<size=24>隐藏已满服</size>
+服务器
+玩家数量
+徽章认证
+地区
+<b>直接连接</b>
+<b>快速重连</b>
+创建本地服务器
+创建本地服务器?
+这是一个用于测试的开发工具。\n使用此功能创建服务器会导致许多游戏功能 <b>无法</b> 正常运行。\n\n请访问 <u><link="https://link.scpslgame.com/hosting-a-server">link.scpslgame.com/hosting-a-server</link></u> 学习如何正确地搭建服务器来获得正常的游戏体验。
+无视风险仍然创建
+连接服务器

@@ -60,6 +60,8 @@
 
   # ⚠️ 使用前请阅读并了解
 
+   使用本项目前，请先阅读并理解以下相关说明。使用本项目即代表您已知悉相关使用规范、免责声明及其他必要事项。
+
 </div>
 
 ## ℹ️ 说明
@@ -244,3 +246,49 @@ _26/11/26_
 _By Koumei Kyuushou_
 
 <br clear="all" />
+
+----------------------------------------------
+
+<div align="center">
+
+# 外部素材
+
+</div>
+
+> <i>本项目所使用的アニメ图片均附有原绘师信息或原始作品来源链接，以供查阅和追溯，并借此尊重原作者的创作。部分素材可能未明确标注其转载或使用限制，且本项目对该类素材的使用并不代表已获得原作者正式授权。
+> 
+> 若权利人认为本项目所使用的任何素材涉及侵权或其他权利问题，请通过电子邮件联系项目维护者（2960524294zy@Gmail.com）。收到相关通知后，将移除或处理相关素材。
+
+> 本项目 LOGO 中所使用的本居小铃图像素材源自 4rion 的创作：https://booth.pm/ja/items/8356963
+> 
+> 若权利人认为本项目所使用的任何素材涉及侵权或其他权利问题，请通过电子邮件联系项目维护者（2960524294zy@Gmail.com）。收到相关通知后，将移除或处理相关素材。
+
+<br>
+
+> <i>All Anime images used in this project are accompanied by information about their original artists or links to their original sources, where available, for reference and traceability, and in recognition of the original creators' work. Some materials may not explicitly state any restrictions on reposting or use. The use of such materials in this project does not imply that formal permission has been obtained from the original creators.
+> 
+> If any rights holder believes that any material used in this project infringes upon their rights or raises any other rights-related concerns, please contact the project maintainer via email (2960524294zy@Gmail.com). Upon receipt of such a notice, the relevant material will be removed or otherwise dealt with.
+
+> The image of Kosuzu Motoori used in this project's LOGO originates from a creation by 4rion: https://booth.pm/ja/items/8356963
+> 
+> If any rights holder believes that any material used in this project infringes upon their rights or raises any other rights-related concerns, please contact the project maintainer via email (2960524294zy@Gmail.com). Upon receipt of such a notice, the relevant material will be removed or otherwise dealt with.
+
+<br>
+
+> <i>本プロジェクトで使用しているアニメ画像には、参照および出典の追跡ができるよう、可能な限り原作者の情報または原作品へのリンクを記載し、原作者の創作を尊重しています。一部の素材については、転載や使用に関する制限が明確に記載されていない場合があります。これらの素材を本プロジェクトで使用していることは、原作者から正式な許諾を得ていることを意味するものではありません。
+> 
+> 本プロジェクトで使用している素材について、権利者の方が権利侵害またはその他の権利上の問題があると判断された場合は、プロジェクトの管理者までメール（2960524294zy@Gmail.com）にてご連絡ください。ご連絡をいただいた後、該当する素材を削除するなど、適切に対応いたします。
+
+> 本プロジェクトの LOGO に使用している本居小鈴の画像素材は、4rion 氏の作品に由来します：https://booth.pm/ja/items/8356963
+> 
+> 本プロジェクトで使用している素材について、権利者の方が権利侵害またはその他の権利上の問題があると判断された場合は、プロジェクトの管理者までメール（2960524294zy@Gmail.com）にてご連絡ください。ご連絡をいただいた後、該当する素材を削除するなど、適切に対応いたします。
+
+<br>
+
+> <i>본 프로젝트에서 사용된 Anime 이미지에는 원작자의 정보 또는 원본 작품 링크가 가능한 한 첨부되어 있으며, 이를 통해 출처를 확인하고 추적할 수 있도록 하여 원작자의 창작물을 존중하고자 합니다. 일부 자료에는 재게시 또는 사용에 관한 제한 사항이 명확하게 명시되어 있지 않을 수 있습니다. 본 프로젝트에서 이러한 자료를 사용하고 있다는 사실이 원작자로부터 정식 허가를 받았음을 의미하지는 않습니다.
+> 
+> 본 프로젝트에서 사용된 자료와 관련하여 권리자가 저작권 침해 또는 기타 권리 관련 문제가 있다고 판단하시는 경우, 이메일(2960524294zy@Gmail.com)을 통해 프로젝트 관리자에게 연락해 주시기 바랍니다. 관련 통보를 받은 후 해당 자료를 삭제하거나 기타 적절한 조치를 취하겠습니다.
+
+> 본 프로젝트 LOGO에 사용된 모토오리 코스즈의 이미지 소재는 4rion의 작품에서 비롯되었습니다: https://booth.pm/ja/items/8356963
+> 
+> 본 프로젝트에서 사용된 자료와 관련하여 권리자가 저작권 침해 또는 기타 권리 관련 문제가 있다고 판단하시는 경우, 이메일(2960524294zy@Gmail.com)을 통해 프로젝트 관리자에게 연락해 주시기 바랍니다. 관련 통보를 받은 후 해당 자료를 삭제하거나 기타 적절한 조치를 취하겠습니다.
